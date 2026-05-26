@@ -1,12 +1,18 @@
 let currentQuestions = [];
-
-const numberOfQuestions = 3;
+let currentQuizConfig = null;
+let currentWarnings = [];
 
 const startScreen = document.getElementById("start-screen");
 const quizScreen = document.getElementById("quiz-screen");
 const resultsScreen = document.getElementById("results-screen");
 
-const startButton = document.getElementById("start-button");
+const quizMenu = document.getElementById("quiz-menu");
+const quizTitle = document.getElementById("quiz-title");
+const quizDescription = document.getElementById("quiz-description");
+const quizWarnings = document.getElementById("quiz-warnings");
+
+const backButton = document.getElementById("back-button");
+const resultsBackButton = document.getElementById("results-back-button");
 const submitButton = document.getElementById("submit-button");
 const restartButton = document.getElementById("restart-button");
 
@@ -14,20 +20,66 @@ const quizForm = document.getElementById("quiz-form");
 const scoreSummary = document.getElementById("score-summary");
 const feedback = document.getElementById("feedback");
 
-startButton.addEventListener("click", startQuiz);
-submitButton.addEventListener("click", submitQuiz);
-restartButton.addEventListener("click", startQuiz);
+document.addEventListener("DOMContentLoaded", buildQuizMenu);
 
-function startQuiz() {
-  currentQuestions = getRandomQuestions(questionBank, numberOfQuestions);
+backButton.addEventListener("click", showStartScreen);
+resultsBackButton.addEventListener("click", showStartScreen);
+submitButton.addEventListener("click", submitQuiz);
+restartButton.addEventListener("click", function () {
+  if (currentQuizConfig) {
+    startQuiz(currentQuizConfig.id);
+  }
+});
+
+function buildQuizMenu() {
+  quizMenu.innerHTML = "";
+
+  quizConfigs.forEach((quizConfig) => {
+    const button = document.createElement("button");
+    button.className = "quiz-menu-button";
+    button.type = "button";
+    button.textContent = `${quizConfig.title} (${quizConfig.totalQuestions} questions)`;
+
+    button.addEventListener("click", function () {
+      startQuiz(quizConfig.id);
+    });
+
+    quizMenu.appendChild(button);
+  });
+}
+
+function startQuiz(quizId) {
+  currentQuizConfig = quizConfigs.find((quiz) => quiz.id === quizId);
+
+  if (!currentQuizConfig) {
+    alert("Quiz not found.");
+    return;
+  }
+
+  const quizBuildResult = buildQuizQuestions(currentQuizConfig);
+  currentQuestions = quizBuildResult.questions;
+  currentWarnings = quizBuildResult.warnings;
 
   startScreen.classList.add("hidden");
   resultsScreen.classList.add("hidden");
   quizScreen.classList.remove("hidden");
 
+  quizTitle.textContent = currentQuizConfig.title;
+  quizDescription.textContent = `This quiz is configured to pull ${currentQuizConfig.totalQuestions} questions.`;
+
   quizForm.innerHTML = "";
   feedback.innerHTML = "";
   scoreSummary.textContent = "";
+
+  showWarnings();
+
+  if (currentQuestions.length === 0) {
+    quizForm.innerHTML = "<p>No questions are currently available for this quiz.</p>";
+    submitButton.classList.add("hidden");
+    return;
+  }
+
+  submitButton.classList.remove("hidden");
 
   currentQuestions.forEach((questionItem, questionIndex) => {
     const questionDiv = document.createElement("div");
@@ -36,6 +88,11 @@ function startQuiz() {
     const questionHeading = document.createElement("h3");
     questionHeading.textContent = `Question ${questionIndex + 1}`;
     questionDiv.appendChild(questionHeading);
+
+    const bankLabel = document.createElement("p");
+    bankLabel.className = "bank-label";
+    bankLabel.textContent = `Question bank: ${questionItem.bank}`;
+    questionDiv.appendChild(bankLabel);
 
     const questionText = document.createElement("p");
     questionText.textContent = questionItem.question;
@@ -46,7 +103,7 @@ function startQuiz() {
 
     const shuffledChoices = shuffleArray([...questionItem.choices]);
 
-    shuffledChoices.forEach((choice, choiceIndex) => {
+    shuffledChoices.forEach((choice) => {
       const label = document.createElement("label");
 
       const radio = document.createElement("input");
@@ -62,6 +119,56 @@ function startQuiz() {
     questionDiv.appendChild(choicesDiv);
     quizForm.appendChild(questionDiv);
   });
+}
+
+function buildQuizQuestions(quizConfig) {
+  let selectedQuestions = [];
+  let warnings = [];
+
+  quizConfig.questionGroups.forEach((group) => {
+    const availableQuestions = questionBank.filter((question) => question.bank === group.bank);
+    const shuffledQuestions = shuffleArray([...availableQuestions]);
+    const questionsToUse = shuffledQuestions.slice(0, group.count);
+
+    if (availableQuestions.length < group.count) {
+      warnings.push(
+        `${group.bank}: requested ${group.count}, but only ${availableQuestions.length} available.`
+      );
+    }
+
+    selectedQuestions = selectedQuestions.concat(questionsToUse);
+  });
+
+  return {
+    questions: shuffleArray(selectedQuestions),
+    warnings: warnings
+  };
+}
+
+function showWarnings() {
+  quizWarnings.innerHTML = "";
+
+  if (currentWarnings.length === 0) {
+    return;
+  }
+
+  const warningBox = document.createElement("div");
+  warningBox.className = "warning-box";
+
+  const heading = document.createElement("p");
+  heading.innerHTML = "<strong>Question bank warning:</strong>";
+  warningBox.appendChild(heading);
+
+  const list = document.createElement("ul");
+
+  currentWarnings.forEach((warning) => {
+    const item = document.createElement("li");
+    item.textContent = warning;
+    list.appendChild(item);
+  });
+
+  warningBox.appendChild(list);
+  quizWarnings.appendChild(warningBox);
 }
 
 function submitQuiz() {
@@ -87,6 +194,9 @@ function submitQuiz() {
     resultLine.className = isCorrect ? "correct" : "incorrect";
     resultLine.textContent = isCorrect ? "Correct" : "Incorrect";
 
+    const bankLine = document.createElement("p");
+    bankLine.innerHTML = `<strong>Question bank:</strong> ${questionItem.bank}`;
+
     const questionLine = document.createElement("p");
     questionLine.innerHTML = `<strong>Question:</strong> ${questionItem.question}`;
 
@@ -100,6 +210,7 @@ function submitQuiz() {
     explanationLine.innerHTML = `<strong>Explanation:</strong> ${questionItem.explanation}`;
 
     feedbackItem.appendChild(resultLine);
+    feedbackItem.appendChild(bankLine);
     feedbackItem.appendChild(questionLine);
     feedbackItem.appendChild(yourAnswerLine);
     feedbackItem.appendChild(correctAnswerLine);
@@ -114,9 +225,10 @@ function submitQuiz() {
   resultsScreen.classList.remove("hidden");
 }
 
-function getRandomQuestions(allQuestions, amount) {
-  const shuffled = shuffleArray([...allQuestions]);
-  return shuffled.slice(0, amount);
+function showStartScreen() {
+  quizScreen.classList.add("hidden");
+  resultsScreen.classList.add("hidden");
+  startScreen.classList.remove("hidden");
 }
 
 function shuffleArray(array) {
