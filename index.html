@@ -11,33 +11,38 @@
     <header>
       <h1>Decoding Part 107 Practice Quizzes</h1>
       <p class="intro">
-        This pilot quiz pulls a random set of METAR practice questions and gives immediate feedback.
-        Scores are not saved.
+        Choose a practice quiz below. Each quiz pulls a random set of questions from one or more question banks.
+        Scores are shown immediately but are not saved.
       </p>
     </header>
 
     <section class="card" id="start-screen">
-      <h2>METAR Practice Pilot</h2>
+      <h2>Available Practice Quizzes</h2>
       <p>
-        This quiz will randomly select <strong>3 questions</strong> from a small METAR question bank.
+        This page is currently being built. Some quizzes may show warnings until all question banks are fully loaded.
       </p>
-      <button id="start-button">Start Quiz</button>
+      <div id="quiz-menu" class="quiz-menu"></div>
     </section>
 
     <section class="card hidden" id="quiz-screen">
-      <h2 id="quiz-title">METAR Practice</h2>
+      <button id="back-button" class="secondary-button" type="button">Back to Quiz Menu</button>
+      <h2 id="quiz-title"></h2>
+      <p id="quiz-description" class="quiz-description"></p>
+      <div id="quiz-warnings"></div>
       <form id="quiz-form"></form>
-      <button id="submit-button">Submit Quiz</button>
+      <button id="submit-button" type="button">Submit Quiz</button>
     </section>
 
     <section class="card hidden" id="results-screen">
+      <button id="results-back-button" class="secondary-button" type="button">Back to Quiz Menu</button>
       <h2>Results</h2>
       <p id="score-summary"></p>
       <div id="feedback"></div>
-      <button id="restart-button">Try Another Random Version</button>
+      <button id="restart-button" type="button">Try Another Random Version</button>
     </section>
   </main>
 
+  <script src="quiz-configs.js"></script>
   <script src="questions.js"></script>
   <script src="app.js"></script>
 </body>
