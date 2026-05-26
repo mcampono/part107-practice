@@ -172,6 +172,25 @@ function showWarnings() {
 }
 
 function submitQuiz() {
+  const unansweredQuestions = [];
+
+  currentQuestions.forEach((questionItem, questionIndex) => {
+    const selectedAnswer = document.querySelector(
+      `input[name="question-${questionIndex}"]:checked`
+    );
+
+    if (!selectedAnswer) {
+      unansweredQuestions.push(questionIndex + 1);
+    }
+  });
+
+  if (unansweredQuestions.length > 0) {
+    alert(
+      `Please answer every question before submitting.\n\nUnanswered question(s): ${unansweredQuestions.join(", ")}`
+    );
+    return;
+  }
+
   let score = 0;
   feedback.innerHTML = "";
 
@@ -180,7 +199,7 @@ function submitQuiz() {
       `input[name="question-${questionIndex}"]:checked`
     );
 
-    const studentAnswer = selectedAnswer ? selectedAnswer.value : "No answer selected";
+    const studentAnswer = selectedAnswer.value;
     const isCorrect = studentAnswer === questionItem.answer;
 
     if (isCorrect) {
