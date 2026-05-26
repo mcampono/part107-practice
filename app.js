@@ -19,8 +19,12 @@ const restartButton = document.getElementById("restart-button");
 const quizForm = document.getElementById("quiz-form");
 const scoreSummary = document.getElementById("score-summary");
 const feedback = document.getElementById("feedback");
+const bankStatus = document.getElementById("bank-status");
 
-document.addEventListener("DOMContentLoaded", buildQuizMenu);
+document.addEventListener("DOMContentLoaded", function () {
+  buildQuizMenu();
+  buildQuestionBankStatus();
+});
 
 backButton.addEventListener("click", showStartScreen);
 resultsBackButton.addEventListener("click", showStartScreen);
@@ -252,4 +256,162 @@ function showStartScreen() {
 
 function shuffleArray(array) {
   return array.sort(() => Math.random() - 0.5);
+}
+function buildQuestionBankStatus() {
+  if (!bankStatus) {
+    return;
+  }
+
+  const allQuizBankRequests = getAllQuizBankRequests();
+  const allRequestedBankNames = [...new Set(allQuizBankRequests.map((item) => item.bank))].sort();
+  const allQuestionBankNames = [...new Set(questionBank.map((question) => question.bank))].sort();
+
+  const questionCounts = countQuestionsByBank();
+  const warnings = [];
+
+  checkQuizBankShortages(allQuizBankRequests, questionCounts, warnings);
+  checkQuestionBankNames(allRequestedBankNames, allQuestionBankNames, warnings);
+  checkQuestionData(warnings);
+
+  bankStatus.innerHTML = "";
+
+  const summary = document.createElement("div");
+  summary.className = "status-summary";
+
+  summary.innerHTML = `
+    <p><strong>Total quizzes configured:</strong> ${quizConfigs.length}</p>
+    <p><strong>Unique banks requested by quizzes:</strong> ${allRequestedBankNames.length}</p>
+    <p><strong>Unique banks currently represented in questions.js:</strong> ${allQuestionBankNames.length}</p>
+    <p><strong>Total questions currently loaded:</strong> ${questionBank.length}</p>
+    <p><strong>Status warnings:</strong> ${warnings.length}</p>
+  `;
+
+  bankStatus.appendChild(summary);
+
+  const warningSection = document.createElement("div");
+  warningSection.className = warnings.length > 0 ? "warning-box" : "success-box";
+
+  if (warnings.length === 0) {
+    warningSection.innerHTML = "<p><strong>No problems detected.</strong></p>";
+  } else {
+    const heading = document.createElement("p");
+    heading.innerHTML = "<strong>Warnings to review:</strong>";
+    warningSection.appendChild(heading);
+
+    const list = document.createElement("ul");
+
+    warnings.forEach((warning) => {
+      const item = document.createElement("li");
+      item.textContent = warning;
+      list.appendChild(item);
+    });
+
+    warningSection.appendChild(list);
+  }
+
+  bankStatus.appendChild(warningSection);
+
+  const countsHeading = document.createElement("h3");
+  countsHeading.textContent = "Question Counts by Bank";
+  bankStatus.appendChild(countsHeading);
+
+  const countsList = document.createElement("div");
+  countsList.className = "bank-count-list";
+
+  allRequestedBankNames.forEach((bankName) => {
+    const count = questionCounts[bankName] || 0;
+    const row = document.createElement("p");
+    row.textContent = `${bankName}: ${count} question(s) loaded`;
+    countsList.appendChild(row);
+  });
+
+  bankStatus.appendChild(countsList);
+}
+
+function getAllQuizBankRequests() {
+  const requests = [];
+
+  quizConfigs.forEach((quiz) => {
+    quiz.questionGroups.forEach((group) => {
+      requests.push({
+        quizTitle: quiz.title,
+        bank: group.bank,
+        count: group.count
+      });
+    });
+  });
+
+  return requests;
+}
+
+function countQuestionsByBank() {
+  const counts = {};
+
+  questionBank.forEach((question) => {
+    if (!question.bank) {
+      return;
+    }
+
+    if (!counts[question.bank]) {
+      counts[question.bank] = 0;
+    }
+
+    counts[question.bank]++;
+  });
+
+  return counts;
+}
+
+function checkQuizBankShortages(allQuizBankRequests, questionCounts, warnings) {
+  allQuizBankRequests.forEach((request) => {
+    const available = questionCounts[request.bank] || 0;
+
+    if (available < request.count) {
+      warnings.push(
+        `${request.quizTitle}: bank "${request.bank}" requests ${request.count}, but only ${available} question(s) are loaded.`
+      );
+    }
+  });
+}
+
+function checkQuestionBankNames(allRequestedBankNames, allQuestionBankNames, warnings) {
+  allQuestionBankNames.forEach((bankName) => {
+    if (!allRequestedBankNames.includes(bankName)) {
+      warnings.push(
+        `questions.js contains bank "${bankName}", but no quiz currently requests that bank. This may be intentional or may be a spelling mismatch.`
+      );
+    }
+  });
+}
+
+function checkQuestionData(warnings) {
+  questionBank.forEach((question, index) => {
+    const questionNumber = index + 1;
+
+    if (!question.bank) {
+      warnings.push(`Question ${questionNumber} is missing a bank name.`);
+    }
+
+    if (!question.question) {
+      warnings.push(`Question ${questionNumber} is missing question text.`);
+    }
+
+    if (!Array.isArray(question.choices) || question.choices.length < 2) {
+      warnings.push(`Question ${questionNumber} must have at least two choices.`);
+    }
+
+    if (!question.answer) {
+      warnings.push(`Question ${questionNumber} is missing a correct answer.`);
+    }
+
+    if (Array.isArray(question.choices) && question.answer && !question.choices.includes(question.answer)) {
+      warnings.push(
+        `Question ${questionNumber} has answer "${question.answer}", but that answer is not listed as one of the choices.`
+      );
+    }
+
+    if (!question.explanation) {
+      warnings.push(`Question ${questionNumber} is missing an explanation.`);
+    }
+  });
 }
