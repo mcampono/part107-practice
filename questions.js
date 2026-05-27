@@ -1,5 +1,3 @@
-// Generated from updated Canvas question spreadsheet for Quizzes 1-16.
-// This file replaces the contents of questions.js.
 const questionBank = [
   {
     "bank": "VLOS",
@@ -10,9 +8,7 @@ const questionBank = [
       "A telescope"
     ],
     "answer": "Contact Lenses",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb784c242534be3e4ef0095e5f91d34a5",
-    "questionTitle": "VLOS 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "VLOS",
@@ -23,9 +19,7 @@ const questionBank = [
       "you are no longer required to maintain visual line of sight (since the visual observer can maintain visual line of sight)"
     ],
     "answer": "you are still required to maintain visual line of sight, regardless of the use of a visual observer",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g98d5d5aabdf025ca040b69565b316af1",
-    "questionTitle": "VLOS 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "VLOS",
@@ -36,9 +30,7 @@ const questionBank = [
       "Continue flying and rely on your first-person camera view"
     ],
     "answer": "Fly the UAV out from behind the building and regain visual line of sight as soon as practicable",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g43a92925c461afc105aefb8ff1d158e4",
-    "questionTitle": "VLOS 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "FAA Part 107 Background",
@@ -49,9 +41,7 @@ const questionBank = [
       "An airline transport pilot certificate"
     ],
     "answer": "A remote pilot certificate with a small UAS rating",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g58dd698542ebe16011c21d80badca94f",
-    "questionTitle": "FAA Licensing"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "FAA Part 107 Background",
@@ -62,9 +52,7 @@ const questionBank = [
       "Part 14"
     ],
     "answer": "Part 107",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbc6d6bf1c420a249786046c4542e9da7",
-    "questionTitle": "FAA Regs01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "FAA Part 107 Background",
@@ -75,9 +63,7 @@ const questionBank = [
       "Part 14"
     ],
     "answer": "Section 333",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1fbe11f8075003e92c4b4e58358ab9ca",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Sectional Charts Intro",
@@ -90,9 +76,7 @@ const questionBank = [
     "answer": "Class B",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace05.png",
-    "imageAlt": "Image for Airspace 10 question",
-    "itemId": "g3d270213e451905c8f74a7f37a9d3cce",
-    "questionTitle": "Airspace 10"
+    "imageAlt": "Question image for Airspace 10"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -105,9 +89,7 @@ const questionBank = [
     "answer": "Class D",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace01.png",
-    "imageAlt": "Image for Airspace Sectional Chart 01 question",
-    "itemId": "g095dea0e77a161037b15cbf51699d10f",
-    "questionTitle": "Airspace Sectional Chart 01"
+    "imageAlt": "Question image for Airspace Sectional Chart 01"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -120,9 +102,7 @@ const questionBank = [
     "answer": "2,500 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace01.png",
-    "imageAlt": "Image for Airspace Sectional Chart 02 question",
-    "itemId": "g3e018912b89475bbfc763c0246e3a4a8",
-    "questionTitle": "Airspace Sectional Chart 02"
+    "imageAlt": "Question image for Airspace Sectional Chart 02"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -135,9 +115,7 @@ const questionBank = [
     "answer": "Yes, this is controlled airspace that starts at the surface",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace01.png",
-    "imageAlt": "Image for Airspace Sectional Chart 03 question",
-    "itemId": "g3e75b5a272f4caddf8bbc16d0970e450",
-    "questionTitle": "Airspace Sectional Chart 03"
+    "imageAlt": "Question image for Airspace Sectional Chart 03"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -150,9 +128,7 @@ const questionBank = [
     "answer": "Class D",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace02.png",
-    "imageAlt": "Image for Airspace Sectional Chart 04 question",
-    "itemId": "g4de5d891228cc6b61c250f1bb52144d3",
-    "questionTitle": "Airspace Sectional Chart 04"
+    "imageAlt": "Question image for Airspace Sectional Chart 04"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -165,9 +141,7 @@ const questionBank = [
     "answer": "4,000 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace02.png",
-    "imageAlt": "Image for Airspace Sectional Chart 05 question",
-    "itemId": "g5e9f4fbb0f0092ee1feafa6a7fe065d8",
-    "questionTitle": "Airspace Sectional Chart 05"
+    "imageAlt": "Question image for Airspace Sectional Chart 05"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -180,9 +154,7 @@ const questionBank = [
     "answer": "Class C",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace03.png",
-    "imageAlt": "Image for Airspace Sectional Chart 06 question",
-    "itemId": "g983d3422a96e58cb6f2aff51363cf7f4",
-    "questionTitle": "Airspace Sectional Chart 06"
+    "imageAlt": "Question image for Airspace Sectional Chart 06"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -195,9 +167,7 @@ const questionBank = [
     "answer": "2,000 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace03.png",
-    "imageAlt": "Image for Airspace Sectional Chart 07 question",
-    "itemId": "g9239f61140390baff214af9e441acc03",
-    "questionTitle": "Airspace Sectional Chart 07"
+    "imageAlt": "Question image for Airspace Sectional Chart 07"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -210,9 +180,7 @@ const questionBank = [
     "answer": "No, the maximum altitude you can fly above the towers is 1,388 feet MSL which is below the floor of the outer ring.",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace03.png",
-    "imageAlt": "Image for Airspace Sectional Chart 08 question",
-    "itemId": "g1c2c8ca5bb16bf1249f515af8a0dcf77",
-    "questionTitle": "Airspace Sectional Chart 08"
+    "imageAlt": "Question image for Airspace Sectional Chart 08"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -225,9 +193,7 @@ const questionBank = [
     "answer": "Class E airspace",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace04.png",
-    "imageAlt": "Image for Airspace Sectional Chart 09 question",
-    "itemId": "gd620d4ba7acb19846e5d1d28aef890f5",
-    "questionTitle": "Airspace Sectional Chart 09"
+    "imageAlt": "Question image for Airspace Sectional Chart 09"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -240,9 +206,7 @@ const questionBank = [
     "answer": "Up to but not including 3,000 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace05.png",
-    "imageAlt": "Image for Airspace Sectional Chart 11 question",
-    "itemId": "g6ee03aee9d9d059088222aa4fb8f50d1",
-    "questionTitle": "Airspace Sectional Chart 11"
+    "imageAlt": "Question image for Airspace Sectional Chart 11"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -255,9 +219,7 @@ const questionBank = [
     "answer": "Class E to the surface",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace06.png",
-    "imageAlt": "Image for Airspace Sectional Chart 12 question",
-    "itemId": "g0dae4903a1a35fa272c64a2f4870f4e5",
-    "questionTitle": "Airspace Sectional Chart 12"
+    "imageAlt": "Question image for Airspace Sectional Chart 12"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -270,9 +232,7 @@ const questionBank = [
     "answer": "You need prior authorization because the Class E airspace extends to the surface.",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace06.png",
-    "imageAlt": "Image for Airspace Sectional Chart 14 question",
-    "itemId": "gfd3cfd171df6ed4109e38731d9ed0f01",
-    "questionTitle": "Airspace Sectional Chart 14"
+    "imageAlt": "Question image for Airspace Sectional Chart 14"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -285,9 +245,7 @@ const questionBank = [
     "answer": "Class B airspace",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Airspace07.png",
-    "imageAlt": "Image for Airspace Sectional Chart 15 question",
-    "itemId": "g88d4fa265cb5e48a4438cdc2b5be8acb",
-    "questionTitle": "Airspace Sectional Chart 15"
+    "imageAlt": "Question image for Airspace Sectional Chart 15"
   },
   {
     "bank": "METARs",
@@ -298,9 +256,7 @@ const questionBank = [
       "as the distance from the airport"
     ],
     "answer": "AGL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6201f29a7ff007a9dc27d92adad9d781",
-    "questionTitle": "Cloud Ceiling 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METARs",
@@ -311,9 +267,7 @@ const questionBank = [
       "320° magnetic at 5 knots"
     ],
     "answer": "320° true at 5 knots",
-    "explanation": "The FAA uses \"true\" headings for anything written and magnetic headings for anything spoken.",
-    "itemId": "g7b21d20548d20aec9a167965766f4740",
-    "questionTitle": "METAR 01"
+    "explanation": "The FAA uses \"true\" headings for anything written and magnetic headings for anything spoken."
   },
   {
     "bank": "METARs",
@@ -324,9 +278,7 @@ const questionBank = [
       "180° magnetic and 4 knots"
     ],
     "answer": "180° true and 4 knots",
-    "explanation": "The FAA uses \"true\" headings for anything written and magnetic headings for anything spoken.",
-    "itemId": "ge236f6ff5cce3a78efacf933e036cfd8",
-    "questionTitle": "METAR 02"
+    "explanation": "The FAA uses \"true\" headings for anything written and magnetic headings for anything spoken."
   },
   {
     "bank": "METARs",
@@ -337,9 +289,7 @@ const questionBank = [
       "Visibility 1/2 SM, scattered clouds"
     ],
     "answer": "Visibility 1/2 SM, overcast, fog",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9f1446bc8a04f2ace71d9876b8bcada5",
-    "questionTitle": "METAR 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METARs",
@@ -350,9 +300,7 @@ const questionBank = [
       "KLAX"
     ],
     "answer": "KMDW",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4b2e82ff4c752f21e4cef00f2218d3a1",
-    "questionTitle": "METAR Intepretation 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METARs",
@@ -363,9 +311,7 @@ const questionBank = [
       "Icing on UAV components due to freezing temperatures."
     ],
     "answer": "Fog formation and reduced visibility impacting line-of-sight operations.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g84076343bbfe63be788735e3b249686b",
-    "questionTitle": "METAR Intepretation 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METARs",
@@ -376,9 +322,7 @@ const questionBank = [
       "Operations are restricted to 100 feet AGL or below"
     ],
     "answer": "Operations are permitted since visibility exceeds the 3 SM minimum",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g303ccb5713cc5169b18ba8c1cc3cec99",
-    "questionTitle": "METAR Intepretation 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METARs",
@@ -389,9 +333,7 @@ const questionBank = [
       "25,000 feet AGL, scattered clouds"
     ],
     "answer": "No ceiling, since scattered clouds are not considered a ceiling",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbb8a5db0e9bed78e2f2c3b83ad2ab08a",
-    "questionTitle": "METAR Intepretation 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -403,9 +345,7 @@ const questionBank = [
       "left of taxiway 27"
     ],
     "answer": "runway oriented approximately 270 degrees, left parallel",
-    "explanation": "Feedback: Runways are numbered based on magnetic heading; L indicates left parallel if multiple runways exist.",
-    "itemId": "g8e74416981c9190189e9c894974f5122",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Runways are numbered based on magnetic heading; L indicates left parallel if multiple runways exist."
   },
   {
     "bank": "Runways",
@@ -416,9 +356,7 @@ const questionBank = [
       "The elevation of the runway in feet"
     ],
     "answer": "The magnetic heading of the runway rounded to the nearest 10 degrees",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g13551e1a4f3de383195613afada63c92",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -429,9 +367,7 @@ const questionBank = [
       "090° (east)"
     ],
     "answer": "090° (east)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd5b67e00cf2dde6ae479e63474640a40",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -442,9 +378,7 @@ const questionBank = [
       "09"
     ],
     "answer": "09",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g88cc520a2c63ea2ff2e54f9235b0f4b5",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -455,9 +389,7 @@ const questionBank = [
       "That the runway is longer than standard"
     ],
     "answer": "The relative position: left and right when approaching for landing",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd13a31d86bd1ee18bff68b6174c7be58",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -468,9 +400,7 @@ const questionBank = [
       "The runway has a concrete surface"
     ],
     "answer": "The runway is the center of three parallel runways",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g14bc9bdabc90d4d5091323514ae12a6a",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -481,9 +411,7 @@ const questionBank = [
       "040° (northeast)"
     ],
     "answer": "140° (southeast)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g13ddeb290a9d775d820484ca479c118c",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -494,9 +422,7 @@ const questionBank = [
       "022° and 202°"
     ],
     "answer": "022° and 040°",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g29629e11c3a57d400dba564928996a24",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -507,9 +433,7 @@ const questionBank = [
       "270R and 270L"
     ],
     "answer": "27L and 27R",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbb9cf99e84f3ce8ebcb6f7df8536eb60",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -520,9 +444,7 @@ const questionBank = [
       "005° (north-northeast)"
     ],
     "answer": "050° (northeast)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0c6410eba5c319dd00814ee08861d98d",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -533,9 +455,7 @@ const questionBank = [
       "West"
     ],
     "answer": "East",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5f1b8bd351682a0e6d805db9cb24f75c",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -546,9 +466,7 @@ const questionBank = [
       "East"
     ],
     "answer": "West",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gdc69256e75c01a78b83952e84e36b52a",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -559,9 +477,7 @@ const questionBank = [
       "30"
     ],
     "answer": "30",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gca17b9ab101c2df360ce9b33f5df6fb7",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -572,9 +488,7 @@ const questionBank = [
       "Directly behind 18L"
     ],
     "answer": "Immediately to the right of 18L",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8bb66eeb36e10bf2140d502a7540a4fd",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -585,9 +499,7 @@ const questionBank = [
       "36L"
     ],
     "answer": "18C",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gfa887a94b338b0fe6b34de7a0b283b2b",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -598,9 +510,7 @@ const questionBank = [
       "09R"
     ],
     "answer": "09C",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1253f488574456fd67c1ec503f2d695a",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -611,9 +521,7 @@ const questionBank = [
       "005° and 230°"
     ],
     "answer": "050° and 230°",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gae61a5922f3167beddb6dc8de8097194",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -624,9 +532,7 @@ const questionBank = [
       "Northeast"
     ],
     "answer": "Northwest",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6a81a6e5ec9f80f9041e8991f8023f54",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -637,9 +543,7 @@ const questionBank = [
       "09L"
     ],
     "answer": "27L",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g30ca1a95daa02ccfd17d93ddfea70675",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -650,9 +554,7 @@ const questionBank = [
       "East"
     ],
     "answer": "North",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf78b4897ffb5bfe601031168e47e2d5f",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -663,9 +565,7 @@ const questionBank = [
       "Center"
     ],
     "answer": "Right",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g252697c401df828576ae686c02d5af25",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -676,9 +576,7 @@ const questionBank = [
       "22R"
     ],
     "answer": "04R",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g95bad5926e8a21170c188c91c22048ea",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -689,9 +587,7 @@ const questionBank = [
       "North"
     ],
     "answer": "West",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8764e9a5d2235a950557a6fe599eed13",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -701,9 +597,7 @@ const questionBank = [
       "Reciprocal runways keep the same L/R designation"
     ],
     "answer": "27R and 27L swap designations: L becomes R, R becomes L",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g66a20a8dcf497699370fbeb5fc36d66c",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -714,9 +608,7 @@ const questionBank = [
       "East"
     ],
     "answer": "South",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7e326351ea93b8767dbd354280577af2",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -727,9 +619,7 @@ const questionBank = [
       "14C"
     ],
     "answer": "14R",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g74e57a12a9e0c3c095af127abeeaa789",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -740,9 +630,7 @@ const questionBank = [
       "05R"
     ],
     "answer": "23R",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g16731dc13fdd641d596c90fa55426b6a",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Runways",
@@ -753,9 +641,7 @@ const questionBank = [
       "North"
     ],
     "answer": "East",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g12bd5cd1d5746d4767aa12d6fc3a4433",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "See and Avoid Operations",
@@ -768,9 +654,7 @@ const questionBank = [
       "Paragliders"
     ],
     "answer": "You must give way to all of these because each is occupied by at least one human",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga4d31c116b3e67f99195056d879b296a",
-    "questionTitle": "See and Avoid 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Accidents",
@@ -781,9 +665,7 @@ const questionBank = [
       "No. The total damages do not matter, provided the individual bills are less than $500."
     ],
     "answer": "​​​No. The repairs to the car are less than $500, so no report is required.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9b290ff0345013ee7cd494d5fe10cd0d",
-    "questionTitle": "Accident 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Accidents",
@@ -794,9 +676,7 @@ const questionBank = [
       "Yes because the total damage exceeds the $500 limit set by the FAA."
     ],
     "answer": "No, if the only damage is to your own drone/payload, and no one is injured, you do NOT have to report this to the FAA.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3e266b831e18add799c4972fa58f5d4a",
-    "questionTitle": "Accident 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Accidents",
@@ -807,9 +687,7 @@ const questionBank = [
       "Yes, all UAV accidents must be reported to the FAA."
     ],
     "answer": "Yes, the damage to property, excluding your own drone and payload, is in excess of the $500 FAA limit.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7812fcc7bed74567702116a8d0507e74",
-    "questionTitle": "Accident 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Accidents",
@@ -820,9 +698,7 @@ const questionBank = [
       "Yes, all UAV accidents must be reported to the FAA."
     ],
     "answer": "Yes, this qualifies as a significant injury per the FAA and will need to be reported.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf8abc10dd1c23fa9a3f19ad2e63535d1",
-    "questionTitle": "Accident 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Accidents",
@@ -832,9 +708,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3905790b0219666a9e10c03923fd7ef8",
-    "questionTitle": "Accident Deadline01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Stalls",
@@ -845,9 +719,7 @@ const questionBank = [
       "The wing exceeds its critical angle of attack"
     ],
     "answer": "The wing exceeds its critical angle of attack",
-    "explanation": "Feedback: A stall happens when the wing’s angle of attack becomes too high, disrupting airflow and eliminating lift.",
-    "itemId": "g86380d15ac17b9a23c434a68543aa3cd",
-    "questionTitle": "Question"
+    "explanation": "Feedback: A stall happens when the wing’s angle of attack becomes too high, disrupting airflow and eliminating lift."
   },
   {
     "bank": "Stalls",
@@ -858,9 +730,7 @@ const questionBank = [
       "The angle of the ailerons during a turn"
     ],
     "answer": "The angle between the relative wind and the wing’s chord line where lift is lost",
-    "explanation": "Feedback: The critical angle of attack is the maximum angle where smooth airflow is maintained; exceeding it causes a stall.",
-    "itemId": "g3cf5d7668c8f3ede7d34581b2196874b",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The critical angle of attack is the maximum angle where smooth airflow is maintained; exceeding it causes a stall."
   },
   {
     "bank": "Stalls",
@@ -871,9 +741,7 @@ const questionBank = [
       "Chord line"
     ],
     "answer": "Leading edge",
-    "explanation": "Feedback: The leading edge is the front edge of the wing where airflow first contacts.",
-    "itemId": "gda1d7e28e0c8c2b18ae4392aabbd5ebd",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The leading edge is the front edge of the wing where airflow first contacts."
   },
   {
     "bank": "Stalls",
@@ -884,9 +752,7 @@ const questionBank = [
       "Mean camber line"
     ],
     "answer": "Trailing edge",
-    "explanation": "Feedback: The trailing edge is the back edge of the wing where airflow re-combines.",
-    "itemId": "g3562ec810b1fa0f4613811c36aa047d9",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The trailing edge is the back edge of the wing where airflow re-combines."
   },
   {
     "bank": "Stalls",
@@ -897,9 +763,7 @@ const questionBank = [
       "An imaginary straight line from the leading edge to the trailing edge"
     ],
     "answer": "An imaginary straight line from the leading edge to the trailing edge",
-    "explanation": "Feedback: The chord line is an imaginary line from the leading edge to the trailing edge and is used to measure angle of attack.",
-    "itemId": "gc807341c9d9a8972b3dfa965f4290f3c",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The chord line is an imaginary line from the leading edge to the trailing edge and is used to measure angle of attack."
   },
   {
     "bank": "Stalls",
@@ -910,9 +774,7 @@ const questionBank = [
       "The line connecting the wing tips"
     ],
     "answer": "A line drawn exactly between the top and bottom surfaces of the wing",
-    "explanation": "Feedback: The mean camber line runs between the top and bottom surfaces of the wing, used to define wing curvature.",
-    "itemId": "g9c8333e641df7e0abfcde9fb93ac63b6",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The mean camber line runs between the top and bottom surfaces of the wing, used to define wing curvature."
   },
   {
     "bank": "Stalls",
@@ -923,9 +785,7 @@ const questionBank = [
       "Lift decreases and the aircraft stalls"
     ],
     "answer": "Lift decreases and the aircraft stalls",
-    "explanation": "Feedback: Exceeding the critical angle disrupts airflow, reduces lift, and causes a stall.",
-    "itemId": "gd8cbaa479cc115e01b69ebecfc40d702",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Exceeding the critical angle disrupts airflow, reduces lift, and causes a stall."
   },
   {
     "bank": "Stalls",
@@ -936,9 +796,7 @@ const questionBank = [
       "It stays level"
     ],
     "answer": "It falls toward the ground",
-    "explanation": "Feedback: When a stall occurs, the nose typically drops, reducing angle of attack and helping restore lift.",
-    "itemId": "g22ec836d0b66dbe14e970e0b7aa4a389",
-    "questionTitle": "Question"
+    "explanation": "Feedback: When a stall occurs, the nose typically drops, reducing angle of attack and helping restore lift."
   },
   {
     "bank": "Stalls",
@@ -949,9 +807,7 @@ const questionBank = [
       "Longitudinal axis"
     ],
     "answer": "Lateral axis",
-    "explanation": "Feedback: Pitch (nose up/down) is rotation around the lateral axis, controlled by the elevator.",
-    "itemId": "g4cb048f8c59b660095159e289c64b9ea",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Pitch (nose up/down) is rotation around the lateral axis, controlled by the elevator."
   },
   {
     "bank": "Stalls",
@@ -962,9 +818,7 @@ const questionBank = [
       "Longitudinal axis"
     ],
     "answer": "Longitudinal axis",
-    "explanation": "Feedback: Roll (tilting left/right) is rotation around the longitudinal axis, controlled by the ailerons.",
-    "itemId": "gd25040e5eeab38551324cee8c029b440",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Roll (tilting left/right) is rotation around the longitudinal axis, controlled by the ailerons."
   },
   {
     "bank": "Stalls",
@@ -975,9 +829,7 @@ const questionBank = [
       "Vertical axis"
     ],
     "answer": "Vertical axis",
-    "explanation": "Feedback: Yaw (nose left/right) is rotation around the vertical axis, controlled by the rudder.",
-    "itemId": "gcd49caa58bd3f925cea12026f232b9da",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Yaw (nose left/right) is rotation around the vertical axis, controlled by the rudder."
   },
   {
     "bank": "Stalls",
@@ -988,9 +840,7 @@ const questionBank = [
       "The UAV to be unstable in flight"
     ],
     "answer": "Difficulty rotating on takeoff and a heavier nose on landing",
-    "explanation": "Feedback: Forward CG makes the aircraft more stable but requires more effort to rotate for takeoff and can cause nose-heavy landings.",
-    "itemId": "g5cc26255dc04fdd97c68e046361c0be7",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Forward CG makes the aircraft more stable but requires more effort to rotate for takeoff and can cause nose-heavy landings."
   },
   {
     "bank": "Stalls",
@@ -1001,9 +851,7 @@ const questionBank = [
       "The UAV to pitch high, stall easily, and be less stable"
     ],
     "answer": "The UAV to pitch high, stall easily, and be less stable",
-    "explanation": "Feedback: Aft CG reduces stability, increases stall risk, and may cause the UAV to over-pitch, especially during landing.",
-    "itemId": "g9044595c8e2ad2f375bab16a76252ec6",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aft CG reduces stability, increases stall risk, and may cause the UAV to over-pitch, especially during landing."
   },
   {
     "bank": "Stalls",
@@ -1014,9 +862,7 @@ const questionBank = [
       "Thrust output only"
     ],
     "answer": "The angle between the chord line and relative wind",
-    "explanation": "Feedback: The angle of attack is defined as the angle between the wing’s chord line and the relative wind.",
-    "itemId": "gc111c9b0a2f83df26f7b479688f11cc6",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The angle of attack is defined as the angle between the wing’s chord line and the relative wind."
   },
   {
     "bank": "Stalls",
@@ -1027,9 +873,7 @@ const questionBank = [
       "It remains smooth and unchanged"
     ],
     "answer": "It separates, creating eddies and reducing lift",
-    "explanation": "Feedback: When the wing exceeds the critical angle of attack, airflow separates from the top surface, reducing lift and causing a stall.",
-    "itemId": "g9885f2a3eda4aa2936212070f1d362df",
-    "questionTitle": "Question"
+    "explanation": "Feedback: When the wing exceeds the critical angle of attack, airflow separates from the top surface, reducing lift and causing a stall."
   },
   {
     "bank": "Stalls",
@@ -1040,9 +884,7 @@ const questionBank = [
       "There may be insufficient altitude to recover before impact"
     ],
     "answer": "There may be insufficient altitude to recover before impact",
-    "explanation": "Feedback: Low altitude limits the available time and distance to regain airspeed and reduce angle of attack, making recovery difficult.",
-    "itemId": "g32a8d8db14f61e2cd12b5f328339c129",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Low altitude limits the available time and distance to regain airspeed and reduce angle of attack, making recovery difficult."
   },
   {
     "bank": "Stalls",
@@ -1053,9 +895,7 @@ const questionBank = [
       "Elevator"
     ],
     "answer": "Elevator",
-    "explanation": "Feedback: Lowering the elevator reduces pitch and decreases the angle of attack, helping restore airflow over the wing.",
-    "itemId": "g2522438972feb560b12c8fcf15bc2dc9",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Lowering the elevator reduces pitch and decreases the angle of attack, helping restore airflow over the wing."
   },
   {
     "bank": "Stalls",
@@ -1066,9 +906,7 @@ const questionBank = [
       "It causes the aircraft to pitch excessively and stall quickly"
     ],
     "answer": "It makes the aircraft more stable but harder to rotate, potentially delaying lift-off",
-    "explanation": "Feedback: Forward CG increases stability but can make takeoff rotation difficult; however, stall behavior is generally more predictable.",
-    "itemId": "g4e0da5842b0e4bb11bbbf42f7c380e3a",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Forward CG increases stability but can make takeoff rotation difficult; however, stall behavior is generally more predictable."
   },
   {
     "bank": "Stalls",
@@ -1079,9 +917,7 @@ const questionBank = [
       "It makes the aircraft less stable, pitch higher, and stall more easily"
     ],
     "answer": "It makes the aircraft less stable, pitch higher, and stall more easily",
-    "explanation": "Feedback: Aft CG reduces longitudinal stability, making the aircraft prone to over-pitching and stalling.",
-    "itemId": "g88db8ad96c8d2c467ec10d29713d37d7",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aft CG reduces longitudinal stability, making the aircraft prone to over-pitching and stalling."
   },
   {
     "bank": "Stalls",
@@ -1092,9 +928,7 @@ const questionBank = [
       "To decrease drag"
     ],
     "answer": "To reduce the angle of attack and restore lift",
-    "explanation": "Feedback: Nose-down motion reduces angle of attack, allowing airflow to reattach and lift to return.",
-    "itemId": "g5f2016a07b51d332a1852e5212faf9b6",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Nose-down motion reduces angle of attack, allowing airflow to reattach and lift to return."
   },
   {
     "bank": "Stalls",
@@ -1105,9 +939,7 @@ const questionBank = [
       "How drag can be ignored"
     ],
     "answer": "How changing angle of attack affects lift",
-    "explanation": "Feedback: Angling your hand upward increases the angle of attack, producing a lifting force similar to a wing in a stall scenario.",
-    "itemId": "gec14e8175013cb6881ccca949ecfe3bf",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Angling your hand upward increases the angle of attack, producing a lifting force similar to a wing in a stall scenario."
   },
   {
     "bank": "Stalls",
@@ -1118,9 +950,7 @@ const questionBank = [
       "The aircraft is producing normal lift"
     ],
     "answer": "The aircraft is producing normal lift",
-    "explanation": "Feedback: Smooth airflow over the wing indicates lift is being produced; separation occurs only when the critical angle is exceeded.",
-    "itemId": "gfa849e4e05a22ad40d1c0ecac922e166",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Smooth airflow over the wing indicates lift is being produced; separation occurs only when the critical angle is exceeded."
   },
   {
     "bank": "Stalls",
@@ -1131,9 +961,7 @@ const questionBank = [
       "It remains constant"
     ],
     "answer": "It increases, helping restore lift",
-    "explanation": "Feedback: The nose dropping reduces the angle of attack and increases airspeed, which helps restore smooth airflow and lift.",
-    "itemId": "g2856b5be35d0ae6e66b918193854259c",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The nose dropping reduces the angle of attack and increases airspeed, which helps restore smooth airflow and lift."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1143,9 +971,7 @@ const questionBank = [
       "2,272 ft AGL"
     ],
     "answer": "4,000 ft AGL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc03d207d70a7f78fb4d6a2ca14d24e9d",
-    "questionTitle": "Cloud Base Calc 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1155,9 +981,7 @@ const questionBank = [
       "1,363 ft AGL"
     ],
     "answer": "2,400 ft AGL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g78ab898faed7a89828edff7dd792b2c2",
-    "questionTitle": "Cloud Base Calc 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1167,9 +991,7 @@ const questionBank = [
       "3,600 ft AGL"
     ],
     "answer": "1,360 ft AGL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc33b0dbaa0dcc25878293eac07608f06",
-    "questionTitle": "Cloud Base Calc 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1179,9 +1001,7 @@ const questionBank = [
       "2,800 ft AGL"
     ],
     "answer": "1,590 ft AGL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc237b4855ac39dd3c75c4da0dcfc62c5",
-    "questionTitle": "Cloud Base Calc 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1191,9 +1011,7 @@ const questionBank = [
       "1,818 ft AGL"
     ],
     "answer": "3,200 ft AGL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g30139828fc9fef87c4d86a78141f3108",
-    "questionTitle": "Cloud Base Calc 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1204,9 +1022,7 @@ const questionBank = [
       "1°C per 1,000 ft"
     ],
     "answer": "2.5°C per 1,000 ft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3486dcd814782e83697179720f7f5f25",
-    "questionTitle": "Convergence Rate 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1217,9 +1033,7 @@ const questionBank = [
       "Upslope fog"
     ],
     "answer": "Radiation fog",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g95cd25ae45c84c2a3dd0c148219bc413",
-    "questionTitle": "Fog 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1230,9 +1044,7 @@ const questionBank = [
       "Radiation fog"
     ],
     "answer": "Advection fog",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g2bc7643dfd586bc450e335cbb8f62172",
-    "questionTitle": "Fog 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1243,9 +1055,7 @@ const questionBank = [
       "Radiation fog"
     ],
     "answer": "Steam fog",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf2f11a1eef84ab5dff4ec2688ea70286",
-    "questionTitle": "Fog 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1256,9 +1066,7 @@ const questionBank = [
       "Steam fog"
     ],
     "answer": "Ice fog",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga286d3bd28c2028408fe731f348b298a",
-    "questionTitle": "Fog 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1269,9 +1077,7 @@ const questionBank = [
       "High-pressure system approaching"
     ],
     "answer": "Fog, clouds, or precipitation likely",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gab7587e7114ef62097dc279ad058fde8",
-    "questionTitle": "Temperature and Dew Point 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1282,9 +1088,7 @@ const questionBank = [
       "The difference between temperature and dew point"
     ],
     "answer": "The amount of water vapor present compared to the maximum the air can hold at a given temperature",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g2a8e29c93d5cf888504a5394274b3c06",
-    "questionTitle": "Temperature and Dew Point 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1295,9 +1099,7 @@ const questionBank = [
       "The temperature at which the lapse rate reverses"
     ],
     "answer": "The temperature at which air becomes saturated and condensation begins",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ged56ab88056a379add5ae7cb4d2760fc",
-    "questionTitle": "Temperature and Dew Point 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature and Dew Point",
@@ -1308,9 +1110,7 @@ const questionBank = [
       "Warm, dry conditions"
     ],
     "answer": "Low clouds, fog, or precipitation",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3f8f17047222cef237f1ceffa0d18141",
-    "questionTitle": "Temperature and Dew Point 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1321,9 +1121,7 @@ const questionBank = [
       "The drone must be equipped with Automated Dependent Surveillance-Broadcast (ADS-B) out"
     ],
     "answer": "Anti-collision lights that are visible for at least 3 statute miles",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga8cbc53f18bef27c1e0097f6ef2183cd",
-    "questionTitle": "Night Flying 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1334,9 +1132,7 @@ const questionBank = [
       "A Certificate of Waiver"
     ],
     "answer": "Anti-Collision lights and initial or recurrent training in accordance with 107.65",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g09a470d049d60322170bbf4a45dde6f6",
-    "questionTitle": "Night Flying 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1347,9 +1143,7 @@ const questionBank = [
       "A remote PIC who has passed an initial test since April 6, 2021"
     ],
     "answer": "Anti-Collision lights visible for at least 3 miles",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0dd580a079f9f9ffdcf2c6952e91fa63",
-    "questionTitle": "Night Flying 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1359,9 +1153,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0109fbdd8a533937259d644eb13710a9",
-    "questionTitle": "Night Flying 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1371,9 +1163,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g80c2579f95f7877c16fb3491927cff17",
-    "questionTitle": "Night Flying 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1383,9 +1173,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7e5b857c36b4809be64e057be446ff3e",
-    "questionTitle": "Night Physiology 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1395,9 +1183,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g224fea4581faeb433502ba682d8d8e71",
-    "questionTitle": "Night Physiology 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1408,9 +1194,7 @@ const questionBank = [
       "No effect"
     ],
     "answer": "A negative effect",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd59eba9007d2a9de62c52b30e87d93c4",
-    "questionTitle": "Night Physiology 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1421,9 +1205,7 @@ const questionBank = [
       "Using bright ground lighting around the remote PIC"
     ],
     "answer": "Looking 5° to 10° off-center of the sUAS",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gaed34182b6e99fb34c9340df27dd6c29",
-    "questionTitle": "Night Physiology 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Flying at Night",
@@ -1433,9 +1215,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g72333d8ddb7f6637646dd9f8ecc88ffd",
-    "questionTitle": "Night Physiology 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Convective SIGMETs",
@@ -1446,9 +1226,7 @@ const questionBank = [
       "Low-level wind shear below 2,000 feet AGL"
     ],
     "answer": "Severe thunderstorms, embedded thunderstorms, or organized lines of thunderstorms",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gaab337b7941f38a5ecb4429f4d8a1531",
-    "questionTitle": "Convective SIGMET 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Convective SIGMETs",
@@ -1459,9 +1237,7 @@ const questionBank = [
       "Rain showers reducing visibility below 5 SM"
     ],
     "answer": "Hail at the surface ¾ inch or greater in diameter",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g49b6190631731408f08e27122d41ff92",
-    "questionTitle": "Convective SIGMET 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Convective SIGMETs",
@@ -1472,9 +1248,7 @@ const questionBank = [
       "60 percent"
     ],
     "answer": "40 percent",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g061907a12138a4c1933e87623785f02f",
-    "questionTitle": "Convective SIGMET 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Convective SIGMETs",
@@ -1485,9 +1259,7 @@ const questionBank = [
       "They help calculate UAV battery life more accurately"
     ],
     "answer": "They warn of thunderstorms, high winds, hail, and tornadoes, which pose severe risks to small UAS",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7a06afb5fbdb75742704e8e88b6eb840",
-    "questionTitle": "Convective SIGMET 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Convective SIGMETs",
@@ -1498,9 +1270,7 @@ const questionBank = [
       "6 hours"
     ],
     "answer": "2 hours",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g977e27476eb0100f336840171b94d4b5",
-    "questionTitle": "Convective SIGMET 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote ID",
@@ -1511,9 +1281,7 @@ const questionBank = [
       "Yes, if you are operating in uncontrolled airspace."
     ],
     "answer": "No. This equipment can not be turned on without a waiver from the FAA.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6ade6d1cdbe87b68aea9848bd33a9b16",
-    "questionTitle": "ADSB 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote ID",
@@ -1524,9 +1292,7 @@ const questionBank = [
       "Unfortunately there is no way to legally fly older drones without remote ID so the drones are grounded until you purchase the beacons."
     ],
     "answer": "You are allowed to fly drones, even those without remote ID, within FAA Recognized Identification Areas (FRIAs)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf8465a63d1f8bf611cc88a23a5d7421e",
-    "questionTitle": "FRIA"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote ID",
@@ -1537,9 +1303,7 @@ const questionBank = [
       "ADS-B Out"
     ],
     "answer": "Remote Identification",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1c8f9998772d83f7312e6133d8d57fbb",
-    "questionTitle": "Remote ID 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote ID",
@@ -1549,9 +1313,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gce4945cb0f3bd4ad747ad7473bbcb8a1",
-    "questionTitle": "Remote ID 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote ID",
@@ -1562,9 +1324,7 @@ const questionBank = [
       "No, every drone needs a unique remote ID that is permantly tied to that specific drone."
     ],
     "answer": "Yes, as long as you assign the beacon to a specific drone before flying and tie the beacon's serial number to the drone's registration number.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc7885dec7fadfe230d414752bf239e4b",
-    "questionTitle": "Remote ID 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Daylight Operations",
@@ -1574,9 +1334,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g67f4a1a97a69f14caa29f829920c1fd4",
-    "questionTitle": "Daylight Operations 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote PIC",
@@ -1587,9 +1345,7 @@ const questionBank = [
       "The RPIC and the visual observer"
     ],
     "answer": "RPIC",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gcc596ddb2d2ef5415eb302cf33ca9c61",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote PIC",
@@ -1600,9 +1356,7 @@ const questionBank = [
       "Yes"
     ],
     "answer": "No",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc182cbea92405db1f3f7e6ca02a1da6b",
-    "questionTitle": "RPIC 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote PIC",
@@ -1613,9 +1367,7 @@ const questionBank = [
       "Air Traffic Control"
     ],
     "answer": "RPIC",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g652984a1acdb609112cd892327617944",
-    "questionTitle": "RPIC 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote PIC",
@@ -1626,9 +1378,7 @@ const questionBank = [
       "Air Traffic Control"
     ],
     "answer": "RPIC",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g877a2fe142bd2d0649735ee60cc932ac",
-    "questionTitle": "RPIC 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote PIC",
@@ -1639,9 +1389,7 @@ const questionBank = [
       "Manufacturer"
     ],
     "answer": "Remote pilot-in-command.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0033c06227f84280abf97e8e4dcb996f",
-    "questionTitle": "RPIC 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Remote PIC",
@@ -1651,9 +1399,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9dcc29804d5cb36c561b37b62e2c5d8c",
-    "questionTitle": "Supervision 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Uncontrolled Airspace",
@@ -1664,9 +1410,7 @@ const questionBank = [
       "requires approval from unmanned aircraft operators before allowing flights in Class G airspace"
     ],
     "answer": "does not provide services in Class G airspace",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0af9974564355aee08d50845b57c4cd3",
-    "questionTitle": "ATC 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Uncontrolled Airspace",
@@ -1677,9 +1421,7 @@ const questionBank = [
       "Class E, starting at 700 ft AGL"
     ],
     "answer": "Class G up to 1200 ft AGL, Class E from 1200 ft AGL, but not including 18,000 ft MSL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g683e28c6ba39b9992e4f3b9f907efbc7",
-    "questionTitle": "Airspace 06"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Uncontrolled Airspace",
@@ -1690,9 +1432,7 @@ const questionBank = [
       "controlled airspace"
     ],
     "answer": "uncontrolled airspace",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g97340dfc10879f0764d3e21283a4bc0d",
-    "questionTitle": "Class G 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Drone Registration",
@@ -1703,9 +1443,7 @@ const questionBank = [
       "5 lbs"
     ],
     "answer": "0.55 lbs",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g21ff5896c68ab3d3d8b49d707dfb0d65",
-    "questionTitle": "Drone Weight 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Drone Registration",
@@ -1716,9 +1454,7 @@ const questionBank = [
       "All small UAS need to be registered regardless of the weight of the aircraft before, during, or after the flight"
     ],
     "answer": "When flown recreationally, when the aircraft weighs less than 0.55 pounds on takeoff, including everything that is onboard or attached to the aircraft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g94d53f26509da13e8e479a1177fdc230",
-    "questionTitle": "Drone Weight 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Drone Registration",
@@ -1729,9 +1465,7 @@ const questionBank = [
       "2.0 lbs"
     ],
     "answer": "Greater than 0.55 lbs",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g92275a2e7ad9d68b8d28b64630b9505b",
-    "questionTitle": "Drone Weight 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Drone Registration",
@@ -1742,9 +1476,7 @@ const questionBank = [
       "It doesn’t need to be registered because the base model drone weighs less than 0.55 lbs."
     ],
     "answer": "Without the camera, no registration is required, but with the camera it needs to be registered because it is more than 0.55 lbs.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge4390530daa1fdfef26e07be4fd024b2",
-    "questionTitle": "Drone Weight 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Drone Registration",
@@ -1754,9 +1486,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbb023ddced423c277fabd6b9dc14d5ee",
-    "questionTitle": "Foreign Registration"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Drone Registration",
@@ -1767,9 +1497,7 @@ const questionBank = [
       "In the aircraft maintenance log binder"
     ],
     "answer": "Fixed on the UAV in plain sight",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4aba4fbf0f7801534138157b5e5ac1e3",
-    "questionTitle": "Registration Number 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "AGL vs MSL",
@@ -1779,9 +1507,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gfa5b36a5b4ece692790615d07f2991ad",
-    "questionTitle": "AGL vs MSL 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "AGL vs MSL",
@@ -1794,9 +1520,7 @@ const questionBank = [
     "answer": "2",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/How-to-Read-a-Sectional-Chart.jpg",
-    "imageAlt": "Image for AGL vs MSL 02 question",
-    "itemId": "g56adf1b97e8b690c98480f9f79094fe9",
-    "questionTitle": "AGL vs MSL 02"
+    "imageAlt": "Question image for AGL vs MSL 02"
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1807,9 +1531,7 @@ const questionBank = [
       "Improve battery life"
     ],
     "answer": "Compromise aircraft safety and reliability",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd71113497e16fec53a21fb322c0ac9cb",
-    "questionTitle": "Approved Parts and Tools"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1820,9 +1542,7 @@ const questionBank = [
       "Only the FAA"
     ],
     "answer": "Individuals competent and familiar with the aircraft and manufacturer instructions",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g835b40ea94dcb1c751819919b82822e6",
-    "questionTitle": "Authorized Maintenance 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1833,9 +1553,7 @@ const questionBank = [
       "Ignoring swelling or overheating"
     ],
     "answer": "Cool, dry locations and following manufacturer charging instructions",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6f23f5d0d5543206a3c213690b8b17ee",
-    "questionTitle": "Battery Maintenance and Storage 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1846,9 +1564,7 @@ const questionBank = [
       "Faster flight"
     ],
     "answer": "In-flight failure or fire hazards",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd19c22c9d1d25324ececf0aa0375c7df",
-    "questionTitle": "Battery Maintenance and Storage 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1859,9 +1575,7 @@ const questionBank = [
       "Ignore the damage for short flights"
     ],
     "answer": "Not fly until the propeller is replaced",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gdb014157cfc2dce2d813fdb443186982",
-    "questionTitle": "Defect ID 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1872,9 +1586,7 @@ const questionBank = [
       "Increase flight speed"
     ],
     "answer": "Prevent accidents and improve future operations",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g859505af9b8c476b7b0a58218773b8b1",
-    "questionTitle": "Defect ID 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1885,9 +1597,7 @@ const questionBank = [
       "To increase maximum speed"
     ],
     "answer": "To maintain aircraft reliability and safety",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc0c1c9187c400cf37078f2b47d397ba1",
-    "questionTitle": "Manufacturer Recommendations 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1898,9 +1608,7 @@ const questionBank = [
       "Avoid battery charging"
     ],
     "answer": "Identify wear, cumulative damage, or anomalies",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6844863ff468c0250d0e3aebd213a94e",
-    "questionTitle": "Post-Flight Inspection 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1911,9 +1619,7 @@ const questionBank = [
       "Skip inspections for short flights"
     ],
     "answer": "Inspect the drone after every flight",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4c06561f4ffcf0eaa806e1891b58860c",
-    "questionTitle": "Post-Flight Inspection 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1924,9 +1630,7 @@ const questionBank = [
       "Flying immediately if it looks okay"
     ],
     "answer": "Checking battery condition, propellers, sensors, and airframe integrity",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4d0aa6ec66df7b1b1d6a4743d1b18d19",
-    "questionTitle": "Pre-Flight Inspection 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1937,9 +1641,7 @@ const questionBank = [
       "To improve battery efficiency"
     ],
     "answer": "To detect potential issues before flight to prevent accidents",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf2f63d1340425cc09a4817da059ea925",
-    "questionTitle": "Pre-Flight Inspection 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1950,9 +1652,7 @@ const questionBank = [
       "Extend battery life"
     ],
     "answer": "Track aircraft condition and provide proof of maintenance",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0ec7884e385ef944659e4b344d13b631",
-    "questionTitle": "Recordkeeping 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1963,9 +1663,7 @@ const questionBank = [
       "Only major crashes"
     ],
     "answer": "All repairs, inspections, and part replacements",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge19030bf6bca5cf8e82403321e24734e",
-    "questionTitle": "Recordkeeping 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1976,9 +1674,7 @@ const questionBank = [
       "Battery charging"
     ],
     "answer": "Planned maintenance based on manufacturer guidance or flight hours",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf0f14a95cd9c1cad606bc34b131187cc",
-    "questionTitle": "Scheduled vs Unscheduled Maintenance 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -1989,9 +1685,7 @@ const questionBank = [
       "Batteries are fully charged"
     ],
     "answer": "Damage or malfunction occurs unexpectedly",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb58d4473e3cf87f3ae34628f7ee27ef2",
-    "questionTitle": "Scheduled vs Unscheduled Maintenance 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -2002,9 +1696,7 @@ const questionBank = [
       "Reduce battery consumption only"
     ],
     "answer": "Ensure flight control, GPS, and obstacle avoidance systems work correctly",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3cc688a6188a784786cfa0f81d1b3e9d",
-    "questionTitle": "Software and Firmware Updates 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Maintenance and Inspection",
@@ -2015,9 +1707,7 @@ const questionBank = [
       "Only when the drone will fly beyond visual line of sight"
     ],
     "answer": "During pre-flight or scheduled maintenance checks",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbbc37f5fed3eb9c1d09e2a733b658970",
-    "questionTitle": "Software and Firmware Updates 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METAR and TAF Glossary",
@@ -2028,9 +1718,7 @@ const questionBank = [
       "Moderate"
     ],
     "answer": "Heavy",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4b4a6510694c0d2900c89125b1bf09b6",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METAR and TAF Glossary",
@@ -2041,9 +1729,7 @@ const questionBank = [
       "MOD abbreviation"
     ],
     "answer": "No sign is shown",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g669370408c0a6cea08225b55621044fd",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METAR and TAF Glossary",
@@ -2054,9 +1740,7 @@ const questionBank = [
       "8 oktas of cloud coverage (overcast, a ceiling)"
     ],
     "answer": "5–7 oktas of cloud coverage (broken, a ceiling)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9a89f35c3d1bb85b922a599be00ca496",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METAR and TAF Glossary",
@@ -2067,9 +1751,7 @@ const questionBank = [
       "FEW"
     ],
     "answer": "OVC",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5dbda626ab8005b1b8ec9fdf5b9aa429",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METAR and TAF Glossary",
@@ -2080,9 +1762,7 @@ const questionBank = [
       "Ceiling Broken"
     ],
     "answer": "Cumulonimbus",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g2731dd74dbfcb9ea984ce07782876332",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METAR and TAF Glossary",
@@ -2093,9 +1773,7 @@ const questionBank = [
       "Broken Clouds"
     ],
     "answer": "Mist",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc60036e470c01d3eee9af0b58b7ebba6",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METAR and TAF Glossary",
@@ -2106,9 +1784,7 @@ const questionBank = [
       "DU"
     ],
     "answer": "FG",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g475bbaa7347ff5247224d1edf508a0a3",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METAR and TAF Glossary",
@@ -2119,9 +1795,7 @@ const questionBank = [
       "Fog and Mist expected"
     ],
     "answer": "A rapid change beginning at a specific time",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g978f59a2c6cd763d3111851da77bbd96",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "METAR and TAF Glossary",
@@ -2132,9 +1806,7 @@ const questionBank = [
       "FM"
     ],
     "answer": "BECMG",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb0c3395a75019b323fdfaebd400843fc",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2145,9 +1817,7 @@ const questionBank = [
       "Rotation of the moon"
     ],
     "answer": "Uneven heating of the Earth’s surface",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g12d30f81d8f3c9ce8b9745ec677ad563",
-    "questionTitle": "Causes of Wind 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2158,9 +1828,7 @@ const questionBank = [
       "Vertical air movements caused by low-pressure systems only"
     ],
     "answer": "Local air circulation caused by uneven heating of the surface",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga83380565e13b60f59402fc8ad0daf90",
-    "questionTitle": "Convective Currents Definition 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2171,9 +1839,7 @@ const questionBank = [
       "Randomly"
     ],
     "answer": "Counterclockwise",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "geaa367a60eb4a4f9727b2f4934d6ddf8",
-    "questionTitle": "Coriolis Effect 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2184,9 +1850,7 @@ const questionBank = [
       "Land absorbs heat slower than water, creating cooler air"
     ],
     "answer": "Land heats faster than water, causing warm air to rise and cooler air from the water to move in",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g64772522565fc16b19142f0db29fb72d",
-    "questionTitle": "Day vs. Night Shore Effect 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2197,9 +1861,7 @@ const questionBank = [
       "It slows down uniformly and creates no turbulence"
     ],
     "answer": "It flows over and around the structure, creating turbulence on the leeward side",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbe96d4a0588f42c71ed9fba9e937104b",
-    "questionTitle": "Effects of Obstructions 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2210,9 +1872,7 @@ const questionBank = [
       "Fly as fast as possible to minimize exposure to turbulence"
     ],
     "answer": "Take time to understand the environment and operate cautiously",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge7c7bc3593cc13076733fdeb4b1d62b6",
-    "questionTitle": "Operational Advice 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2223,9 +1883,7 @@ const questionBank = [
       "Equal pressure zones"
     ],
     "answer": "High pressure to low pressure",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf2bbe50625923c76a1794cc23ee06c3f",
-    "questionTitle": "Pressure and Air Movement 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2236,9 +1894,7 @@ const questionBank = [
       "They only occur above 10,000 feet and are harmless to small UAVs"
     ],
     "answer": "Updrafts and downdrafts can create turbulence that may destabilize small UAVs",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g34975eb1a65fadd3e86ca13414235a38",
-    "questionTitle": "Turbulence 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2249,9 +1905,7 @@ const questionBank = [
       "Water and vegetation"
     ],
     "answer": "Sand, cement, and bare land",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "geae8886bee23d8cb4b41f6e8951a44f9",
-    "questionTitle": "Updrafts and Downdrafts 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2262,9 +1916,7 @@ const questionBank = [
       "Tall buildings reduce the Coriolis effect"
     ],
     "answer": "Buildings create unpredictable turbulence and eddies that can destabilize UAVs",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4a0b11611755886216bbe4195be81b74",
-    "questionTitle": "Urban UAV Operations 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Wind",
@@ -2275,9 +1927,7 @@ const questionBank = [
       "Windward side"
     ],
     "answer": "Leeward side",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g017e924a37f6cedc089fd16082b00e9e",
-    "questionTitle": "Windward vs. Leeward"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Multiple UAV Operations",
@@ -2287,9 +1937,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1e878175df1531a2190355f7c10133a1",
-    "questionTitle": "Multiple UAVs 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Hazards",
@@ -2300,9 +1948,7 @@ const questionBank = [
       "Attaching large and heavy camera equipment to the UAV and flying it over a crowd before conducting a test flight in a safe environment."
     ],
     "answer": "Flying your UAV when the battery level is at 50%",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gdb335d3bc5d9dd7c87a0f1dc773d2366",
-    "questionTitle": "Hazardous Flights 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airspace Restrictions",
@@ -2312,9 +1958,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1ca6e84bde810d76edf89ee876967b8d",
-    "questionTitle": "Airspace 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airspace Restrictions",
@@ -2324,9 +1968,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge54a6e4afb483247ff01251dd23e1f36",
-    "questionTitle": "Airspace 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airspace Restrictions",
@@ -2337,9 +1979,7 @@ const questionBank = [
       "Waiver"
     ],
     "answer": "Temporary Flight Restrictions (TFRs)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge89f804b502489c80aab72f0437db75c",
-    "questionTitle": "Airspace 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airspace Restrictions",
@@ -2350,9 +1990,7 @@ const questionBank = [
       "Waiver"
     ],
     "answer": "Notice to Airman (NOTAMs)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8e5819d5f335f8f2c5b9a95bf264db94",
-    "questionTitle": "Airspace 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airspace Restrictions",
@@ -2363,9 +2001,7 @@ const questionBank = [
       "D"
     ],
     "answer": "G",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8df530c005b16d391d450ec6beb7f8e7",
-    "questionTitle": "Airspace 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airspace Restrictions",
@@ -2376,9 +2012,7 @@ const questionBank = [
       "checking the local news"
     ],
     "answer": "visiting the FAA's NOTAM website",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g74e05074abb4f667882ab3b716d20b41",
-    "questionTitle": "NOTAM 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airspace Restrictions",
@@ -2389,9 +2023,7 @@ const questionBank = [
       "Temporary Flight Restrictions (TFRs)"
     ],
     "answer": "A responsible pilot checks for each of these before starting a mission.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8c8b82ec27540836f710ff80f6f6d13e",
-    "questionTitle": "Pre-Flight Requirements 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airspace Restrictions",
@@ -2402,9 +2034,7 @@ const questionBank = [
       "TFR's are typically issued for military operations"
     ],
     "answer": "TFR's are typically issued for lmajor events such as sporting events and presidential movements",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g2b49847c57d55f955d01a56fc9cc3150",
-    "questionTitle": "TFRs 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature Inversions",
@@ -2415,9 +2045,7 @@ const questionBank = [
       "Air temperature remains constant with altitude"
     ],
     "answer": "Air temperature increases with altitude for a shallow layer",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gef40c3447de663c5495c72b12296ff84",
-    "questionTitle": "Temp Inversion 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature Inversions",
@@ -2428,9 +2056,7 @@ const questionBank = [
       "Increased turbulence and unstable air"
     ],
     "answer": "Reduced visibility due to trapped smoke, haze, and pollutants",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc2525b4aed35e8cbb8605063f5462968",
-    "questionTitle": "Temp Inversion 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature Inversions",
@@ -2441,9 +2067,7 @@ const questionBank = [
       "During the afternoon when surface heating is strongest"
     ],
     "answer": "On clear, calm nights when the ground cools rapidly",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4bb0c8bdbd86c584093e6f5f5a38e82d",
-    "questionTitle": "Temp Inversion 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature Inversions",
@@ -2454,9 +2078,7 @@ const questionBank = [
       "A rapid decrease in lapse rate and unstable air"
     ],
     "answer": "The formation of a temperature inversion",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb61ec0f265df31799e52e36347438d3c",
-    "questionTitle": "Temp Inversion 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature Inversions",
@@ -2467,9 +2089,7 @@ const questionBank = [
       "Thunderstorm activity"
     ],
     "answer": "Wind shear",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0ce927eee42f6ab2362ef538af6c425a",
-    "questionTitle": "Temp Inversion 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Temperature Inversions",
@@ -2480,9 +2100,7 @@ const questionBank = [
       "They cause rapid cooling that can damage onboard sensors"
     ],
     "answer": "They reduce visibility near the surface and may create hazardous wind shear aloft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g777ed7176f2c1c042a0368619097deab",
-    "questionTitle": "Temp Inversion 06"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Magnetic Variation",
@@ -2495,9 +2113,7 @@ const questionBank = [
     "answer": "You need to adjust your compass 5 degrees to account for the local difference between true and magnetic north",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Magneti01.png",
-    "imageAlt": "Image for Magnetic Variation 01 question",
-    "itemId": "g59d0109933650845f94b3370704652c8",
-    "questionTitle": "Magnetic Variation 01"
+    "imageAlt": "Question image for Magnetic Variation 01"
   },
   {
     "bank": "Magnetic Variation",
@@ -2510,9 +2126,7 @@ const questionBank = [
     "answer": "You need to adjust your compass 4 degrees to account for the local difference between true and magnetic north",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Magnetic02.png",
-    "imageAlt": "Image for Magnetic Variation 02 question",
-    "itemId": "g6f8bf99f084af7f24fc1e0302b91df97",
-    "questionTitle": "Magnetic Variation 02"
+    "imageAlt": "Question image for Magnetic Variation 02"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2523,9 +2137,7 @@ const questionBank = [
       "170 degrees"
     ],
     "answer": "350 degrees",
-    "explanation": "The aircraft is left on the downwind side parallel to the runway heading towards 350 Degrees.",
-    "itemId": "g536315f1a061258f9d15d155db8138d8",
-    "questionTitle": "Air Traffic Pattern 01"
+    "explanation": "The aircraft is left on the downwind side parallel to the runway heading towards 350 Degrees."
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2536,9 +2148,7 @@ const questionBank = [
       "The aircraft is West."
     ],
     "answer": "The aircraft is Northeast",
-    "explanation": "The aircraft is East because they are midfield left downwind of Runway 13 (130 Degrees). The runway is facing to the southeast (a heading of 130 degrees). If the aircraft is in a left traffic pattern, that means that they would be making a series of left turns. The downwind leg of a left traffic pattern for runway 13 would be to the east of the airport.",
-    "itemId": "g3eedcadc37c0ae1f04239618e0f2c58f",
-    "questionTitle": "Air Traffic Pattern 02"
+    "explanation": "The aircraft is East because they are midfield left downwind of Runway 13 (130 Degrees). The runway is facing to the southeast (a heading of 130 degrees). If the aircraft is in a left traffic pattern, that means that they would be making a series of left turns. The downwind leg of a left traffic pattern for runway 13 would be to the east of the airport."
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2549,9 +2159,7 @@ const questionBank = [
       "Enter 45 degrees at the base leg of the airport traffic pattern"
     ],
     "answer": "Enter 45 Degrees at the midpoint of the downwind leg of the airport traffic pattern",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd3ea149411f59302d86f467d7b9b791c",
-    "questionTitle": "Air Traffic Pattern 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2562,9 +2170,7 @@ const questionBank = [
       "Use any direction as long as the area is clear of other aircraft"
     ],
     "answer": "Follow the established FAA traffic pattern at the airport",
-    "explanation": "Always follow the FAA traffic patterns established at the airport. (WARNING: drones should never operate over an airport or enter a manned aircraft traffic pattern).",
-    "itemId": "ge2b8efffb02469ed5f62f2a8897373f6",
-    "questionTitle": "Air Traffic Pattern 04"
+    "explanation": "Always follow the FAA traffic patterns established at the airport. (WARNING: drones should never operate over an airport or enter a manned aircraft traffic pattern)."
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2577,9 +2183,7 @@ const questionBank = [
     "answer": "Crosswind",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/AirTrafficPatternsForQuiz.png",
-    "imageAlt": "Image for Air Traffic Pattern 05 question",
-    "itemId": "gff6e676e59b71130eb87157dc1d8b8ff",
-    "questionTitle": "Air Traffic Pattern 05"
+    "imageAlt": "Question image for Air Traffic Pattern 05"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2592,9 +2196,7 @@ const questionBank = [
     "answer": "Downwind",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/AirTrafficPatternsForQuiz.png",
-    "imageAlt": "Image for Air Traffic Pattern 06 question",
-    "itemId": "g882028074c9cca163ac789d140456b57",
-    "questionTitle": "Air Traffic Pattern 06"
+    "imageAlt": "Question image for Air Traffic Pattern 06"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2607,9 +2209,7 @@ const questionBank = [
     "answer": "Base",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/AirTrafficPatternsForQuiz.png",
-    "imageAlt": "Image for Air Traffic Pattern 07 question",
-    "itemId": "g10ce5116be5b36bc1565ab33308849ab",
-    "questionTitle": "Air Traffic Pattern 07"
+    "imageAlt": "Question image for Air Traffic Pattern 07"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2622,9 +2222,7 @@ const questionBank = [
     "answer": "A",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/RunwayNumberForQuiz.png",
-    "imageAlt": "Image for Runway Numbers 01 question",
-    "itemId": "gd2f145887e5027a5172df4759480442f",
-    "questionTitle": "Runway Numbers 01"
+    "imageAlt": "Question image for Runway Numbers 01"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2637,9 +2235,7 @@ const questionBank = [
     "answer": "B",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/RunwayNumberForQuiz.png",
-    "imageAlt": "Image for Runway Numbers 02 question",
-    "itemId": "g3fe0d3797d12db93bc3cb3f1c3f921a5",
-    "questionTitle": "Runway Numbers 02"
+    "imageAlt": "Question image for Runway Numbers 02"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -2652,9 +2248,7 @@ const questionBank = [
     "answer": "C",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/RunwayNumberForQuiz.png",
-    "imageAlt": "Image for Runway Numbers 03 question",
-    "itemId": "g40aefbd46f2b3e8a582376e762203c2c",
-    "questionTitle": "Runway Numbers 03"
+    "imageAlt": "Question image for Runway Numbers 03"
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2665,9 +2259,7 @@ const questionBank = [
       "Less stable at low speeds, more stable at high speeds"
     ],
     "answer": "Less stable at all speeds",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc1ab919c8250777a8ef1006bfa4574a9",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2678,9 +2270,7 @@ const questionBank = [
       "Improved maneuverability of the UAS"
     ],
     "answer": "Recovering from a stall might be more difficult",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7736804c8148c3cb645a0e87e4abbbc1",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2691,9 +2281,7 @@ const questionBank = [
       "The Aircraft Weight and Balance Book"
     ],
     "answer": "Pilots Operating Handbook/ UAS Flight Manual",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gdfdfd085810ff49ce4286548901e4169",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2704,9 +2292,7 @@ const questionBank = [
       "Controls the roll/bank of the aircraft"
     ],
     "answer": "Controls the yaw of the aircraft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1376c238d2ba1518fc7f636337bd74f2",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2717,9 +2303,7 @@ const questionBank = [
       "Aeronautical Information Manual(AIM)."
     ],
     "answer": "Pilot's Operating Handbook or UAS Flight Manual.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gcac41b97857705dbb106ade3eb70400c",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2730,9 +2314,7 @@ const questionBank = [
       "The heaviest component of the UAV"
     ],
     "answer": "The point where all the weight of the aircraft is in equilibrium",
-    "explanation": "Feedback: The CG is the balance point of the aircraft where all weight is evenly distributed.",
-    "itemId": "g2b9cb8afb907f462729cecc6c7883fb9",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The CG is the balance point of the aircraft where all weight is evenly distributed."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2743,9 +2325,7 @@ const questionBank = [
       "To maximize battery life"
     ],
     "answer": "To ensure stable and controllable flight",
-    "explanation": "Feedback: Exceeding CG limits can make the UAV unstable, difficult to control, or unsafe during maneuvers.",
-    "itemId": "g276c6c4a4534c2a8b2162503a7d68209",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Exceeding CG limits can make the UAV unstable, difficult to control, or unsafe during maneuvers."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2756,9 +2336,7 @@ const questionBank = [
       "The UAV will not generate lift"
     ],
     "answer": "The UAV may pitch high, stall easily, and be difficult to recover",
-    "explanation": "Feedback: Aft CG reduces longitudinal stability, increasing the risk of stalls and making recovery difficult.",
-    "itemId": "gd17f8e888a630c039b092496e2628776",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aft CG reduces longitudinal stability, increasing the risk of stalls and making recovery difficult."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2769,9 +2347,7 @@ const questionBank = [
       "The UAV will be uncontrollable in flight"
     ],
     "answer": "The UAV may have difficulty rotating for takeoff and land nose-heavy",
-    "explanation": "Feedback: Forward CG increases stability but can make takeoff rotation and landing more challenging.",
-    "itemId": "gd1a04cbaa40c6f311bbb71d91ddf6cdf",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Forward CG increases stability but can make takeoff rotation and landing more challenging."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2782,9 +2358,7 @@ const questionBank = [
       "The ability of the aircraft to return to straight and level flight after a maneuver"
     ],
     "answer": "The ability of the aircraft to return to straight and level flight after a maneuver",
-    "explanation": "Feedback: Stability measures how well the aircraft recovers to level flight without pilot intervention.",
-    "itemId": "g854f6d10f5ca83091db653648f4c6112",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Stability measures how well the aircraft recovers to level flight without pilot intervention."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2795,9 +2369,7 @@ const questionBank = [
       "How smooth the aircraft’s landing will be"
     ],
     "answer": "The aircraft’s ability to withstand forces during maneuvers",
-    "explanation": "Feedback: Maneuverability is the ability to handle turns, climbs, and other maneuvers without structural or control issues.",
-    "itemId": "ge975d98012177604d6487d7007713773",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Maneuverability is the ability to handle turns, climbs, and other maneuvers without structural or control issues."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2808,9 +2380,7 @@ const questionBank = [
       "How well the aircraft responds to pilot inputs"
     ],
     "answer": "How well the aircraft responds to pilot inputs",
-    "explanation": "Feedback: Controllability measures the responsiveness of the aircraft to the pilot’s commands.",
-    "itemId": "ge55f8f600e343d9e4ed716cfda8734dd",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Controllability measures the responsiveness of the aircraft to the pilot’s commands."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2821,9 +2391,7 @@ const questionBank = [
       "It cannot perform turns"
     ],
     "answer": "It will be more stable and easier to control",
-    "explanation": "Feedback: Correct CG placement ensures stability, controllability, and safe maneuverability.",
-    "itemId": "g399afdc3f7d6cc354ae3b19184463d0f",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Correct CG placement ensures stability, controllability, and safe maneuverability."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2834,9 +2402,7 @@ const questionBank = [
       "Require more energy to maintain level flight"
     ],
     "answer": "Over-pitch during takeoff or landing",
-    "explanation": "Feedback: Aft CG reduces stability and can cause the nose to pitch upward excessively, increasing stall risk.",
-    "itemId": "ge56a6843d4b24e4e62d44881769e2c15",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aft CG reduces stability and can cause the nose to pitch upward excessively, increasing stall risk."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2847,9 +2413,7 @@ const questionBank = [
       "To reduce radio interference"
     ],
     "answer": "To ensure the aircraft is loaded safely and will respond predictably",
-    "explanation": "Feedback: Verifying CG before flight ensures the UAV is stable, controllable, and can safely recover from stalls.",
-    "itemId": "gad22ae979be084c2db9f9384756cd17e",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Verifying CG before flight ensures the UAV is stable, controllable, and can safely recover from stalls."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2860,9 +2424,7 @@ const questionBank = [
       "It has no significant effect if the UAV is under 55 lbs"
     ],
     "answer": "It can make the UAV unstable and difficult to control",
-    "explanation": "Feedback: Improper weight distribution can reduce stability and controllability, increasing the risk of accidents.",
-    "itemId": "gaa92cadb84ba904513f7874b5c23a289",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Improper weight distribution can reduce stability and controllability, increasing the risk of accidents."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2873,9 +2435,7 @@ const questionBank = [
       "The UAV will automatically climb faster"
     ],
     "answer": "Stability increases and stall characteristics are more predictable",
-    "explanation": "Feedback: Forward CG increases longitudinal stability and makes stall behavior more predictable, though rotation may require more effort.",
-    "itemId": "gaa481b152884bae179a38d04d2a26b23",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Forward CG increases longitudinal stability and makes stall behavior more predictable, though rotation may require more effort."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2886,9 +2446,7 @@ const questionBank = [
       "The UAV will be unable to take off"
     ],
     "answer": "The UAV becomes less stable and more prone to over-pitching",
-    "explanation": "Feedback: Aft CG reduces stability, making the UAV prone to over-pitching and harder to recover from stalls.",
-    "itemId": "g18d192f0f75de5af0a399b4ca24df632",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aft CG reduces stability, making the UAV prone to over-pitching and harder to recover from stalls."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2899,9 +2457,7 @@ const questionBank = [
       "Proper center of gravity within manufacturer limits"
     ],
     "answer": "Proper center of gravity within manufacturer limits",
-    "explanation": "Feedback: Maintaining the CG within limits ensures both stable and controllable flight.",
-    "itemId": "ge2eb76f902ca12fc8db92c180e17a489",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Maintaining the CG within limits ensures both stable and controllable flight."
   },
   {
     "bank": "Center of Gravity and Stability",
@@ -2912,9 +2468,7 @@ const questionBank = [
       "Apply more power to maintain level flight and carefully rotate for takeoff"
     ],
     "answer": "Apply more power to maintain level flight and carefully rotate for takeoff",
-    "explanation": "Feedback: Forward CG increases nose weight, requiring more power and careful rotation during takeoff while maintaining stable flight.",
-    "itemId": "g28c1f689c93287db4001c84e282c8e64",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Forward CG increases nose weight, requiring more power and careful rotation during takeoff while maintaining stable flight."
   },
   {
     "bank": "OOP - Categories",
@@ -2925,9 +2479,7 @@ const questionBank = [
       "Category 2"
     ],
     "answer": "Category 4",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g74575ddaf057de20eaf82f21b7444845",
-    "questionTitle": "Airworthiness 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Categories",
@@ -2938,9 +2490,7 @@ const questionBank = [
       "Only category 4 drones need a label"
     ],
     "answer": "Category 2 and 3 drones must be labeled",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd9c01e8355b58a9cab4fb6bff002407c",
-    "questionTitle": "Category Labels01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Categories",
@@ -2951,9 +2501,7 @@ const questionBank = [
       "Category 4"
     ],
     "answer": "Category 3",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g09dfcd3fd1bf78608a4443521387bc4f",
-    "questionTitle": "Closed or Restricted Access 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Categories",
@@ -2964,9 +2512,7 @@ const questionBank = [
       "Category 3"
     ],
     "answer": "Category 4",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3dec1940612d6c57596f58c1df5a1a51",
-    "questionTitle": "Exposed Rotating Parts"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Categories",
@@ -2976,9 +2522,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g36d12a35f099d58fedfc9eb641d999a1",
-    "questionTitle": "Kinetic Energy 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Categories",
@@ -2988,9 +2532,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0457d332dadf241c38c3a295bb09686c",
-    "questionTitle": "Kinetic Energy 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Categories",
@@ -3001,9 +2543,7 @@ const questionBank = [
       "Category 2"
     ],
     "answer": "Category 3",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g27da784dbbc1e8587fca0725b6976b54",
-    "questionTitle": "Open Air Assemblies 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Categories",
@@ -3013,9 +2553,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf4e9f5f7e82db44adad20da466a851f3",
-    "questionTitle": "Remote ID 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Categories",
@@ -3026,9 +2564,7 @@ const questionBank = [
       "25 pounds"
     ],
     "answer": "0.55 pounds",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4e98567bd8e752fbe0d71ba9a0792963",
-    "questionTitle": "Weight Limit"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Categories",
@@ -3039,9 +2575,7 @@ const questionBank = [
       "Category 3"
     ],
     "answer": "Category 1",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9325e6a36bde4ce0078694441ddd633c",
-    "questionTitle": "declaration of compliance 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3052,9 +2586,7 @@ const questionBank = [
       "The actual altitude of the drone above sea level"
     ],
     "answer": "The altitude the drone “feels” based on air density",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0add0d15584732334cc04666aa609947",
-    "questionTitle": "Density Altitude 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3065,9 +2597,7 @@ const questionBank = [
       "Has no effect on density altitude"
     ],
     "answer": "Increases density altitude because air is less dense",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5c53083fcbf45c573b8ab4bb757547f9",
-    "questionTitle": "Density Altitude 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3078,9 +2608,7 @@ const questionBank = [
       "Makes the drone perform better because water vapor increases lift"
     ],
     "answer": "Reduces performance because air is less dense, increasing density altitude",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g259662d9fc749560081de8bf6b756fea",
-    "questionTitle": "Density Altitude 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3091,9 +2619,7 @@ const questionBank = [
       "High altitude, hot temperature, high humidity"
     ],
     "answer": "Low altitude, cool temperature, low humidity",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g109801375ab6479cc58e7cb53dff0721",
-    "questionTitle": "Density Altitude 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3104,9 +2630,7 @@ const questionBank = [
       "Density altitude decreases, making lift easier"
     ],
     "answer": "Density altitude increases, making lift more difficult",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gabdf78217b379fa32cfc9c3dd2749002",
-    "questionTitle": "Density Altitude 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3117,9 +2641,7 @@ const questionBank = [
       "It increases atmospheric pressure, making flight instruments inaccurate"
     ],
     "answer": "It reduces air density, decreasing lift and propeller efficiency",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g36bedf749e8447370aac7c7ee4fdb792",
-    "questionTitle": "Density Altitude 06"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3130,9 +2652,7 @@ const questionBank = [
       "Increasing humidity"
     ],
     "answer": "Increasing atmospheric pressure",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf3f1538e6a506756ab14a4f0cd0e4f8f",
-    "questionTitle": "Density Altitude 07"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3143,9 +2663,7 @@ const questionBank = [
       "Ignore it; only physical altitude matters for drones"
     ],
     "answer": "Expect reduced performance in high density altitude conditions",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g61f4755f350418030fb4444cb17d02e0",
-    "questionTitle": "Density Altitude 08"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3156,9 +2674,7 @@ const questionBank = [
       "Density altitude equals actual altitude"
     ],
     "answer": "Density altitude is higher than actual altitude",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd07585660e25c94fe960b5af143e7fd4",
-    "questionTitle": "Density Altitude 09"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3169,9 +2685,7 @@ const questionBank = [
       "Moderate temperature, moderate humidity, moderate pressure"
     ],
     "answer": "High temperature, high humidity, low atmospheric pressure",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd795d8ddf8764b5b46202a80d38b905e",
-    "questionTitle": "Density Altitude 10"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3182,9 +2696,7 @@ const questionBank = [
       "It determines the maximum battery life of the drone"
     ],
     "answer": "It affects lift and propeller efficiency, impacting drone performance",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gdf2a7693cec165184268d0523af306e4",
-    "questionTitle": "Density Altitude 11"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Density Altitude",
@@ -3195,9 +2707,7 @@ const questionBank = [
       "Has no effect on density altitude"
     ],
     "answer": "Decreases density altitude because air is denser",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9511e5bde279dab702d819a434a352df",
-    "questionTitle": "Density Altitude 12"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3208,9 +2718,7 @@ const questionBank = [
       "Ignore altitude restrictions"
     ],
     "answer": "Identify safe landing zones before flight",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1f9a59c558aa7c2feaf8bb8d9d3834cf",
-    "questionTitle": "EmergencyLandingProcedures01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3221,9 +2729,7 @@ const questionBank = [
       "Fly over obstacles to reach home"
     ],
     "answer": "Land immediately at the nearest safe location",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g748efa708315030ce40e37e19c343bb0",
-    "questionTitle": "EmergencyLandingProcedures02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3234,9 +2740,7 @@ const questionBank = [
       "Having no effect"
     ],
     "answer": "Reducing performance and runtime",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g47bc965fa8b7df0aff52a26d7dc19ac3",
-    "questionTitle": "ExtremeWeather01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3247,9 +2751,7 @@ const questionBank = [
       "Fly closer to the storm for faster return"
     ],
     "answer": "Land immediately at a safe location",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd5e8bd7362b67633d0a4304f3575996b",
-    "questionTitle": "ExtremeWeather02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3260,9 +2762,7 @@ const questionBank = [
       "Only if flying in controlled airspace"
     ],
     "answer": "If injury or property damage exceeds $500 within 10 days (§107.9)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb81c5597e9c436736626f1961fe31c9d",
-    "questionTitle": "FAA_Reporting01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3273,9 +2773,7 @@ const questionBank = [
       "Do not need to be documented"
     ],
     "answer": "Should still be logged for safety review",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd45838bc39244caaf815a7d1fe5151f0",
-    "questionTitle": "FAA_Reporting02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3286,9 +2784,7 @@ const questionBank = [
       "Longer battery life"
     ],
     "answer": "Loss of control or fly-away incidents",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g2ec2aab8d66e62cae10f637579e8965f",
-    "questionTitle": "Frequency01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3299,9 +2795,7 @@ const questionBank = [
       "900 MHz only"
     ],
     "answer": "2.4 GHz and 5.8 GHz",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g775fd47446fcee2b0c03e835a21520b4",
-    "questionTitle": "Frequency02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3312,9 +2806,7 @@ const questionBank = [
       "The unmanned aircraft lands without being prompted"
     ],
     "answer": "Loss of control link and fly-aways are instances where the communication link between the unmanned aircraft and the control station is severed causing the UAS to act unpredictably and often fly-away",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g46a6d957dfda271ed6396dfa25093e10",
-    "questionTitle": "LOC01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3325,9 +2817,7 @@ const questionBank = [
       "Loss of down link"
     ],
     "answer": "Frequency interference",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g744e4adc8eb10f635623daa60e32299b",
-    "questionTitle": "LOC02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3338,9 +2828,7 @@ const questionBank = [
       "Increase throttle to regain connection"
     ],
     "answer": "Activate Return to Home (RTH) or safely land manually",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5bbf2306380b4d557f4b5f25eeb00bfb",
-    "questionTitle": "LOC03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3351,9 +2839,7 @@ const questionBank = [
       "Flying in controlled airspace"
     ],
     "answer": "Interference, out-of-range operation, or dead batteries",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g16be63cd97d81a10f742646452271c77",
-    "questionTitle": "LOC04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3364,9 +2850,7 @@ const questionBank = [
       "Fly anyway but monitor battery closely"
     ],
     "answer": "Do not use the battery and remove it from service",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1d120c84f7f2d196903b0ed96aad2fca",
-    "questionTitle": "LithiumBatteries01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3377,9 +2861,7 @@ const questionBank = [
       "Continue the mission and land as soon as convenient"
     ],
     "answer": "Land immediately at a safe location",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g22f72cb9780e93f6f7980344a0d1e0f2",
-    "questionTitle": "LithiumBatteries02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3390,9 +2872,7 @@ const questionBank = [
       "Perform a test flight to ensure that all items are working properly"
     ],
     "answer": "Assess the condition of the battery and cautiously proceed, following manufacturer’s recommendations",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge3400ce96d6042342e94904c76c51d93",
-    "questionTitle": "LithiumBatteries03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3403,9 +2883,7 @@ const questionBank = [
       "Both"
     ],
     "answer": "Both",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g554bc73ee0acbf1a72a5c415dd120c9e",
-    "questionTitle": "LithiumBatteries04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3416,9 +2894,7 @@ const questionBank = [
       "Motors"
     ],
     "answer": "GPS",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "geaf6fc670cef29bc7fc29dfb098adb33",
-    "questionTitle": "LossOfGPS01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3429,9 +2905,7 @@ const questionBank = [
       "Assume the drone will automatically hover and continue the mission"
     ],
     "answer": "Switch to manual control and navigate to a safe landing zone",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g61b94c77b75b223ef1518dbaedb1813b",
-    "questionTitle": "LossOfGPS02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3442,9 +2916,7 @@ const questionBank = [
       "Increase altitude to pass above the aircraft"
     ],
     "answer": "Immediately yield and land if necessary",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6eebc7fad7e2834deba33cef6302b82c",
-    "questionTitle": "MidAirCollisions01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3455,9 +2927,7 @@ const questionBank = [
       "§107.39 – Operation over people"
     ],
     "answer": "§107.49 – Preflight Familiarization",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf5111ce0278de0bf720938b31dee45b4",
-    "questionTitle": "Part107Regs01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3468,9 +2938,7 @@ const questionBank = [
       "Flying without checking local airspace"
     ],
     "answer": "Inspecting aircraft, batteries, and control systems",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g988d2a82478f8a00e27d027bbd702199",
-    "questionTitle": "PreFlight01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Emergency Procedures",
@@ -3481,9 +2949,7 @@ const questionBank = [
       "Flying at maximum altitude to avoid hazards"
     ],
     "answer": "Identifying alternate landing sites and emergency procedures",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3ff8f143d848302c44b4dda800abb930",
-    "questionTitle": "PreFlight02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Victor Airways",
@@ -3496,9 +2962,7 @@ const questionBank = [
     "answer": "Victor Airways used by manned aircraft starting at 1,200 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/VictorAirways01.png",
-    "imageAlt": "Image for Victor Airways 01 question",
-    "itemId": "g092aecb4cd59349b4485a320aa11efb0",
-    "questionTitle": "Victor Airways 01"
+    "imageAlt": "Question image for Victor Airways 01"
   },
   {
     "bank": "Victor Airways",
@@ -3511,9 +2975,7 @@ const questionBank = [
     "answer": "Victor Airways used by manned aircraft starting at 1,200 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/VictorAirways02.png",
-    "imageAlt": "Image for Victor Airways 02 question",
-    "itemId": "gd800c0d08467891f825f2efb6b31f818",
-    "questionTitle": "Victor Airways 02"
+    "imageAlt": "Question image for Victor Airways 02"
   },
   {
     "bank": "Victor Airways",
@@ -3526,9 +2988,7 @@ const questionBank = [
     "answer": "Victor Airways used by manned aircraft starting at 1,200 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/VictorAirways03.png",
-    "imageAlt": "Image for Victor Airways 03 question",
-    "itemId": "g6a6a4fdcc12ebf3754b9c87f280840ea",
-    "questionTitle": "Victor Airways 03"
+    "imageAlt": "Question image for Victor Airways 03"
   },
   {
     "bank": "OOP - General",
@@ -3538,9 +2998,7 @@ const questionBank = [
       "False - This would be considered \"Brief Transit\" flight and are not subject to the Category 1, 2, 3, or 4 rules."
     ],
     "answer": "False - This would be considered \"Brief Transit\" flight and are not subject to the Category 1, 2, 3, or 4 rules.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga21161eaa2b94764133deaa5575579e4",
-    "questionTitle": "Flights Over People Categores 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - General",
@@ -3552,9 +3010,7 @@ const questionBank = [
       "The drone must fall within Categories 1-4"
     ],
     "answer": "Operations over people are allowed if any of these conditions are met",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9edb7c800fbdce914001a6c16db85036",
-    "questionTitle": "Operations Over People 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - General",
@@ -3565,9 +3021,7 @@ const questionBank = [
       "Flying over people lounging on the beach"
     ],
     "answer": "Hovering over a parade",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g09ceb54e0074c3a26a5051ea977cd88e",
-    "questionTitle": "Sustained Flight 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Types of Airports",
@@ -3578,9 +3032,7 @@ const questionBank = [
       "Only helicopters are allowed"
     ],
     "answer": "It has an operating control tower where ATC provides instructions",
-    "explanation": "Feedback: Towered airports have an operating control tower. ATC manages traffic and provides instructions to pilots to ensure safe and efficient operations.",
-    "itemId": "gd56dc77ec0481948fe5c0e92521b9f0b",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Towered airports have an operating control tower. ATC manages traffic and provides instructions to pilots to ensure safe and efficient operations."
   },
   {
     "bank": "Types of Airports",
@@ -3591,9 +3043,7 @@ const questionBank = [
       "Only communicate with other aircraft"
     ],
     "answer": "Maintain two-way radio communication and comply with ATC instructions",
-    "explanation": "Feedback: Pilots at towered airports are required to communicate with ATC and follow instructions to ensure safe, orderly traffic flow.",
-    "itemId": "g8a923aaafb42f83660db09b25177cf79",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Pilots at towered airports are required to communicate with ATC and follow instructions to ensure safe, orderly traffic flow."
   },
   {
     "bank": "Types of Airports",
@@ -3604,9 +3054,7 @@ const questionBank = [
       "Classes B, C, and D"
     ],
     "answer": "Classes B, C, and D",
-    "explanation": "Feedback: Towered airports are generally found in Class B, C, and D airspace where traffic volume or complexity requires ATC oversight.",
-    "itemId": "g8cd7541638f5568101eb27c263e43203",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Towered airports are generally found in Class B, C, and D airspace where traffic volume or complexity requires ATC oversight."
   },
   {
     "bank": "Types of Airports",
@@ -3617,9 +3065,7 @@ const questionBank = [
       "It is treated as a non-towered airport"
     ],
     "answer": "It is treated as a non-towered airport",
-    "explanation": "Feedback: When a part-time tower (often Class D) is closed, the airport operates as a non-towered airport, and standard non-towered procedures should be followed.",
-    "itemId": "g6d32057984786b47b529e2a4f35aae4f",
-    "questionTitle": "Question"
+    "explanation": "Feedback: When a part-time tower (often Class D) is closed, the airport operates as a non-towered airport, and standard non-towered procedures should be followed."
   },
   {
     "bank": "Types of Airports",
@@ -3630,9 +3076,7 @@ const questionBank = [
       "Prohibited"
     ],
     "answer": "Not required, but good practice",
-    "explanation": "Feedback: Two-way radio communication is not mandatory at non-towered airports, but pilots are encouraged to announce their intentions for safety.",
-    "itemId": "g790bcf7e365d66cb55cccb2d2a885988",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Two-way radio communication is not mandatory at non-towered airports, but pilots are encouraged to announce their intentions for safety."
   },
   {
     "bank": "Types of Airports",
@@ -3643,9 +3087,7 @@ const questionBank = [
       "Pilots should wait until other aircraft leave"
     ],
     "answer": "Pilots should transmit intentions on the designated frequency",
-    "explanation": "Feedback: Non-towered airport procedures rely on pilots announcing their positions and intentions to maintain situational awareness.",
-    "itemId": "g9bc110f58d1a76b2068d41d28694ff7f",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Non-towered airport procedures rely on pilots announcing their positions and intentions to maintain situational awareness."
   },
   {
     "bank": "Types of Airports",
@@ -3656,9 +3098,7 @@ const questionBank = [
       "A small airport used only by helicopters"
     ],
     "answer": "A small airport used only by helicopters",
-    "explanation": "Feedback: Heliports are specifically designed for helicopter operations and may include helipads, lighting, fuel, and hangars.",
-    "itemId": "g24c76200af57d4b1daf493d8d15d581b",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heliports are specifically designed for helicopter operations and may include helipads, lighting, fuel, and hangars."
   },
   {
     "bank": "Types of Airports",
@@ -3669,9 +3109,7 @@ const questionBank = [
       "Helipads, lighting, and occasionally hangars or fuel"
     ],
     "answer": "Helipads, lighting, and occasionally hangars or fuel",
-    "explanation": "Feedback: Heliports are typically small and may have one or more helipads, lighting, fueling, and limited hangars, but not full airport infrastructure.",
-    "itemId": "g20a842c3c1453c7eb956a64031cfe4fd",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heliports are typically small and may have one or more helipads, lighting, fueling, and limited hangars, but not full airport infrastructure."
   },
   {
     "bank": "Types of Airports",
@@ -3682,9 +3120,7 @@ const questionBank = [
       "A facility with areas for parking and servicing seaplanes or amphibious aircraft"
     ],
     "answer": "A facility with areas for parking and servicing seaplanes or amphibious aircraft",
-    "explanation": "Feedback: Seaplane bases provide designated areas for seaplanes and amphibious aircraft, often on bodies of water, along with services for these aircraft.",
-    "itemId": "g405ce44dd81c9696726e53e45f8ffacf",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Seaplane bases provide designated areas for seaplanes and amphibious aircraft, often on bodies of water, along with services for these aircraft."
   },
   {
     "bank": "Types of Airports",
@@ -3695,9 +3131,7 @@ const questionBank = [
       "To determine if increased air traffic exists on the water"
     ],
     "answer": "To determine if increased air traffic exists on the water",
-    "explanation": "Feedback: Seaplane bases indicate areas of increased aircraft activity on water, which is important for safety when operating a small unmanned aircraft nearby.",
-    "itemId": "g3f6adfe4a4be09f723d643dfd755c77a",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Seaplane bases indicate areas of increased aircraft activity on water, which is important for safety when operating a small unmanned aircraft nearby."
   },
   {
     "bank": "Types of Airports",
@@ -3708,9 +3142,7 @@ const questionBank = [
       "Non-towered airports have mandatory ATC oversight at night"
     ],
     "answer": "Only towered airports have ATC actively controlling traffic",
-    "explanation": "Feedback: ATC actively manages traffic at towered airports, while non-towered airports rely on pilot self-announcing procedures.",
-    "itemId": "g37671a32a875379e374eb12eccc2ce40",
-    "questionTitle": "Question"
+    "explanation": "Feedback: ATC actively manages traffic at towered airports, while non-towered airports rely on pilot self-announcing procedures."
   },
   {
     "bank": "Types of Airports",
@@ -3721,9 +3153,7 @@ const questionBank = [
       "Heliports"
     ],
     "answer": "Heliports",
-    "explanation": "Feedback: Heliports lack standardized flow procedures; pilots use common sense and local guidance to coordinate operations.",
-    "itemId": "g9e40a253c51d87d5d421ee5dafd6e39a",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heliports lack standardized flow procedures; pilots use common sense and local guidance to coordinate operations."
   },
   {
     "bank": "Types of Airports",
@@ -3734,9 +3164,7 @@ const questionBank = [
       "Only fly at night"
     ],
     "answer": "Consult charts to determine the location and activity of the base",
-    "explanation": "Feedback: Checking sectional charts and supplements helps ensure safety near seaplane bases with potentially higher traffic.",
-    "itemId": "g7096cd1990ca647bbe81ab421aaefc62",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Checking sectional charts and supplements helps ensure safety near seaplane bases with potentially higher traffic."
   },
   {
     "bank": "Types of Airports",
@@ -3747,9 +3175,7 @@ const questionBank = [
       "Only helicopters are allowed"
     ],
     "answer": "There is no operating control tower",
-    "explanation": "Feedback: Non-towered airports operate without an ATC tower; pilots self-announce to coordinate movements.",
-    "itemId": "g135f202231871fae30135a75b5f45d78",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Non-towered airports operate without an ATC tower; pilots self-announce to coordinate movements."
   },
   {
     "bank": "Types of Airports",
@@ -3760,9 +3186,7 @@ const questionBank = [
       "The airport is closed when the tower is not operating"
     ],
     "answer": "ATC provides services only when the tower is open",
-    "explanation": "Feedback: Part-time towered airports have ATC coverage only during operational hours; outside those hours, pilots follow non-towered procedures.",
-    "itemId": "g25bd84bb4a30b88addec33cef3b9df34",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Part-time towered airports have ATC coverage only during operational hours; outside those hours, pilots follow non-towered procedures."
   },
   {
     "bank": "Types of Airports",
@@ -3773,9 +3197,7 @@ const questionBank = [
       "Towered airports are only for helicopters"
     ],
     "answer": "ATC provides safe, orderly, and expeditious flow of air traffic",
-    "explanation": "Feedback: ATC ensures safe, efficient traffic flow at towered airports, and pilots must comply with instructions.",
-    "itemId": "g5aa4198aa24cd6045a6009382b641501",
-    "questionTitle": "Question"
+    "explanation": "Feedback: ATC ensures safe, efficient traffic flow at towered airports, and pilots must comply with instructions."
   },
   {
     "bank": "Types of Airports",
@@ -3786,9 +3208,7 @@ const questionBank = [
       "Seaplane bases support amphibious or seaplane operations on water"
     ],
     "answer": "Seaplane bases support amphibious or seaplane operations on water",
-    "explanation": "Feedback: Seaplane bases provide facilities and parking areas for seaplanes; heliports are specifically for helicopters.",
-    "itemId": "g65553d0ac2fa3bb79c7f4607cc9b6287",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Seaplane bases provide facilities and parking areas for seaplanes; heliports are specifically for helicopters."
   },
   {
     "bank": "Types of Airports",
@@ -3799,9 +3219,7 @@ const questionBank = [
       "Only communicate with ground vehicles"
     ],
     "answer": "Use the common traffic advisory frequency to announce position and intentions",
-    "explanation": "Feedback: At non-towered airports, self-announcing on the CTAF is recommended to maintain situational awareness and avoid conflicts.",
-    "itemId": "g4637c0262fa9d93e34ecab1a8ff6a8d7",
-    "questionTitle": "Question"
+    "explanation": "Feedback: At non-towered airports, self-announcing on the CTAF is recommended to maintain situational awareness and avoid conflicts."
   },
   {
     "bank": "Types of Airports",
@@ -3812,9 +3230,7 @@ const questionBank = [
       "Heliports"
     ],
     "answer": "Towered airports",
-    "explanation": "Feedback: At towered airports, pilots must receive and acknowledge ATC clearance before taking the runway for landing or takeoff.",
-    "itemId": "g80a721118005428d63dc164a255cd452",
-    "questionTitle": "Question"
+    "explanation": "Feedback: At towered airports, pilots must receive and acknowledge ATC clearance before taking the runway for landing or takeoff."
   },
   {
     "bank": "Types of Airports",
@@ -3825,9 +3241,7 @@ const questionBank = [
       "Helipads, lighting, and fuel services"
     ],
     "answer": "Helipads, lighting, and fuel services",
-    "explanation": "Feedback: Heliports are smaller and simpler than traditional airports, usually including pads, lighting, and fuel but not full runway infrastructure.",
-    "itemId": "gb415ef2add7b909590ad78dad3fc7955",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heliports are smaller and simpler than traditional airports, usually including pads, lighting, and fuel but not full runway infrastructure."
   },
   {
     "bank": "Types of Airports",
@@ -3838,9 +3252,7 @@ const questionBank = [
       "ATC continues to provide instructions remotely"
     ],
     "answer": "The airport operates as non-towered",
-    "explanation": "Feedback: Once a part-time tower is closed, standard non-towered procedures apply until the tower reopens.",
-    "itemId": "ge39c5f47b207deeb9042c0348e1f7e01",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Once a part-time tower is closed, standard non-towered procedures apply until the tower reopens."
   },
   {
     "bank": "Types of Airports",
@@ -3851,9 +3263,7 @@ const questionBank = [
       "Seaplane base"
     ],
     "answer": "Seaplane base",
-    "explanation": "Feedback: Seaplane bases indicate active water operations, so extra caution is needed to avoid conflicts when flying UAS nearby.",
-    "itemId": "g21f942ddca8fb63a0ccdc146d3ef1d6e",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Seaplane bases indicate active water operations, so extra caution is needed to avoid conflicts when flying UAS nearby."
   },
   {
     "bank": "Types of Airports",
@@ -3864,9 +3274,7 @@ const questionBank = [
       "Avoid the area completely"
     ],
     "answer": "Follow non-towered airport procedures and self-announce on the CTAF",
-    "explanation": "Feedback: When a part-time towered airport is closed, it operates like a non-towered airport. Pilots should self-announce on the CTAF and follow standard non-towered procedures.",
-    "itemId": "g7fc248614a8ad2a76646d77978a02e05",
-    "questionTitle": "Question"
+    "explanation": "Feedback: When a part-time towered airport is closed, it operates like a non-towered airport. Pilots should self-announce on the CTAF and follow standard non-towered procedures."
   },
   {
     "bank": "Types of Airports",
@@ -3877,9 +3285,7 @@ const questionBank = [
       "Fly as close as possible to test your UAS’s capabilities"
     ],
     "answer": "Check the chart and supplements, and maintain extra vigilance for increased traffic",
-    "explanation": "Feedback: Seaplane bases indicate areas of active seaplane operations. The Remote PIC should consult charts and maintain awareness to avoid conflicts.",
-    "itemId": "gdce8cfffa93e9551d6e1f4d4fbed8da9",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Seaplane bases indicate areas of active seaplane operations. The Remote PIC should consult charts and maintain awareness to avoid conflicts."
   },
   {
     "bank": "Types of Airports",
@@ -3890,9 +3296,7 @@ const questionBank = [
       "Ignore the heliport unless a helicopter is visible"
     ],
     "answer": "Maintain a safe distance and avoid interfering with helicopter operations",
-    "explanation": "Feedback: Heliports often have active helicopter traffic. UAS pilots must maintain separation to avoid interfering with operations.",
-    "itemId": "g4b1ffead3b61a2e35c075cfc3d8ae833",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heliports often have active helicopter traffic. UAS pilots must maintain separation to avoid interfering with operations."
   },
   {
     "bank": "Types of Airports",
@@ -3903,9 +3307,7 @@ const questionBank = [
       "Only check for other aircraft visually"
     ],
     "answer": "Two-way radio communication with ATC and clearance",
-    "explanation": "Feedback: Class C airspace requires establishing two-way communication and following ATC instructions before entry.",
-    "itemId": "g78f5edf64629954be383a3171ff26bcb",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Class C airspace requires establishing two-way communication and following ATC instructions before entry."
   },
   {
     "bank": "Types of Airports",
@@ -3916,9 +3318,7 @@ const questionBank = [
       "Temperature only"
     ],
     "answer": "Potentially increased air traffic due to seaplane operations",
-    "explanation": "Feedback: Seaplane bases often have increased aircraft activity. Remote PICs should be cautious and maintain situational awareness.",
-    "itemId": "g2e18d37a3f0db36f559b3591fe3d1298",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Seaplane bases often have increased aircraft activity. Remote PICs should be cautious and maintain situational awareness."
   },
   {
     "bank": "Types of Airports",
@@ -3929,9 +3329,7 @@ const questionBank = [
       "Contact ATC and wait for remote clearance"
     ],
     "answer": "Follow non-towered procedures once the tower is closed",
-    "explanation": "Feedback: After the tower closes, the airport is treated as non-towered. Pilots should self-announce and follow standard procedures.",
-    "itemId": "g541fca3b4c2d2d436b68514d50092a42",
-    "questionTitle": "Question"
+    "explanation": "Feedback: After the tower closes, the airport is treated as non-towered. Pilots should self-announce and follow standard procedures."
   },
   {
     "bank": "Types of Airports",
@@ -3942,9 +3340,7 @@ const questionBank = [
       "Heliports have less standardized traffic flow than traditional airports"
     ],
     "answer": "Heliports have less standardized traffic flow than traditional airports",
-    "explanation": "Feedback: Unlike towered airports, heliports often lack standardized procedures; pilots must coordinate visually and with common sense.",
-    "itemId": "g55fbc94b5e8ceddaeec4b3128bc37fba",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Unlike towered airports, heliports often lack standardized procedures; pilots must coordinate visually and with common sense."
   },
   {
     "bank": "Types of Airports",
@@ -3955,9 +3351,7 @@ const questionBank = [
       "Towered airport with Class B airspace"
     ],
     "answer": "Towered airport with Class B airspace",
-    "explanation": "Feedback: Solid blue lines on sectional charts indicate towered airports with controlled airspace (Class B).",
-    "itemId": "g37149cf034942f360c2c7f1e4dd9f6ca",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Solid blue lines on sectional charts indicate towered airports with controlled airspace (Class B)."
   },
   {
     "bank": "Types of Airports",
@@ -3968,9 +3362,7 @@ const questionBank = [
       "Land immediately on the runway"
     ],
     "answer": "Hold position and ensure you don’t interfere with manned traffic",
-    "explanation": "Feedback: At non-towered airports, maintaining safe separation and avoiding manned aircraft is critical; self-announcing helps coordination.",
-    "itemId": "g1a84c134a30bd4a2443626847a15a422",
-    "questionTitle": "Question"
+    "explanation": "Feedback: At non-towered airports, maintaining safe separation and avoiding manned aircraft is critical; self-announcing helps coordination."
   },
   {
     "bank": "Types of Airports",
@@ -3981,9 +3373,7 @@ const questionBank = [
       "Only fly at night when helicopter activity is lower"
     ],
     "answer": "Maintain visual line-of-sight at a safe lateral distance from helicopter operations",
-    "explanation": "Feedback: Maintain safe separation and line-of-sight to avoid interfering with helicopter operations.",
-    "itemId": "ga80c3cd0063f4c56c20bc841551e0bae",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Maintain safe separation and line-of-sight to avoid interfering with helicopter operations."
   },
   {
     "bank": "Types of Airports",
@@ -3994,9 +3384,7 @@ const questionBank = [
       "Fly at maximum altitude to avoid conflict"
     ],
     "answer": "Exercise extra caution and avoid flight paths over the base",
-    "explanation": "Feedback: Pilots should account for increased manned traffic during active hours at seaplane bases and maintain situational awareness.",
-    "itemId": "g39f3b0dbcd63bf25a15dc1cdcb92e932",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Pilots should account for increased manned traffic during active hours at seaplane bases and maintain situational awareness."
   },
   {
     "bank": "Types of Airports",
@@ -4007,9 +3395,7 @@ const questionBank = [
       "Heliport"
     ],
     "answer": "Towered airport",
-    "explanation": "Feedback: Towered airports require pilots to communicate and receive clearance from ATC before using the runway.",
-    "itemId": "g51e6fd751b7955eadbb88798ca8c71ad",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Towered airports require pilots to communicate and receive clearance from ATC before using the runway."
   },
   {
     "bank": "Types of Airports",
@@ -4020,9 +3406,7 @@ const questionBank = [
       "Seaplane base"
     ],
     "answer": "Part-time towered airport",
-    "explanation": "Feedback: Dashed blue lines on sectional charts indicate Class D airports with towers that operate part-time.",
-    "itemId": "gb1e9fb250c36633bd924ee80208cd00a",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Dashed blue lines on sectional charts indicate Class D airports with towers that operate part-time."
   },
   {
     "bank": "Types of Airports",
@@ -4033,9 +3417,7 @@ const questionBank = [
       "AWOS"
     ],
     "answer": "CTAF (Common Traffic Advisory Frequency)",
-    "explanation": "Feedback: Pilots announce position and intentions on the CTAF to coordinate safely at non-towered airports.",
-    "itemId": "gd0e8bdac0e1117a874bfdcf7d2f1694d",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Pilots announce position and intentions on the CTAF to coordinate safely at non-towered airports."
   },
   {
     "bank": "Types of Airports",
@@ -4046,9 +3428,7 @@ const questionBank = [
       "Ignore the supplement; it’s advisory only"
     ],
     "answer": "Expect manned seaplane traffic only during daylight hours",
-    "explanation": "Feedback: Flight planning should account for hours of seaplane activity to avoid conflicts.",
-    "itemId": "gfea22301403f0b6e79bb72091e1a6b5d",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Flight planning should account for hours of seaplane activity to avoid conflicts."
   },
   {
     "bank": "Types of Airports",
@@ -4059,9 +3439,7 @@ const questionBank = [
       "Only visually check for other traffic"
     ],
     "answer": "Establish two-way radio communication with the tower",
-    "explanation": "Feedback: When the tower is open, two-way communication with ATC is required, even in part-time Class D airspace.",
-    "itemId": "g75bed1c49fdf7ad476fde88593359663",
-    "questionTitle": "Question"
+    "explanation": "Feedback: When the tower is open, two-way communication with ATC is required, even in part-time Class D airspace."
   },
   {
     "bank": "Types of Airports",
@@ -4072,9 +3450,7 @@ const questionBank = [
       "Helicopter operations only"
     ],
     "answer": "Helicopter operations only",
-    "explanation": "Feedback: Heliports are designed exclusively for helicopters and may include helipads, lighting, and fueling.",
-    "itemId": "g49bc3765597dd29c76de9a0e2080f128",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heliports are designed exclusively for helicopters and may include helipads, lighting, and fueling."
   },
   {
     "bank": "Types of Airports",
@@ -4085,9 +3461,7 @@ const questionBank = [
       "Land on the water to observe traffic"
     ],
     "answer": "Stay clear of the approach and departure paths of seaplanes",
-    "explanation": "Feedback: Maintaining separation from seaplane approach and departure paths avoids potential conflicts.",
-    "itemId": "g892f1fed506907200ade307cc1dcb594",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Maintaining separation from seaplane approach and departure paths avoids potential conflicts."
   },
   {
     "bank": "Types of Airports",
@@ -4098,9 +3472,7 @@ const questionBank = [
       "Turn off communication to avoid confusion"
     ],
     "answer": "Adjust altitude or location to maintain safe separation",
-    "explanation": "Feedback: Self-coordination via CTAF and adjusting position or altitude ensures safety at non-towered airports.",
-    "itemId": "g4f2ec061abfa78dd114f4089ca170bbc",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Self-coordination via CTAF and adjusting position or altitude ensures safety at non-towered airports."
   },
   {
     "bank": "Types of Airports",
@@ -4111,9 +3483,7 @@ const questionBank = [
       "Operation only at night"
     ],
     "answer": "Compliance with ATC instructions while the tower is open",
-    "explanation": "Feedback: Legal operation near an active towered airport requires following ATC instructions for safety and compliance.",
-    "itemId": "g0996b3056e982dc885750349a093f313",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Legal operation near an active towered airport requires following ATC instructions for safety and compliance."
   },
   {
     "bank": "Clouds and Icing",
@@ -4124,9 +3494,7 @@ const questionBank = [
       "Altocumulus"
     ],
     "answer": "Cumulonimbus",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf1b087dca8fc9914d789596b242bd2b1",
-    "questionTitle": "Clouds 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Clouds and Icing",
@@ -4137,9 +3505,7 @@ const questionBank = [
       "Fog at low altitudes"
     ],
     "answer": "Strong winds, especially in mountainous areas",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga37dc58236188f47e9d422c055a161c8",
-    "questionTitle": "Clouds 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Clouds and Icing",
@@ -4150,9 +3516,7 @@ const questionBank = [
       "They reduce visibility"
     ],
     "answer": "They produce turbulence due to rapid vertical air movement",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1c8aec7b75f1281f168597b83b9ecaa2",
-    "questionTitle": "Clouds 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Clouds and Icing",
@@ -4163,9 +3527,7 @@ const questionBank = [
       "Fog formation"
     ],
     "answer": "Turbulent winds that can affect UAV control",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g475f01220b596fede21f0bf0587cfa0f",
-    "questionTitle": "Clouds 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Clouds and Icing",
@@ -4176,9 +3538,7 @@ const questionBank = [
       "Cold air reduces propeller efficiency"
     ],
     "answer": "Water droplets freeze on aircraft surfaces",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gfe5223e1dd1ce312ae3fec08ed444b5f",
-    "questionTitle": "Icing 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Clouds and Icing",
@@ -4189,9 +3549,7 @@ const questionBank = [
       "Light rain above 40°F"
     ],
     "answer": "Freezing rain at or near 32°F (0°C)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g69a5cb5e92464899e42788648a192ee2",
-    "questionTitle": "Icing 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Clouds and Icing",
@@ -4202,9 +3560,7 @@ const questionBank = [
       "During high temperatures above 85°F"
     ],
     "answer": "In low clouds or fog when temperatures are near freezing",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gcdc02bff478adf2ffd21ac7cb7927936",
-    "questionTitle": "Icing 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Clouds and Icing",
@@ -4215,9 +3571,7 @@ const questionBank = [
       "Improves lift and stability"
     ],
     "answer": "Can reduce lift, overwork motors, and cause a stall or crash",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0eba41bb4730146e0ab41f86a7cf0d19",
-    "questionTitle": "Icing 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "VFR Checkpoints",
@@ -4230,9 +3584,7 @@ const questionBank = [
     "answer": "The airport is a visual flight rules checkpoint so the UAV pilot should expect a higher concentration of manned flights in the area",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/VFR01.png",
-    "imageAlt": "Image for Checkpoints 01 question",
-    "itemId": "gff8e3d05ccd2f80e81e675373d688024",
-    "questionTitle": "Checkpoints 01"
+    "imageAlt": "Question image for Checkpoints 01"
   },
   {
     "bank": "VFR Checkpoints",
@@ -4245,9 +3597,7 @@ const questionBank = [
     "answer": "The town is a visual flight rules checkpoint so the UAV pilot should expect a higher concentration of manned flights in the area",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/VFR02.png",
-    "imageAlt": "Image for Checkpoints 02 question",
-    "itemId": "g3ce765d331fd1332f33657c7ebb29ec9",
-    "questionTitle": "Checkpoints 02"
+    "imageAlt": "Question image for Checkpoints 02"
   },
   {
     "bank": "VFR Checkpoints",
@@ -4260,9 +3610,7 @@ const questionBank = [
     "answer": "The lighthouse is a visual flight rules checkpoint so the UAV pilot should expect a higher concentration of manned flights in the area",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/VFR03.png",
-    "imageAlt": "Image for Checkpoints 03 question",
-    "itemId": "g3765e9c2357ab88df0a6edef883badb3",
-    "questionTitle": "Checkpoints 03"
+    "imageAlt": "Question image for Checkpoints 03"
   },
   {
     "bank": "Weight and Loading",
@@ -4273,9 +3621,7 @@ const questionBank = [
       "Guy wires"
     ],
     "answer": "Unfavorable wind conditions",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5bf7d70f57d8055ce7b5bb4c788368d6",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Weight and Loading",
@@ -4286,9 +3632,7 @@ const questionBank = [
       "Increased maneuverability"
     ],
     "answer": "Decrease speed",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g69536185d57a083824090cbe3f3a48e1",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Weight and Loading",
@@ -4299,9 +3643,7 @@ const questionBank = [
       "Center of Gravity is not affected by weight and balance"
     ],
     "answer": "Exceeding weight and balance limits may result in loss of control",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7afdd7ad868df81e2d7cf372f9254e9e",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Weight and Loading",
@@ -4312,9 +3654,7 @@ const questionBank = [
       "Lower stalling speed"
     ],
     "answer": "Longer takeoff and launch runs",
-    "explanation": "Feedback: Extra weight requires more lift and thrust, resulting in longer takeoff distances.",
-    "itemId": "g971ef9a725da93da62205610aec9f72d",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Extra weight requires more lift and thrust, resulting in longer takeoff distances."
   },
   {
     "bank": "Weight and Loading",
@@ -4325,9 +3665,7 @@ const questionBank = [
       "It has no effect"
     ],
     "answer": "It reduces the rate of climb",
-    "explanation": "Feedback: Heavier aircraft require more lift, which reduces the rate of climb.",
-    "itemId": "gd161592ffe4c115e4e75a9018f1e1565",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heavier aircraft require more lift, which reduces the rate of climb."
   },
   {
     "bank": "Weight and Loading",
@@ -4338,9 +3676,7 @@ const questionBank = [
       "Maximum altitude is unchanged"
     ],
     "answer": "Maximum altitude decreases",
-    "explanation": "Feedback: Extra weight reduces lift and performance, limiting the UAV’s maximum achievable altitude.",
-    "itemId": "gbdf7ed5173738789a32d1ce234d72fca",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Extra weight reduces lift and performance, limiting the UAV’s maximum achievable altitude."
   },
   {
     "bank": "Weight and Loading",
@@ -4351,9 +3687,7 @@ const questionBank = [
       "Cruising speed remains the same"
     ],
     "answer": "Cruising speed decreases",
-    "explanation": "Feedback: Heavier UAVs face more drag and require more lift, reducing normal cruising speed.",
-    "itemId": "g9db3b01368aec1e1314ae9cb31a50737",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heavier UAVs face more drag and require more lift, reducing normal cruising speed."
   },
   {
     "bank": "Weight and Loading",
@@ -4364,9 +3698,7 @@ const questionBank = [
       "Maneuverability is unaffected"
     ],
     "answer": "Maneuverability decreases",
-    "explanation": "Feedback: Extra weight increases inertia and makes the UAV less responsive to control inputs.",
-    "itemId": "g72d13e4100a01deec8fc409878b0d202",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Extra weight increases inertia and makes the UAV less responsive to control inputs."
   },
   {
     "bank": "Weight and Loading",
@@ -4377,9 +3709,7 @@ const questionBank = [
       "Stall speed remains the same"
     ],
     "answer": "Stall speed increases",
-    "explanation": "Feedback: Heavier aircraft require higher airspeed to generate sufficient lift, increasing stall speed.",
-    "itemId": "ge606a9291a4c0ef7284428a4b273c76a",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heavier aircraft require higher airspeed to generate sufficient lift, increasing stall speed."
   },
   {
     "bank": "Weight and Loading",
@@ -4390,9 +3720,7 @@ const questionBank = [
       "Speeds remain the same"
     ],
     "answer": "Speeds increase",
-    "explanation": "Feedback: Heavier aircraft require higher approach speeds to maintain lift, which increases landing speed.",
-    "itemId": "gacf69defb3e278fb99f888762812d407",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Heavier aircraft require higher approach speeds to maintain lift, which increases landing speed."
   },
   {
     "bank": "Weight and Loading",
@@ -4403,9 +3731,7 @@ const questionBank = [
       "Weight does not affect high-altitude operations"
     ],
     "answer": "Extra load and high density altitude both decrease performance",
-    "explanation": "Feedback: High density altitude reduces air density, which decreases lift and engine performance; combined with extra weight, this can significantly reduce UAV performance.",
-    "itemId": "g9e49709577a40d63504f221edbda136f",
-    "questionTitle": "Question"
+    "explanation": "Feedback: High density altitude reduces air density, which decreases lift and engine performance; combined with extra weight, this can significantly reduce UAV performance."
   },
   {
     "bank": "Weight and Loading",
@@ -4416,9 +3742,7 @@ const questionBank = [
       "Reduced rate of climb and longer takeoff roll"
     ],
     "answer": "Reduced rate of climb and longer takeoff roll",
-    "explanation": "Feedback: High density altitude and extra weight both reduce lift and performance, requiring longer takeoff distances and decreasing climb rate.",
-    "itemId": "ge5d4bc72ec5417b1e29555beb25fe244",
-    "questionTitle": "Question"
+    "explanation": "Feedback: High density altitude and extra weight both reduce lift and performance, requiring longer takeoff distances and decreasing climb rate."
   },
   {
     "bank": "Weight and Loading",
@@ -4429,9 +3753,7 @@ const questionBank = [
       "To reduce radio interference"
     ],
     "answer": "To ensure the UAV flies safely and performs as expected",
-    "explanation": "Feedback: Exceeding weight limits can reduce performance, stability, and safety, making flight operations more hazardous.",
-    "itemId": "g1bb26209967a0116ceeaea255a1b561c",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Exceeding weight limits can reduce performance, stability, and safety, making flight operations more hazardous."
   },
   {
     "bank": "Speed Limit Operations",
@@ -4442,9 +3764,7 @@ const questionBank = [
       "87 mph"
     ],
     "answer": "100 mph",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge592ff192ecc644e752b1e3697627d2c",
-    "questionTitle": "Speed Limit"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Four Forces",
@@ -4455,9 +3775,7 @@ const questionBank = [
       "Thrust and drag are equal to lift and weight"
     ],
     "answer": "Lift equals weight and thrust equal drag",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd198deab144b533fa09868ca3899820f",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Four Forces",
@@ -4468,9 +3786,7 @@ const questionBank = [
       "Power, drag, weight (Gravity), and thrust"
     ],
     "answer": "Lift, drag, weight (Gravity), and thrust",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4120cb33fa7d583f6019efafdc798abe",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Four Forces",
@@ -4481,9 +3797,7 @@ const questionBank = [
       "During acceleration"
     ],
     "answer": "During un-accelerated flight",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1cc5bda97a2fae445ffa20ca56f369cb",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Four Forces",
@@ -4494,9 +3808,7 @@ const questionBank = [
       "Weight"
     ],
     "answer": "Weight",
-    "explanation": "Feedback: Weight is the force of gravity acting on the aircraft, pulling it toward the earth.",
-    "itemId": "g6e0c0b3bc3fac9de619a45a6fc3e2b45",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Weight is the force of gravity acting on the aircraft, pulling it toward the earth."
   },
   {
     "bank": "Four Forces",
@@ -4507,9 +3819,7 @@ const questionBank = [
       "Propellers pushing air downward"
     ],
     "answer": "Propellers pushing air downward",
-    "explanation": "Feedback: On a multi-rotor UAV, lift is generated as the propellers push air downward, counteracting gravity.",
-    "itemId": "gdfd19885c557aca83ce9bace8a2c4fe5",
-    "questionTitle": "Question"
+    "explanation": "Feedback: On a multi-rotor UAV, lift is generated as the propellers push air downward, counteracting gravity."
   },
   {
     "bank": "Four Forces",
@@ -4520,9 +3830,7 @@ const questionBank = [
       "Gravity acting on the aircraft"
     ],
     "answer": "Differences in air pressure over and under the wings",
-    "explanation": "Feedback: Fixed-wing UAVs generate lift through high and low pressure areas created as air flows over the wings.",
-    "itemId": "g0953fa9e440a5f00c2709866f7d2ac34",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Fixed-wing UAVs generate lift through high and low pressure areas created as air flows over the wings."
   },
   {
     "bank": "Four Forces",
@@ -4533,9 +3841,7 @@ const questionBank = [
       "Pulls the UAV down"
     ],
     "answer": "Propels the aircraft forward",
-    "explanation": "Feedback: Thrust moves the aircraft forward and opposes drag.",
-    "itemId": "gc3261b95f925493edb2aa0f52996294c",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Thrust moves the aircraft forward and opposes drag."
   },
   {
     "bank": "Four Forces",
@@ -4546,9 +3852,7 @@ const questionBank = [
       "The force that propels the UAV forward"
     ],
     "answer": "The force opposing thrust, slowing the aircraft",
-    "explanation": "Feedback: Drag is caused by friction and air resistance, opposing thrust and slowing the aircraft.",
-    "itemId": "geab9638fe5e530ba90044a8511d541d5",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Drag is caused by friction and air resistance, opposing thrust and slowing the aircraft."
   },
   {
     "bank": "Four Forces",
@@ -4559,9 +3863,7 @@ const questionBank = [
       "Lift and thrust"
     ],
     "answer": "Lift and weight",
-    "explanation": "Feedback: Lift acts upward and weight acts downward; in level flight, these forces are balanced.",
-    "itemId": "gd264c9df406e7fb2074db60ed80e9977",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Lift acts upward and weight acts downward; in level flight, these forces are balanced."
   },
   {
     "bank": "Four Forces",
@@ -4572,9 +3874,7 @@ const questionBank = [
       "The aircraft will stall"
     ],
     "answer": "The aircraft will accelerate forward",
-    "explanation": "Feedback: Thrust exceeding drag causes forward acceleration.",
-    "itemId": "g1cd57f0ecee05ae4d297c3c2921161e6",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Thrust exceeding drag causes forward acceleration."
   },
   {
     "bank": "Four Forces",
@@ -4585,9 +3885,7 @@ const questionBank = [
       "It will move forward faster"
     ],
     "answer": "It will descend",
-    "explanation": "Feedback: When lift is less than weight, the aircraft cannot counteract gravity and will descend.",
-    "itemId": "g4436f0ff782ad59a9c2e73db7558743c",
-    "questionTitle": "Question"
+    "explanation": "Feedback: When lift is less than weight, the aircraft cannot counteract gravity and will descend."
   },
   {
     "bank": "Four Forces",
@@ -4598,9 +3896,7 @@ const questionBank = [
       "Generate less drag than a large, boxy UAV"
     ],
     "answer": "Generate less drag than a large, boxy UAV",
-    "explanation": "Feedback: A streamlined UAV reduces friction with the air, producing less drag.",
-    "itemId": "g710d9d80a8838d5dc3a40abda3b9fd1f",
-    "questionTitle": "Question"
+    "explanation": "Feedback: A streamlined UAV reduces friction with the air, producing less drag."
   },
   {
     "bank": "Four Forces",
@@ -4611,9 +3907,7 @@ const questionBank = [
       "They push air downward at an angle, propelling the UAV forward and upward"
     ],
     "answer": "They push air downward at an angle, propelling the UAV forward and upward",
-    "explanation": "Feedback: On multi-rotor UAVs, tilting propellers can generate both lift (upward) and thrust (forward).",
-    "itemId": "g0388318bfb73b5dae977949a2b843c0a",
-    "questionTitle": "Question"
+    "explanation": "Feedback: On multi-rotor UAVs, tilting propellers can generate both lift (upward) and thrust (forward)."
   },
   {
     "bank": "Obstructions",
@@ -4626,9 +3920,7 @@ const questionBank = [
     "answer": "No, even flying at the maximum elevation of 625 feet AGL, you are still in Class G airspace.",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Tower01.png",
-    "imageAlt": "Image for Obstruction 01 question",
-    "itemId": "g6c615f12bc58830b40ed0f5d1defceb7",
-    "questionTitle": "Obstruction 01"
+    "imageAlt": "Question image for Obstruction 01"
   },
   {
     "bank": "Obstructions",
@@ -4641,9 +3933,7 @@ const questionBank = [
     "answer": "You are in Class C airspace beginning at 1,300 feet MSL and will need prior authorization",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Tower02.png",
-    "imageAlt": "Image for Obstruction 02 question",
-    "itemId": "g875f3247295671c140320df492c1fb60",
-    "questionTitle": "Obstruction 02"
+    "imageAlt": "Question image for Obstruction 02"
   },
   {
     "bank": "Obstructions",
@@ -4656,9 +3946,7 @@ const questionBank = [
     "answer": "You will be flying at a maximum altitude of 720 feet AGL putting you in Class E airspace so you will need prior authorization.",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Tower03.png",
-    "imageAlt": "Image for Obstruction 03 question",
-    "itemId": "ga19a9bcd74d72a82adc208f60b335eda",
-    "questionTitle": "Obstruction 03"
+    "imageAlt": "Question image for Obstruction 03"
   },
   {
     "bank": "Obstructions",
@@ -4671,9 +3959,7 @@ const questionBank = [
     "answer": "3,076 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Windturbine01.png",
-    "imageAlt": "Image for Windmill 01 question",
-    "itemId": "g85e5db18aeb5e60bff4d9d660c19d618",
-    "questionTitle": "Windmill 01"
+    "imageAlt": "Question image for Windmill 01"
   },
   {
     "bank": "Obstructions",
@@ -4686,9 +3972,7 @@ const questionBank = [
     "answer": "Flying at 887 feet MSL puts you inside the Class E controlled airspace starting at approximately 750' MSL so you need prior authorization",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Windturbine02.png",
-    "imageAlt": "Image for Windmill 02 question",
-    "itemId": "g57a61927cc94994989efa9aa5dce7cf5",
-    "questionTitle": "Windmill 02"
+    "imageAlt": "Question image for Windmill 02"
   },
   {
     "bank": "Obstructions",
@@ -4701,9 +3985,7 @@ const questionBank = [
     "answer": "There isn't enough information visible in the sectional chart to answer this question. Since we don't know the height of the wind turbines in AGL, we cannot determine which airspace we are in.",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Windturbine03.png",
-    "imageAlt": "Image for Windmill 03 question",
-    "itemId": "g0bc85dff67401a3eb392fe9a01bcbdf4",
-    "questionTitle": "Windmill 03"
+    "imageAlt": "Question image for Windmill 03"
   },
   {
     "bank": "Bird and Wildlife Hazards",
@@ -4715,9 +3997,7 @@ const questionBank = [
       "increase noise levels"
     ],
     "answer": "can collide with aircraft causing damage",
-    "explanation": "Feedback: Wildlife strikes, especially birds, can cause serious damage to propellers, rotors, or engines.",
-    "itemId": "g3b7010f03e6209e7a3e1e4ddab8854b5",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Wildlife strikes, especially birds, can cause serious damage to propellers, rotors, or engines."
   },
   {
     "bank": "Bird and Wildlife Hazards",
@@ -4729,9 +4009,7 @@ const questionBank = [
       "painting runway edges"
     ],
     "answer": "habitat management and dispersal techniques",
-    "explanation": "Feedback: Habitat management, pyrotechnics, and other dispersal methods are used to reduce wildlife risks near runways.",
-    "itemId": "ge1d86dfb86de5f9d1d85f7f0fe35dc42",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Habitat management, pyrotechnics, and other dispersal methods are used to reduce wildlife risks near runways."
   },
   {
     "bank": "Bird and Wildlife Hazards",
@@ -4743,9 +4021,7 @@ const questionBank = [
       "increase altitude regardless of regulations"
     ],
     "answer": "avoid areas of known wildlife activity and follow NOTAMs",
-    "explanation": "Feedback: Avoiding areas with wildlife hazards reduces the risk of collisions; follow airport advisories and NOTAMs.",
-    "itemId": "g002f6627703db8a30cb86677ccfb68c2",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Avoiding areas with wildlife hazards reduces the risk of collisions; follow airport advisories and NOTAMs."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4756,9 +4032,7 @@ const questionBank = [
       "The lift produced by the wings"
     ],
     "answer": "The normal force of gravity acting on the aircraft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9e3377d86e9d97b9a05affc4d1dfd5bc",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4769,9 +4043,7 @@ const questionBank = [
       "Lift is unaffected by bank angle"
     ],
     "answer": "Lift is split between upward and sideways components",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3a2271444e25e4108c955533b7c00dee",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4782,9 +4054,7 @@ const questionBank = [
       "The maximum payload the aircraft can carry"
     ],
     "answer": "The effective weight felt by the aircraft due to G forces",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gefe8f93e2537d0f5b65a9cc6aaa4e96f",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4795,9 +4065,7 @@ const questionBank = [
       "They remain constant"
     ],
     "answer": "They increase, placing more stress on the aircraft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7033333d0c2bc76f6c17521ad5e224eb",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4808,9 +4076,7 @@ const questionBank = [
       "It increases radio interference"
     ],
     "answer": "It can exceed structural limits, causing damage",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd3066bdf043ba0fd0482b8a078bcf379",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4821,9 +4087,7 @@ const questionBank = [
       "Decrease speed"
     ],
     "answer": "Increase pitch to maintain lift",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8d8a0cdf5fc097fa7c7eb29353cd7427",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4834,22 +4098,18 @@ const questionBank = [
       "Walking upstairs slowly"
     ],
     "answer": "Feeling pressed into a seat on a roller coaster loop",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4fd1d813265ca26194ccf010c683eab3",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
-    "question": "See Figure 2. Load Factor Chart At approximately what bank angle do load factors begin to substantially increase?",
+    "question": "See Figure 2. Load Factor Chart - At approximately what bank angle do load factors begin to substantially increase?",
     "choices": [
       "20 degrees",
       "45 degrees",
       "10 degrees"
     ],
     "answer": "45 degrees",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0019b28f128a13eafb4107dbfed6b452",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4860,9 +4120,7 @@ const questionBank = [
       "To determine wind effects"
     ],
     "answer": "To prevent overstressing the aircraft and maintain safe maneuvers",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g249d90f5e44424b0eabda4777892a5a1",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4873,9 +4131,7 @@ const questionBank = [
       "Stall speed is unaffected by bank angle"
     ],
     "answer": "Stall speed increases due to higher load factor",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gadb444b6da1ef12b29db2b948a59881a",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4886,9 +4142,7 @@ const questionBank = [
       "Because weight decreases during a turn"
     ],
     "answer": "Because part of the lift is redirected horizontally to turn the aircraft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb48fd0516f65a277ecc23cd4f8be4720",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4899,9 +4153,7 @@ const questionBank = [
       "Pilots and UAV are unaffected"
     ],
     "answer": "Pilots feel heavier, and the UAV experiences higher structural stress",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9306b547a42b799d970759d31f33c375",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4912,9 +4164,7 @@ const questionBank = [
       "Because steep turns slow the aircraft down"
     ],
     "answer": "Because steep turns significantly increase G forces and risk overstressing the aircraft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga28d503bdf2c9aed220a399502a26749",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4925,9 +4175,7 @@ const questionBank = [
       "It only affects GPS accuracy"
     ],
     "answer": "Excessive bank angles can cause the UAV to stall or structurally fail",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga74fbc89925cc3839e786ee4536d1042",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 1",
@@ -4938,9 +4186,7 @@ const questionBank = [
       "The propeller effect only"
     ],
     "answer": "Lift must counteract weight plus the horizontal force component caused by banking",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g893c2e0e91c11b544acd89d4ef8afc7a",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Communication Procedures",
@@ -4950,9 +4196,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6634a1e16971fc13755aa2cb9a7efd2c",
-    "questionTitle": "ATC 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Communication Procedures",
@@ -4963,9 +4207,7 @@ const questionBank = [
       "Listening to the AWOS for the latest weather."
     ],
     "answer": "Monitoring the CTAF for manned aircraft.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9e6e7ba1c1c468cd9606255a5240cc32",
-    "questionTitle": "Airport Frequencies 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Communication Procedures",
@@ -4976,9 +4218,7 @@ const questionBank = [
       "Not make any communications"
     ],
     "answer": "Self-announce their position over the Common Traffic Advisory Frequency",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6a0ebfd156b7a9efa830f9b1a17d0201",
-    "questionTitle": "Airport Frequencies 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Communication Procedures",
@@ -4989,9 +4229,7 @@ const questionBank = [
       "122.9"
     ],
     "answer": "126.0",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3db20c3c733a58a6a3b4d9becde3158b",
-    "questionTitle": "Airport Frequencies 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Communication Procedures",
@@ -5002,9 +4240,7 @@ const questionBank = [
       "122.975"
     ],
     "answer": "122.8",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g39b22b93f5d4adbf3e83b779d30fd742",
-    "questionTitle": "Airport Frequencies 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Communication Procedures",
@@ -5017,9 +4253,7 @@ const questionBank = [
     "answer": "126.6",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/StuartField.png",
-    "imageAlt": "Image for Airport Frequencies 05 question",
-    "itemId": "g5cd4c3def0017c0488c500e19d09f87f",
-    "questionTitle": "Airport Frequencies 05"
+    "imageAlt": "Question image for Airport Frequencies 05"
   },
   {
     "bank": "Communication Procedures",
@@ -5030,9 +4264,7 @@ const questionBank = [
       "122.9, because this is the MULTICOM frequency"
     ],
     "answer": "122.8, because this is the CTAF frequency",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9bd80d0258a6128e07a0d59fec6c2929",
-    "questionTitle": "Airport Frequencies 06"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Communication Procedures",
@@ -5045,9 +4277,7 @@ const questionBank = [
     "answer": "118.3",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Chattanooga_CTAF.png",
-    "imageAlt": "Image for CTAF 01 question",
-    "itemId": "g3746ebfeef84b5fb403cc09ab3b3fe86",
-    "questionTitle": "CTAF 01"
+    "imageAlt": "Question image for CTAF 01"
   },
   {
     "bank": "Communication Procedures",
@@ -5060,9 +4290,7 @@ const questionBank = [
     "answer": "120.1",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Greenville_CTAF.png",
-    "imageAlt": "Image for CTAF 02 question",
-    "itemId": "g24a7fdb8023e7b1d7dc7bbfda151b574",
-    "questionTitle": "CTAF 02"
+    "imageAlt": "Question image for CTAF 02"
   },
   {
     "bank": "Communication Procedures",
@@ -5075,9 +4303,7 @@ const questionBank = [
     "answer": "122.8",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/Rockwood_CTAF.png",
-    "imageAlt": "Image for CTAF 03 question",
-    "itemId": "g3ad7305ea7ee1f83ca92627b3266a687",
-    "questionTitle": "CTAF 03"
+    "imageAlt": "Question image for CTAF 03"
   },
   {
     "bank": "Communication Procedures",
@@ -5088,9 +4314,7 @@ const questionBank = [
       "Sectional Charts"
     ],
     "answer": "Chart Supplements/Airport Facilities Directory",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4803aa55ef08ee146fc96f6e7bb1636d",
-    "questionTitle": "SupplementalChart01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Windshear",
@@ -5101,9 +4325,7 @@ const questionBank = [
       "A steady crosswind blowing perpendicular to the runway"
     ],
     "answer": "A sudden change in wind speed and/or direction over a short distance",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7db921cd58bb51b818f13a6af8c09313",
-    "questionTitle": "Windshear 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Windshear",
@@ -5114,9 +4336,7 @@ const questionBank = [
       "It can improve battery performance due to increased airflow"
     ],
     "answer": "It can cause sudden vertical and horizontal movements, leading to loss of control",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8cb95a42970f419dfa7c9763c2396330",
-    "questionTitle": "Windshear 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Windshear",
@@ -5127,9 +4347,7 @@ const questionBank = [
       "Clear skies with calm winds"
     ],
     "answer": "Thunderstorms and frontal systems",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gad45adab1811aa31dc399a86006e652a",
-    "questionTitle": "Windshear 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Windshear",
@@ -5140,9 +4358,7 @@ const questionBank = [
       "Continue operations but reduce altitude below 100 feet AGL"
     ],
     "answer": "Delay or cancel the flight, as conditions are unsafe for small UAS",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g431c3182c6e6b28fbbf54c2c476ad03b",
-    "questionTitle": "Windshear 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "TAFs",
@@ -5153,9 +4369,7 @@ const questionBank = [
       "3 statute miles"
     ],
     "answer": "5 statute miles",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0c1aaef5ad3e1962986756ba6e558e3a",
-    "questionTitle": "TAF General 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "TAFs",
@@ -5166,9 +4380,7 @@ const questionBank = [
       "TAF’s are only produced once a day, so the one from this morning will have to do for a forecast."
     ],
     "answer": "TAF’s are produced 4 times a day and the next one is due to be issued between 1720z and 1740z.",
-    "explanation": "Each TAF usually comes out about 20–40 minutes before the hour (e.g., the 1200Z TAF might be released around 1140Z), but the official timestamp in the report will reflect the scheduled cycle time.",
-    "itemId": "g0711ce2b775ce7d12743a0198d49e77c",
-    "questionTitle": "TAF General 02"
+    "explanation": "Each TAF usually comes out about 20–40 minutes before the hour (e.g., the 1200Z TAF might be released around 1140Z), but the official timestamp in the report will reflect the scheduled cycle time."
   },
   {
     "bank": "TAFs",
@@ -5179,9 +4391,7 @@ const questionBank = [
       "Once per day"
     ],
     "answer": "Every 6 hours",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gae76e6802b04e71a049c032d64ca1148",
-    "questionTitle": "TAF General 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "TAFs",
@@ -5192,9 +4402,7 @@ const questionBank = [
       "48 hours"
     ],
     "answer": "24-30 hours",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g100bf4db849b24ff38cdc5e2575a13a7",
-    "questionTitle": "TAF General 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "TAFs",
@@ -5205,9 +4413,7 @@ const questionBank = [
       "That weather conditions will change gradually over 30 minutes"
     ],
     "answer": "A 30% probability of specified weather conditions during a specific time window",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "geaed1b91188349978aaaa8d7e22e18a1",
-    "questionTitle": "TAF General 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "TAFs",
@@ -5218,9 +4424,7 @@ const questionBank = [
       "The forecast indicates sufficient visibility for sUAS operations for the entire forecast period."
     ],
     "answer": "The forecast is valid from 1200z on the 11th day of the month to 1200z on the 12th day.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd4200983404bdb39173d2365191336c7",
-    "questionTitle": "TAF Interpretation 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Security Identification Display Areas",
@@ -5232,9 +4436,7 @@ const questionBank = [
       "airport manager approval only"
     ],
     "answer": "personnel to display proper identification at all times",
-    "explanation": "Feedback: Access to SIDA areas requires displaying approved identification at all times for security compliance.",
-    "itemId": "ga1e64358771fd4f5d970b9bbc0e30909",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Access to SIDA areas requires displaying approved identification at all times for security compliance."
   },
   {
     "bank": "Security Identification Display Areas",
@@ -5246,9 +4448,7 @@ const questionBank = [
       "FAA inspector only"
     ],
     "answer": "airport authority or TSA",
-    "explanation": "Feedback: The airport authority or TSA controls SIDA access to ensure security regulations are followed.",
-    "itemId": "gad840e8a2a80939fb71ba09fd020ddca",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The airport authority or TSA controls SIDA access to ensure security regulations are followed."
   },
   {
     "bank": "Security Identification Display Areas",
@@ -5260,9 +4460,7 @@ const questionBank = [
       "a pilot misreading a checklist"
     ],
     "answer": "any unauthorized presence on a runway or taxiway",
-    "explanation": "Feedback: A runway incursion involves any vehicle, aircraft, or person on a runway or taxiway without clearance.",
-    "itemId": "gb6d7beee2615ccb334e76bf0c72c52cc",
-    "questionTitle": "Question"
+    "explanation": "Feedback: A runway incursion involves any vehicle, aircraft, or person on a runway or taxiway without clearance."
   },
   {
     "bank": "Security Identification Display Areas",
@@ -5274,9 +4472,7 @@ const questionBank = [
       "maintain lighting systems"
     ],
     "answer": "ensure security compliance and proper identification procedures",
-    "explanation": "Feedback: SIDA training ensures personnel understand security rules, identification requirements, and authorized access procedures.",
-    "itemId": "ge411fba505398c733f6573404578132d",
-    "questionTitle": "Question"
+    "explanation": "Feedback: SIDA training ensures personnel understand security rules, identification requirements, and authorized access procedures."
   },
   {
     "bank": "Microbursts",
@@ -5287,9 +4483,7 @@ const questionBank = [
       "A slow, steady increase in wind over several miles"
     ],
     "answer": "A short, intense burst of wind, usually less than one mile wide and under 1,000 feet vertically",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc053e07c1d2f05c87600a1dfaea87a5b",
-    "questionTitle": "Microburst 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Microbursts",
@@ -5300,9 +4494,7 @@ const questionBank = [
       "30-60 minutes"
     ],
     "answer": "5–15 minutes",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf118b67f2c058d85b395fd5fd00b0e02",
-    "questionTitle": "Microburst 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Microbursts",
@@ -5313,9 +4505,7 @@ const questionBank = [
       "They only affect manned aircraft and are safe for drones under 400 feet AGL"
     ],
     "answer": "Downdrafts can exceed 6,000 feet per minute, making control very difficult and potentially causing crashes",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g48662a0235766cb2fbd77deace4a8693",
-    "questionTitle": "Microburst 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Microbursts",
@@ -5326,9 +4516,7 @@ const questionBank = [
       "Ascend above 1,000 feet to avoid the microburst"
     ],
     "answer": "Delay or cancel the flight, as microbursts are extremely hazardous to small UAS",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gdb080e28bffc531103183ab568e0ac8c",
-    "questionTitle": "Microburst 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5339,9 +4527,7 @@ const questionBank = [
       "Maintains consistent density"
     ],
     "answer": "Expands",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5a4dbd351621499b9226b61849c01009",
-    "questionTitle": "Adiabatic 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5352,9 +4538,7 @@ const questionBank = [
       "The amount of water vapor present in the atmosphere"
     ],
     "answer": "The ability of the atmosphere to resist vertical air movement",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g25dc2ee42766ad77db01852ecb0d24af",
-    "questionTitle": "Atmospheric Stability 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5365,9 +4549,7 @@ const questionBank = [
       "Lenticular clouds"
     ],
     "answer": "Cumulus or towering cumulus clouds",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3514c103930e12bcdec7735741234326",
-    "questionTitle": "Cloud Types 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5378,9 +4560,7 @@ const questionBank = [
       "10"
     ],
     "answer": "4",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g209e62a862dbd748ff727260948b2682",
-    "questionTitle": "Lapse Rate 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5391,9 +4571,7 @@ const questionBank = [
       "1 °C per 1,000 feet"
     ],
     "answer": "2 °C per 1,000 feet",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd494a16879d12bdf182ccf1939bb5fdb",
-    "questionTitle": "Lapse Rate 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5404,9 +4582,7 @@ const questionBank = [
       "Neutral stability"
     ],
     "answer": "Unstable air",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g60f48a8eb4ebf24c199118710e565c32",
-    "questionTitle": "Lapse Rate 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5417,9 +4593,7 @@ const questionBank = [
       "Poor visibility and intermittent precipitation."
     ],
     "answer": "Poor visibility and steady precipitation.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g63bffc9e2cfaa2c5bc41bf0bbde343a4",
-    "questionTitle": "Stable Air 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5430,9 +4604,7 @@ const questionBank = [
       "Strong vertical movement, thunderstorms, rapidly changing weather"
     ],
     "answer": "Smooth flight, poor visibility, stratiform clouds, steady precipitation",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g56582dbbc6f9a6ff91179004175e6db1",
-    "questionTitle": "Stable Air 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5443,9 +4615,7 @@ const questionBank = [
       "Thunderstorms and turbulence"
     ],
     "answer": "Poor visibility due to haze, fog, or smoke",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g799c80ae192266d5b34f81fdb717d520",
-    "questionTitle": "Stable Air 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5456,9 +4626,7 @@ const questionBank = [
       "Reduced battery life due to colder temperatures"
     ],
     "answer": "Turbulence and rapidly changing weather conditions",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga77720f6d758e325a81284d7ee5cf374",
-    "questionTitle": "Unstable Air 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5469,9 +4637,7 @@ const questionBank = [
       "Cool, dry air with a shallow lapse rate"
     ],
     "answer": "Warm, moist air with a steep lapse rate",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g82e4f6585a9e98785137a54ebd1cc74f",
-    "questionTitle": "Unstable Air 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5482,9 +4648,7 @@ const questionBank = [
       "5 statute miles or more"
     ],
     "answer": "poor",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf96888c4b288b3f8ac92a7ab652afd6a",
-    "questionTitle": "Visibility 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Stability",
@@ -5495,9 +4659,7 @@ const questionBank = [
       "Convective updrafts"
     ],
     "answer": "Stable air",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9ec5173718fc3d4181ebea09fdba3e38",
-    "questionTitle": "Visibility 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Waivers and Compliance",
@@ -5507,9 +4669,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6320096eecf2aa2a408d8fc102cb649f",
-    "questionTitle": "Change of Address 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Waivers and Compliance",
@@ -5520,9 +4680,7 @@ const questionBank = [
       "Shoot down all future unmanned aircraft you attempt to fly"
     ],
     "answer": "Revoke your remote pilot certificate",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g61854963378cd9faa5f8179709476005",
-    "questionTitle": "Compliance 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Waivers and Compliance",
@@ -5533,9 +4691,7 @@ const questionBank = [
       "You should submit your request at least 30 calendar days in advance."
     ],
     "answer": "You should submit your request at least 90 calendar days in advance.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1837da1e31200d15e6210e689cabd061",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Waivers and Compliance",
@@ -5546,9 +4702,7 @@ const questionBank = [
       "Any concerned citizen has the authority to request to see your remote pilot certificate so you have to share that information with them."
     ],
     "answer": "Even though the police are not authorized to request your remote pilot certificate or drone registration, it is best practice to provide this information so the situationd does not escalate.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g11fdd44eaa7fdcb1293c8c62e02554e7",
-    "questionTitle": "Request Documentation 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Waivers and Compliance",
@@ -5559,9 +4713,7 @@ const questionBank = [
       "Automatic Terminal Information Service"
     ],
     "answer": "Waiver",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0678c1b47143ff92b0a7933303485ecc",
-    "questionTitle": "Waiver 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Waivers and Compliance",
@@ -5572,9 +4724,7 @@ const questionBank = [
       "Taking aerial footage of your mountain cabin 25 minutes after sunset."
     ],
     "answer": "Filming a car chase scene where the speeds of the UAV and car reach 125 MPH",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g25ff3f6f99b7399b07ed887a965f34ca",
-    "questionTitle": "Waiver 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Waivers and Compliance",
@@ -5585,9 +4735,7 @@ const questionBank = [
       "You recognize this as the amazing business opportunity that it is. You agree to provide the service, tell Dollywood you will send them a contract, and begin ordering the drones you will need for the lightshow. Yeah, this is going to be awesome."
     ],
     "answer": "Notify Dollywood that even though drones in a light show are flying autonomously, the regulations state that you can only fly a single drone at a time. You would need to contact the FAA to request a waiver for this specific situation.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g33b230a9735292dddcc6cd4b874b334b",
-    "questionTitle": "Waivers 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5598,9 +4746,7 @@ const questionBank = [
       "4 hours"
     ],
     "answer": "8 hours",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb19ff9608d5a7bb54f363bd7f2be8c6a",
-    "questionTitle": "Alcohol 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5611,9 +4757,7 @@ const questionBank = [
       "Postpone or reschedule flying because you know that having a hangover means you are still under the influence of alcohol."
     ],
     "answer": "Postpone or reschedule flying because you know that having a hangover means you are still under the influence of alcohol.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf3148507def84ffe5fa0217eb46f9237",
-    "questionTitle": "Alcohol 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5624,9 +4768,7 @@ const questionBank = [
       "0.1%"
     ],
     "answer": "0.04%",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g100b8f3d82ed53f7e9ac77d701ec3ac3",
-    "questionTitle": "Alcohol 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5636,9 +4778,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0c4843ea44e1565f543b736643ee694f",
-    "questionTitle": "Commercial vs Recreation 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5648,9 +4788,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6554c1287da74e93a86c3163368b6b6e",
-    "questionTitle": "Commercial vs Recreation 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5661,9 +4799,7 @@ const questionBank = [
       "Alone, if operating during daylight hours"
     ],
     "answer": "Under direct supervision of a Remote Pilot in Command",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8c28b0c77e370187f3d604873ce517c4",
-    "questionTitle": "Commercial vs Recreation 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5673,9 +4809,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "geb2d368deea3db6a78c854828a1d9844",
-    "questionTitle": "Exam Prerequisites"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5686,9 +4820,7 @@ const questionBank = [
       "For a period of 1 year after the date of the OFFENSE."
     ],
     "answer": "For a period of 1 year after the date of the CONVITCTION.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf08a30415fd9f2daee8e3205c6fe70ae",
-    "questionTitle": "Marijuana 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5699,9 +4831,7 @@ const questionBank = [
       "36 months"
     ],
     "answer": "24 months",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8857a9463f7de2b5c176b5fc456ed04e",
-    "questionTitle": "Recertification 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5712,9 +4842,7 @@ const questionBank = [
       "You do NOT need to recertify."
     ],
     "answer": "No later than October 31, 2027",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8553a7614a76876bcc72e5d1b4de59a5",
-    "questionTitle": "Recertification 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5725,9 +4853,7 @@ const questionBank = [
       "The pilot must have completed the online recurrent training OR the initial written test in the previous 24 calendar months"
     ],
     "answer": "The pilot must have completed the online recurrent training OR the initial written test in the previous 24 calendar months",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ged84db6c967f0485fc6a766dd3f6ff9b",
-    "questionTitle": "Recertification 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5738,9 +4864,7 @@ const questionBank = [
       "Pass a practical UAV flight test administered by an FAA flight instructor"
     ],
     "answer": "Pass a practical UAV flight test administered by an FAA flight instructor",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g15685496dac0b7e09cea29ee1f097f34",
-    "questionTitle": "Requirements 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5751,9 +4875,7 @@ const questionBank = [
       "6 months"
     ],
     "answer": "1 year",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb463204d468a7c51ef403f975e5bf367",
-    "questionTitle": "Suspension 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Part 107 Eligibility",
@@ -5764,9 +4886,7 @@ const questionBank = [
       "90 days"
     ],
     "answer": "120 days",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g84d64b290bb31c773643e3bd09cc6994",
-    "questionTitle": "Temporary License"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airplane Registration and Call Signs",
@@ -5777,9 +4897,7 @@ const questionBank = [
       "Piper Tango"
     ],
     "answer": "Piper Eight Four Romeo Tango",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g410e3b132ad39885ace2d223488763b5",
-    "questionTitle": "Call Sign 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airplane Registration and Call Signs",
@@ -5790,9 +4908,7 @@ const questionBank = [
       "Exemption number"
     ],
     "answer": "Registration number",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g228bc9930b90d9ad44110f6c2ae401ea",
-    "questionTitle": "Call Sign 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airplane Registration and Call Signs",
@@ -5803,9 +4919,7 @@ const questionBank = [
       "U"
     ],
     "answer": "N",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf3b30e47c7df93cb9add706ef8e6fdac",
-    "questionTitle": "Call Sign 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airplane Registration and Call Signs",
@@ -5816,9 +4930,7 @@ const questionBank = [
       "Never, three, four, tango, Fred"
     ],
     "answer": "November, three, four, tango, foxtrot",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g66884fd8a1174f3c5bc7f1d4952b0790",
-    "questionTitle": "Call Sign 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Airplane Registration and Call Signs",
@@ -5829,9 +4941,7 @@ const questionBank = [
       "Chicago"
     ],
     "answer": "Charlie",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gadaeaa3485814d5d3b42eb75eee683ec",
-    "questionTitle": "Phonetic Alphabet 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5842,9 +4952,7 @@ const questionBank = [
       "MVFR"
     ],
     "answer": "IFR",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc453dd72194d358d4df38e3870a830ac",
-    "questionTitle": "Class A 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5855,9 +4963,7 @@ const questionBank = [
       "10,000 feet MSL"
     ],
     "answer": "18,000 feet MSL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g29da847c85283e27b3943d2cf2e02cd3",
-    "questionTitle": "Class A 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5868,9 +4974,7 @@ const questionBank = [
       "12,000 feet mean sea level (MSL)"
     ],
     "answer": "10,000 feet mean sea level (MSL)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc1e8f46fdc52934a18a40b1a802d93c5",
-    "questionTitle": "Class B 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5881,9 +4985,7 @@ const questionBank = [
       "No, because this operation would take place in Class G airspace"
     ],
     "answer": "Yes, because this would extend into Class B airspace",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g081112aa78ba55fa76676709331b8b41",
-    "questionTitle": "Class B 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5894,9 +4996,7 @@ const questionBank = [
       "A military training route (MTR)"
     ],
     "answer": "Class B Airspace",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gcc28cacb89dc5ac27114b71c6b39c5d6",
-    "questionTitle": "Class B 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5907,9 +5007,7 @@ const questionBank = [
       "Milibars"
     ],
     "answer": "Feet in Mean Sea Level",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd8fbf7b9278d87de2c2192db04de04a4",
-    "questionTitle": "Class B 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5920,9 +5018,7 @@ const questionBank = [
       "Inches of Mercury (Hg)"
     ],
     "answer": "Feet in mean sea level (MSL)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc9c66e740226c352e52ae8aa639d0a6e",
-    "questionTitle": "Class C 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5933,9 +5029,7 @@ const questionBank = [
       "Must use a visual observer."
     ],
     "answer": "is required to receive ATC authorization.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5e9ecd6ca00e184631a8acd59f43a606",
-    "questionTitle": "Class C 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5946,9 +5040,7 @@ const questionBank = [
       "Military clearance required"
     ],
     "answer": "Prior authorization from air traffic control (ATC)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6f86132ba9f2a17f374d1e85106426dc",
-    "questionTitle": "Class C 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5959,9 +5051,7 @@ const questionBank = [
       "Not require special permission provided you remain within a 400’ radius of the structure and do not fly more than 400’ higher than its altitude"
     ],
     "answer": "​​​​​Need authorization from Savannah to operate in their class C airspace",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g98ecbef951afbf1854fe162e2a827fed",
-    "questionTitle": "Class C 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5972,9 +5062,7 @@ const questionBank = [
       "Class E, starting at the surface"
     ],
     "answer": "Class D, from the surface up to, but not including 3,000 ft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge9c1ceed58bb9d32f772eeb1b7728435",
-    "questionTitle": "Class D 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5985,9 +5073,7 @@ const questionBank = [
       "Class B"
     ],
     "answer": "Class D",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g60afef8f84959ff964c0fabec876c73d",
-    "questionTitle": "Class D 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -5998,9 +5084,7 @@ const questionBank = [
       "5 Nautical Miles"
     ],
     "answer": "10 Statute Miles",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9129635dd359edab13d0b75bb0aafed5",
-    "questionTitle": "Class E 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -6011,9 +5095,7 @@ const questionBank = [
       "Class E airspace, beginning at the surface"
     ],
     "answer": "Class E airspace, with floor 700 ft. above the surface",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb6b85bea96a2ec015cbba00d6b3148c0",
-    "questionTitle": "Class E 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Controlled Airspace",
@@ -6024,9 +5106,7 @@ const questionBank = [
       "Always have permission to fly in controlled airspace."
     ],
     "answer": "Perform a pre-flight inspection before operating your drone.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb6c09ea3ac4976de43caea5634e87f30",
-    "questionTitle": "Class E 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6037,9 +5117,7 @@ const questionBank = [
       "Centrifugal force in a steep turn"
     ],
     "answer": "The normal force of gravity",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf50b969181e2be015b734930f66f6b5a",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6050,9 +5128,7 @@ const questionBank = [
       "Stall forces"
     ],
     "answer": "G forces",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1602a47329a8e727952c098501e53b87",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6063,9 +5139,7 @@ const questionBank = [
       "It stays the same"
     ],
     "answer": "It increases",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0eb50ba712684472f20ad93881cf6ccc",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6076,9 +5150,7 @@ const questionBank = [
       "60°"
     ],
     "answer": "45°",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g853ccee27b4457c5b4cc4e010d11bddb",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6089,9 +5161,7 @@ const questionBank = [
       "To prevent over-speed"
     ],
     "answer": "To counteract loss of vertical lift",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8f87a508a57abde1184d212e75762a39",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6102,22 +5172,18 @@ const questionBank = [
       "Slower climb rate"
     ],
     "answer": "Structural damage",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc7f350fdafa1cea3a9fb51d7b60eb2a5",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
-    "question": "See Figure 2. Load Factor Chart In a 60° banked turn, what approximate G force does an aircraft experience?",
+    "question": "See Figure 2. Load Factor Chart - In a 60° banked turn, what approximate G force does an aircraft experience?",
     "choices": [
       "1.4 Gs",
       "2.0 Gs",
       "3.5 Gs"
     ],
     "answer": "2.0 Gs",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd47494daed262594a936160112fa3582",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6128,22 +5194,18 @@ const questionBank = [
       "Because thrust decreases"
     ],
     "answer": "Because the wing must produce more lift to support increased load factor",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "geb76be12d300852f0046e8e51aeb1a74",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
-    "question": "See Figure 2. Load Factor Chart At what bank angle does the load factor reach approximately 2Gs?",
+    "question": "See Figure 2. Load Factor Chart - At what bank angle does the load factor reach approximately 2Gs?",
     "choices": [
       "30°",
       "60°",
       "90°"
     ],
     "answer": "60°",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0c0bb46f4fa27c1e74f730d7e446150e",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6154,35 +5216,29 @@ const questionBank = [
       "Decreased propeller efficiency"
     ],
     "answer": "Structural damage or failure",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g964ad13536e05c5e7b9b9f64ba5f48a9",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
-    "question": "See Figure 2. Load Factor Chart A UAV weighs 12 pounds in level flight. At 30° of bank, what is its effective weight?",
+    "question": "See Figure 2. Load Factor Chart - A UAV weighs 12 pounds in level flight. At 30° of bank, what is its effective weight?",
     "choices": [
       "12.0 pounds",
       "13.8 pounds",
       "24.0 pounds"
     ],
     "answer": "13.8 pounds",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5b3071708c6f9670a9f1a0f240cc32a7",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
-    "question": "See Figure 2. Load Factor Chart A drone weighs 8 pounds. At 80° of bank, what is its effective weight?",
+    "question": "See Figure 2. Load Factor Chart - A drone weighs 8 pounds. At 80° of bank, what is its effective weight?",
     "choices": [
       "16 pounds",
       "24 pounds",
       "46 pounds"
     ],
     "answer": "46 pounds",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g420d48a3bcb5b518cd4b08f1abe1bb87",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6195,9 +5251,7 @@ const questionBank = [
     "answer": "30 knots",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/BankedStallSpeedFormula.png",
-    "imageAlt": "Image for Question question",
-    "itemId": "gd46fcf41b5883c1fea7dd8983afcc4e6",
-    "questionTitle": "Question"
+    "imageAlt": "Question image for Question"
   },
   {
     "bank": "Load Factor - Part 2",
@@ -6210,35 +5264,29 @@ const questionBank = [
     "answer": "26 knots",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/BankedStallSpeedFormula.png",
-    "imageAlt": "Image for Question question",
-    "itemId": "gb9e17ade6397f555944ceec58e645c6f",
-    "questionTitle": "Question"
+    "imageAlt": "Question image for Question"
   },
   {
     "bank": "Load Factor - Part 2",
-    "question": "See Figure 2. Load Factor Chart A quadcopter weighs 6 pounds. At 60° of bank, how much effective weight must its motors support?",
+    "question": "See Figure 2. Load Factor Chart - A quadcopter weighs 6 pounds. At 60° of bank, how much effective weight must its motors support?",
     "choices": [
       "6 pounds",
       "12 pounds",
       "18 pounds"
     ],
     "answer": "12 pounds",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd2061b78316a0f5010c5f6e13004849c",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Load Factor - Part 2",
-    "question": "See Figure 2. Load Factor Chart A UAV weighing 20 pounds enters a 45° banked turn. What is its effective weight?",
+    "question": "See Figure 2. Load Factor Chart A - UAV weighing 20 pounds enters a 45° banked turn. What is its effective weight?",
     "choices": [
       "20 pounds",
       "28 pounds",
       "40 pounds"
     ],
     "answer": "28 pounds",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbccc5783be24f863586816102f2a0920",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6249,9 +5297,7 @@ const questionBank = [
       "Only the anvil portion of dissipating storms"
     ],
     "answer": "Strong updrafts in cumulonimbus clouds",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga1451148121de00b90c97d903af510d1",
-    "questionTitle": "Hail 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6262,9 +5308,7 @@ const questionBank = [
       "Only directly beneath the storm"
     ],
     "answer": "Up to 20 nautical miles",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g81cdcc1713fb225b451ed43db3906ad0",
-    "questionTitle": "Hail 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6275,9 +5319,7 @@ const questionBank = [
       "Dissipating stage"
     ],
     "answer": "Cumulus stage",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g32b8a7be9688561633435807587a06da",
-    "questionTitle": "Thunderstorm 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6288,9 +5330,7 @@ const questionBank = [
       "Mild turbulence with no effect on UAVs"
     ],
     "answer": "Rapidly changing vertical air movement including updrafts and downdrafts",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc6208d630fc779da17735443b038cf12",
-    "questionTitle": "Thunderstorms 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6301,9 +5341,7 @@ const questionBank = [
       "Dissipating stage"
     ],
     "answer": "Mature stage",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb8f70a80b66d30275403e17741768dc7",
-    "questionTitle": "Thunderstorms 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6314,9 +5352,7 @@ const questionBank = [
       "Fog, warm air, and calm winds"
     ],
     "answer": "Sufficient water vapor, unstable lapse rate, and lifting action",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7cab8e25963fbf1f6cec1f96f9af2d8f",
-    "questionTitle": "Thunderstorms 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6327,9 +5363,7 @@ const questionBank = [
       "Formation of new cumulonimbus clouds"
     ],
     "answer": "Predominantly downdrafts as the storm weakens",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc4d3dc3c2d942b8b5b7201274b911fc5",
-    "questionTitle": "Thunderstorms 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6340,9 +5374,7 @@ const questionBank = [
       "They only produce surface-level precipitation"
     ],
     "answer": "They involve vertical air motion that causes turbulence and wind shear",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g89bb04c30e936bdd58a6b5f94891f498",
-    "questionTitle": "Thunderstorms 06"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6353,9 +5385,7 @@ const questionBank = [
       "Fly above the storm to avoid turbulence"
     ],
     "answer": "Avoid operating near thunderstorms at all times",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd3a2803dcff35b2320a2a1e599c2996b",
-    "questionTitle": "Thunderstorms 07"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Thunderstorms",
@@ -6366,9 +5396,7 @@ const questionBank = [
       "Only low-level fog formation"
     ],
     "answer": "Downdrafts, updrafts, wind shear, and hail",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7b06eb00e4b31ea9ecf672287e686b33",
-    "questionTitle": "Thunderstorms 08"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "UNICOM and ATIS",
@@ -6379,9 +5407,7 @@ const questionBank = [
       "120.8, it is used to communicate with ATC"
     ],
     "answer": "127.15, it is used to report weather information and other airport specific notices",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g54c227dd6b5058dea4b18c191d451e79",
-    "questionTitle": "ATIS 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "UNICOM and ATIS",
@@ -6391,9 +5417,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbcf60eaa26a0ac59c37a2c33fb0f63ba",
-    "questionTitle": "UNICOM01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "UNICOM and ATIS",
@@ -6404,9 +5428,7 @@ const questionBank = [
       "Heavy-traffic, commercial airports"
     ],
     "answer": "Low-traffic, general aviation airports",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gab55a88f44abca5f3090df1c0af71c22",
-    "questionTitle": "UNICOM02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "UNICOM and ATIS",
@@ -6417,9 +5439,7 @@ const questionBank = [
       "Class A frequency"
     ],
     "answer": "MULTICOM frequency",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd7d977b880228f7e12d3e89fcef5e5e0",
-    "questionTitle": "UNICOM03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "UNICOM and ATIS",
@@ -6430,9 +5450,7 @@ const questionBank = [
       "Stations located at various airport locations specially equipped for ATC to communicate with UAS and commercial pilots"
     ],
     "answer": "Nongovernment stations found at low traffic general aviation airports, which provide various information and advisories to users of the airport.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g69637702d42b62230f55e57c1817f19b",
-    "questionTitle": "UNICOM04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Deviation",
@@ -6443,9 +5461,7 @@ const questionBank = [
       "Even though you were focused on safety, you violated the maximum elevation rules and will likely loose your UAV certificate."
     ],
     "answer": "This is allowed due to extenuating cicumstances, but you will only need to report this to the FAA if requested by \"the administrator\".",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge20cc27a48f60deaffa062efdb2fb8bc",
-    "questionTitle": "Deviation 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Pre-Flight Requirements",
@@ -6456,9 +5472,7 @@ const questionBank = [
       "All bystanders within a 1,000-foot radius"
     ],
     "answer": "All crew members, to include the visual observer, and the person manipulating the controls (if different from the remote pilot in command)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g20e406f5e818f810ea4334ae837afa50",
-    "questionTitle": "Pre-Flight 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Pre-Flight Requirements",
@@ -6469,9 +5483,7 @@ const questionBank = [
       "Change the UAV and control station batteries"
     ],
     "answer": "Check local weather conditions, TFRs, and airspace information",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb2ace65d4012b50c821e50a38532c147",
-    "questionTitle": "Pre-Flight 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Cloud Clearance",
@@ -6482,9 +5494,7 @@ const questionBank = [
       "500"
     ],
     "answer": "2,000",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc058acf652ed1fb2f2e48ef21ed18cc5",
-    "questionTitle": "Cloud Clearance"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Cloud Clearance",
@@ -6495,9 +5505,7 @@ const questionBank = [
       "2,000"
     ],
     "answer": "500",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbddfb866d5b054d905be2449da5e2eb4",
-    "questionTitle": "Cloud Clearance 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Cloud Clearance",
@@ -6507,9 +5515,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb55af55cc43adf77f9bee7bb8834680b",
-    "questionTitle": "Cloud Clearance 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Over Vehicles",
@@ -6519,9 +5525,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7583619de138d03e2e3d663447189556",
-    "questionTitle": "Category 4 OO Moving Vehicles"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Over Vehicles",
@@ -6533,9 +5537,7 @@ const questionBank = [
       "Category 4"
     ],
     "answer": "Categories 1, 2, 3, and 4 are allowed to have sustained flights over drones as long as the follow the other criteria",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb32399c4532b1ffabfc85b170a085e4e",
-    "questionTitle": "Category Requirements"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "OOP - Over Vehicles",
@@ -6546,9 +5548,7 @@ const questionBank = [
       "Everyone inside the moving vehicle must be notified that a drone is overhead"
     ],
     "answer": "Both conditions must be met for sustained flights over moving vehicles",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g87f2cab2f3a84f7c543087de838e36de",
-    "questionTitle": "Operations over Vehicles 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Moving Vehicle Operations",
@@ -6559,9 +5559,7 @@ const questionBank = [
       "The person flying the drone cannot be the same person driving the vehicle"
     ],
     "answer": "You may operate a UAV from a moving car, boat, or airplane",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g79c54a87adbaea85ab7f1527605330b2",
-    "questionTitle": "Moving Vehicle"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Moving Vehicle Operations",
@@ -6571,9 +5569,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g2c963cc0dd325f8265e828c34c46ebb1",
-    "questionTitle": "Moving Vehicle 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Moving Vehicle Operations",
@@ -6584,9 +5580,7 @@ const questionBank = [
       "Yes, even if it is not a sparsely populated area, as long as you check your surroundings"
     ],
     "answer": "Yes, as long as the area is sparsely populated",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g155f9ded5e11dafa73ae6be579fb007a",
-    "questionTitle": "Moving Vehicle 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6597,9 +5591,7 @@ const questionBank = [
       "Hypoxia"
     ],
     "answer": "Acute fatigue",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge575ec5024502be1c038cb1c1f29cc3d",
-    "questionTitle": "Acute Fatigue 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6610,9 +5602,7 @@ const questionBank = [
       "0.05%"
     ],
     "answer": "Less than 0.04% and at least 8 hours after drinking",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc4785a817589125641ca7b67a8c7b805",
-    "questionTitle": "Alcohol and Medications 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6623,9 +5613,7 @@ const questionBank = [
       "Have no effect on flight safety"
     ],
     "answer": "Impair alertness, coordination, or vision",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4998ae79870a208f2826d192c7aebb48",
-    "questionTitle": "Alcohol and Medications 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6636,9 +5624,7 @@ const questionBank = [
       "Reduce flight time"
     ],
     "answer": "Cause jitteriness and impaired fine motor control",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g66e27c2e8d68d13acc10335703a186a7",
-    "questionTitle": "Caffeine and Stimulants 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6649,9 +5635,7 @@ const questionBank = [
       "Is prohibited under Part 107"
     ],
     "answer": "May improve alertness without affecting motor control",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1ce5c0f7a8bdd15a794c33130279d5c7",
-    "questionTitle": "Caffeine and Stimulants 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6662,9 +5646,7 @@ const questionBank = [
       "Skill fatigue during a single flight"
     ],
     "answer": "Chronic fatigue affecting overall judgment and attention",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g57d543f42643020b0cb86c2fd7d713c0",
-    "questionTitle": "Chronic Fatigue 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6675,9 +5657,7 @@ const questionBank = [
       "Flight altitude limits only"
     ],
     "answer": "Dexterity and cognitive performance",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g50f410194f70d59bc55edf3d2cf477f2",
-    "questionTitle": "Cold Exposure and Hypothermia 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6688,9 +5668,7 @@ const questionBank = [
       "Fly faster to generate body heat"
     ],
     "answer": "Wear appropriate clothing and limit exposure time",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gdd7ae97d4fe5234ee82936f25537aaaa",
-    "questionTitle": "Cold Exposure and Hypothermia 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6701,9 +5679,7 @@ const questionBank = [
       "Improved concentration"
     ],
     "answer": "Impaired cognitive function and slower reaction times",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g566906515e6e5ac1f6d62243a281f8ec",
-    "questionTitle": "Dehydration and Heatstroke 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6714,9 +5690,7 @@ const questionBank = [
       "No significant effects on flight"
     ],
     "answer": "Confusion, dizziness, and loss of coordination",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g61bda54d2dd658231b5f8503c44c97e0",
-    "questionTitle": "Dehydration and Heatstroke 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6727,9 +5701,7 @@ const questionBank = [
       "Chronic fatigue"
     ],
     "answer": "Disruption of the perceptual field",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g474412e8c5f85f6c203ee9eee3f7ccf2",
-    "questionTitle": "Disruption of the Perceptual Field 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6740,9 +5712,7 @@ const questionBank = [
       "Improved situational awareness"
     ],
     "answer": "Slower reaction times and impaired decision-making",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g982d76d4831816576ea60e19ff0802fd",
-    "questionTitle": "Fatigue and Sleep Deprivation 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6753,9 +5723,7 @@ const questionBank = [
       "Only fly at night"
     ],
     "answer": "Ensure adequate rest and schedule breaks",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4a224e7e1dd2ca54bfc54dd1e33d4731",
-    "questionTitle": "Fatigue and Sleep Deprivation 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6766,9 +5734,7 @@ const questionBank = [
       "Batteries are fully charged"
     ],
     "answer": "Illness, injury, or other condition may impair performance",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g65a680b12b9e9de10bc9611a6f10581d",
-    "questionTitle": "Fitness for Flight 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6779,9 +5745,7 @@ const questionBank = [
       "Only vision"
     ],
     "answer": "Physical and cognitive readiness for safe operation",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g36eb14a16e94cc841d06ad84a1287499",
-    "questionTitle": "Fitness for Flight 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6792,9 +5756,7 @@ const questionBank = [
       "Increased battery life"
     ],
     "answer": "Lightheadedness, dizziness, and reduced focus",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g05cc1c062c3aa9b673eaea3466742fef",
-    "questionTitle": "Hyperventilation and Respiratory Issues 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6805,9 +5767,7 @@ const questionBank = [
       "Flying faster"
     ],
     "answer": "Controlled breathing and awareness of panic symptoms",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gdd6d99bf605a0c80503ccc9f0fdc401e",
-    "questionTitle": "Hyperventilation and Respiratory Issues 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6818,9 +5778,7 @@ const questionBank = [
       "Chronic fatigue"
     ],
     "answer": "Skill fatigue affecting specific motor skills",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge3c7a4b3863bc06e30af98438e2c72df",
-    "questionTitle": "Skill Fatigue 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6831,9 +5789,7 @@ const questionBank = [
       "Increase alertness permanently"
     ],
     "answer": "Reduce situational awareness and increase error risk",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gdeab553558bb47fba40ca8093088cd2d",
-    "questionTitle": "Stress and Cognitive Load 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6844,9 +5800,7 @@ const questionBank = [
       "Increase flight speed"
     ],
     "answer": "Prioritize tasks and take breaks",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1f19d6f9c6b08403e728ee6e8dece5af",
-    "questionTitle": "Stress and Cognitive Load 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6857,9 +5811,7 @@ const questionBank = [
       "Disruption of the perceptual field"
     ],
     "answer": "Skill fatigue – timing disruption",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g64c1ba8f301b98977a6605a045eac064",
-    "questionTitle": "Timing Disruption 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6870,9 +5822,7 @@ const questionBank = [
       "Increase maximum altitude"
     ],
     "answer": "Detect obstacles and airspace hazards",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gca85b22031f0ea7f4d114f8cb33b8b48",
-    "questionTitle": "Vision 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Physiology",
@@ -6883,9 +5833,7 @@ const questionBank = [
       "Only fly in shaded areas"
     ],
     "answer": "Use sunglasses or proper corrective lenses",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8b8ef6f899004aefef92c951401c86e4",
-    "questionTitle": "Vision 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -6896,9 +5844,7 @@ const questionBank = [
       "To comply with maintenance schedules"
     ],
     "answer": "To systematically identify hazards and make safe operational decisions",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gcc94267712f2b4a9c22802a0b1a30537",
-    "questionTitle": "ADM Process 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -6909,9 +5855,7 @@ const questionBank = [
       "Flying beyond visual line of sight"
     ],
     "answer": "Evaluating risks before and during flight",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf0c89ee968e4f886b7cc3c486b77d79c",
-    "questionTitle": "ADM Process 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -6922,9 +5866,7 @@ const questionBank = [
       "Longer flight times"
     ],
     "answer": "Reduced pilot vigilance and delayed reactions to hazards",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g775dc1e00e09a0e3dff9182255221d31",
-    "questionTitle": "Automation Management 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -6935,9 +5877,7 @@ const questionBank = [
       "Flying in poor weather without assistance"
     ],
     "answer": "Understanding automation limits and being ready to intervene",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga69fe18e12f8595059b7d3adab0e5b18",
-    "questionTitle": "Automation Management 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -6948,9 +5888,7 @@ const questionBank = [
       "Focusing only on the flight controller"
     ],
     "answer": "Using all available human and technical resources to enhance safety",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g599aa5101702990722e0c32312e52b6e",
-    "questionTitle": "Crew Resource Management 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -6961,9 +5899,7 @@ const questionBank = [
       "Flying without checking airspace notifications"
     ],
     "answer": "Using a visual observer to help monitor airspace and hazards",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "geda75143709997cb96b9e098008b1544",
-    "questionTitle": "Crew Resource Management 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -6974,9 +5910,7 @@ const questionBank = [
       "Control the aircraft manually"
     ],
     "answer": "Choose a course of action",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g36182bcfdbc0b2d4008a0bbd2beb8b88",
-    "questionTitle": "Decision-Making Models 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -6987,9 +5921,7 @@ const questionBank = [
       "Detect"
     ],
     "answer": "Evaluate",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8defee1bea28c4de970e01b4288d44c2",
-    "questionTitle": "Decision-Making Models 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7000,9 +5932,7 @@ const questionBank = [
       "Color of the drone"
     ],
     "answer": "Urban density, nearby people, wildlife, and RF interference",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gcab29d7be0e5f89a3127c67c784bf37a",
-    "questionTitle": "Environmental and External Factors 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7013,9 +5943,7 @@ const questionBank = [
       "Improved flight accuracy"
     ],
     "answer": "Collisions, legal violations, or unsafe landings",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge686819027ef2c427c0f13b518eb2b0d",
-    "questionTitle": "Environmental and External Factors 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7026,9 +5954,7 @@ const questionBank = [
       "Overestimate risk"
     ],
     "answer": "Believe accidents won’t happen to them",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga0f1aa7bf5b9b0595aa04b644f05b400",
-    "questionTitle": "Hazardous Attitudes 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7039,9 +5965,7 @@ const questionBank = [
       "Ignore it and continue flying"
     ],
     "answer": "Recognize it and apply the appropriate antidote (e.g., “It could happen to me”)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5f6c7b6e08db058188228d7af37a8b22",
-    "questionTitle": "Hazardous Attitudes 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7052,9 +5976,7 @@ const questionBank = [
       "Only relying on luck"
     ],
     "answer": "Avoiding, reducing, transferring, or accepting the risk",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge9bec3ff6aa6d74cac63f56a94e1b4c9",
-    "questionTitle": "Mitigation Strategies 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7065,9 +5987,7 @@ const questionBank = [
       "Accepting the hazard"
     ],
     "answer": "Reducing risk through mitigation",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7241503d51f040b803b764dab1f38926",
-    "questionTitle": "Mitigation Strategies 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7078,9 +5998,7 @@ const questionBank = [
       "Procedures"
     ],
     "answer": "Pilot – assess personal readiness, health, fitness, and currency",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf34bb55497e3f62086a8f890f9016f4e",
-    "questionTitle": "PAVE 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7091,9 +6009,7 @@ const questionBank = [
       "Equipment maintenance"
     ],
     "answer": "Environment – weather, airspace, terrain",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb2235e3a11179389619f7987bbe5307b",
-    "questionTitle": "PAVE 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7104,9 +6020,7 @@ const questionBank = [
       "Fly longer hours without rest"
     ],
     "answer": "Identify errors and improve future decision-making",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gee7bf47523243c1d116ca70313122d81",
-    "questionTitle": "Post-Flight Evaluation 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7117,9 +6031,7 @@ const questionBank = [
       "Risky behavior"
     ],
     "answer": "Post-flight evaluation for ADM improvement",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge2e3da1c584bcce15bb97c1674526f56",
-    "questionTitle": "Post-Flight Evaluation 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7130,9 +6042,7 @@ const questionBank = [
       "Flying beyond visual line of sight"
     ],
     "answer": "Identifying alternate landing sites and emergency procedures",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gec7c8481761ab1e6c0889464812f9248",
-    "questionTitle": "Pre-Mission and Contingency Planning 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7143,9 +6053,7 @@ const questionBank = [
       "Avoiding communication with observers"
     ],
     "answer": "Airspace, weather, NOTAMs, aircraft condition, and pilot readiness",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gda1eeb63c0378c8bb949ea3bb214ec8e",
-    "questionTitle": "Pre-Mission and Contingency Planning 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7156,9 +6064,7 @@ const questionBank = [
       "Increasing operational speed to reduce exposure"
     ],
     "answer": "Identifying hazards, assessing likelihood and severity, and mitigating risks",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g431c3b374916cc6b8cac5c4122ac624b",
-    "questionTitle": "Risk Assessment 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7169,9 +6075,7 @@ const questionBank = [
       "Ignoring obstacles in the flight path"
     ],
     "answer": "Planning an alternate landing site in case of signal loss",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf8043319e32dec6e987aeba0c3fcffe3",
-    "questionTitle": "Risk Assessment 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7182,9 +6086,7 @@ const questionBank = [
       "Increase maximum drone speed"
     ],
     "answer": "Identify hazards, assess risk, and implement mitigations",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gccdc01f99a88f7529287620f5bb3e40a",
-    "questionTitle": "Safety Management System 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7195,9 +6097,7 @@ const questionBank = [
       "Only flying in uncontrolled airspace"
     ],
     "answer": "Logging safety events and implementing corrective actions",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7ddcddedba9d5dcf1b3c919e00e4dee0",
-    "questionTitle": "Safety Management System 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7208,9 +6108,7 @@ const questionBank = [
       "Flying only at night"
     ],
     "answer": "Continuously monitoring the drone, airspace, weather, and potential hazards",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6bfe8ca3b1072d0852a2c58bacd456ff",
-    "questionTitle": "Situational Awareness 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7221,9 +6119,7 @@ const questionBank = [
       "Extended flight time"
     ],
     "answer": "Collisions or airspace violations",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g68a75d5c579c54d4d851527490ab0f42",
-    "questionTitle": "Situational Awareness 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7234,9 +6130,7 @@ const questionBank = [
       "Increased maximum altitude"
     ],
     "answer": "Decreased situational awareness and errors",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gc44aedd4fc3dded6d57d6d0a44130b9e",
-    "questionTitle": "Stress and Workload Management 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Aeronautical Decision Making",
@@ -7247,9 +6141,7 @@ const questionBank = [
       "Ignoring early warning signs"
     ],
     "answer": "Prioritizing tasks and taking breaks when needed",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g56e7b2dbb051166b2be583577cd41498",
-    "questionTitle": "Stress and Workload Management 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Military Training Routes",
@@ -7262,9 +6154,7 @@ const questionBank = [
     "answer": "These represent a military training route where all segments are below 1,500 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/MilitaryTrainingRoutes01.png",
-    "imageAlt": "Image for MTR 01 question",
-    "itemId": "gdfe259ca0d0a95ca196fec3eb58c82b6",
-    "questionTitle": "MTR 01"
+    "imageAlt": "Question image for MTR 01"
   },
   {
     "bank": "Military Training Routes",
@@ -7277,9 +6167,7 @@ const questionBank = [
     "answer": "These represent a military training route where at least one segment is over 1,500 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/MilitaryTrainingRoutes02.png",
-    "imageAlt": "Image for MTR 02 question",
-    "itemId": "g421062b4b730de3c29b12890b560cdc8",
-    "questionTitle": "MTR 02"
+    "imageAlt": "Question image for MTR 02"
   },
   {
     "bank": "Military Training Routes",
@@ -7292,9 +6180,7 @@ const questionBank = [
     "answer": "These represent a military training route where at least one segment is over 1,500 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/MilitaryTrainingRoutes03.png",
-    "imageAlt": "Image for MTR 03 question",
-    "itemId": "ge299c2b45c505f5de967676f70a574d3",
-    "questionTitle": "MTR 03"
+    "imageAlt": "Question image for MTR 03"
   },
   {
     "bank": "Altitude Limitations",
@@ -7305,9 +6191,7 @@ const questionBank = [
       "500 feet"
     ],
     "answer": "400 feet",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb0398c1fc2b0723d5eff9b48a8f360ac",
-    "questionTitle": "Altitude Limitations 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Altitude Limitations",
@@ -7318,9 +6202,7 @@ const questionBank = [
       "500 feet"
     ],
     "answer": "400 feet",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g7f18bb0ef778a2e39a599dd0a82903fd",
-    "questionTitle": "Altitude Limitations 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Altitude Limitations",
@@ -7331,9 +6213,7 @@ const questionBank = [
       "400 feet"
     ],
     "answer": "650 feet",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gedef004e13f72d6f2a793c5b82e1db0d",
-    "questionTitle": "Altitude Limitations 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Altitude Limitations",
@@ -7344,9 +6224,7 @@ const questionBank = [
       "Yes, as long as you are 500 feet beneath the cloud, you could perform this flight operation"
     ],
     "answer": "No, since the altitude limit in this scenario would be 400 feet above ground level",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9efbf367b317551affde4aa78a3e6762",
-    "questionTitle": "Altitude Limitations 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "MEF",
@@ -7359,9 +6237,7 @@ const questionBank = [
     "answer": "6,600 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/MEF01.png",
-    "imageAlt": "Image for MEF 01 question",
-    "itemId": "g9f57f154d36ec5d80652c24097d75b09",
-    "questionTitle": "MEF 01"
+    "imageAlt": "Question image for MEF 01"
   },
   {
     "bank": "MEF",
@@ -7374,9 +6250,7 @@ const questionBank = [
     "answer": "3,300 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/MEF02.png",
-    "imageAlt": "Image for MEF 02 question",
-    "itemId": "g8c4f99f46c7821c9da96183dcc954746",
-    "questionTitle": "MEF 02"
+    "imageAlt": "Question image for MEF 02"
   },
   {
     "bank": "MEF",
@@ -7389,9 +6263,7 @@ const questionBank = [
     "answer": "These numbers are the minimum elevation a pilot can fly within that quadrant and avoid hitting any natural or man-made objects",
     "explanation": "No explanation was provided in the Canvas export.",
     "image": "assessment_questions/MEF03.png",
-    "imageAlt": "Image for MEF 03 question",
-    "itemId": "gd9fd3afcef7cba6964967d4bc551f67f",
-    "questionTitle": "MEF 03"
+    "imageAlt": "Question image for MEF 03"
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7402,9 +6274,7 @@ const questionBank = [
       "To communicate directly with other pilots for flight approval"
     ],
     "answer": "To increase situational awareness and avoid conflicts with manned aircraft",
-    "explanation": "Feedback: Monitoring ATC communications helps the remote pilot understand where other aircraft are and their intentions, reducing the likelihood of collisions.",
-    "itemId": "g98034c756c7e78d62e453efd6c687d11",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Monitoring ATC communications helps the remote pilot understand where other aircraft are and their intentions, reducing the likelihood of collisions."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7415,9 +6285,7 @@ const questionBank = [
       "053 degrees"
     ],
     "answer": "350 degrees",
-    "explanation": "Feedback: Runway numbers correspond to the magnetic heading rounded to the nearest 10 degrees. Runway 35 has a heading of 350°.",
-    "itemId": "g54e1c69e253423c799dde34e68350837",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Runway numbers correspond to the magnetic heading rounded to the nearest 10 degrees. Runway 35 has a heading of 350°."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7428,9 +6296,7 @@ const questionBank = [
       "Wait until the aircraft lands before operating"
     ],
     "answer": "Avoid the airspace north of the runway to prevent conflicts",
-    "explanation": "Feedback: Since runway 35 is oriented roughly north, aircraft will be departing northward. The remote pilot should avoid that airspace.",
-    "itemId": "gd5ff10c91d78dac1f46380877f946bec",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Since runway 35 is oriented roughly north, aircraft will be departing northward. The remote pilot should avoid that airspace."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7441,9 +6307,7 @@ const questionBank = [
       "Aircraft may turn in either direction"
     ],
     "answer": "All turns in the traffic pattern will be left-hand",
-    "explanation": "Feedback: Left traffic means all legs of the traffic pattern involve left-hand turns.",
-    "itemId": "gf03934956595e57177d13eb0439bc729",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Left traffic means all legs of the traffic pattern involve left-hand turns."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7454,9 +6318,7 @@ const questionBank = [
       "On final approach"
     ],
     "answer": "Perpendicular to the runway, preparing for final approach",
-    "explanation": "Feedback: The base leg is perpendicular to the runway and leads to the final approach for landing.",
-    "itemId": "gd44a34e1c2a5f719e319177099a8998e",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The base leg is perpendicular to the runway and leads to the final approach for landing."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7467,9 +6329,7 @@ const questionBank = [
       "East of the runway"
     ],
     "answer": "North of the runway",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g961ae39ed2748fb07a125b0e8b960d86",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7480,9 +6340,7 @@ const questionBank = [
       "South of the runway"
     ],
     "answer": "West of the runway",
-    "explanation": "Feedback: The aircraft is approaching from the west and will join the downwind leg to the west of the runway in a left-hand pattern.",
-    "itemId": "g0c6eab1dc811629ae415251392b99651",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The aircraft is approaching from the west and will join the downwind leg to the west of the runway in a left-hand pattern."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7493,9 +6351,7 @@ const questionBank = [
       "The aircraft must circle three times before landing"
     ],
     "answer": "Two aircraft are ahead in the landing sequence",
-    "explanation": "Feedback: “Number 3” means two other aircraft are ahead in the landing queue; the remote pilot should be aware of all traffic in the pattern.",
-    "itemId": "g423e66e208857e8f0d8912d64deaefa2",
-    "questionTitle": "Question"
+    "explanation": "Feedback: “Number 3” means two other aircraft are ahead in the landing queue; the remote pilot should be aware of all traffic in the pattern."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7506,9 +6362,7 @@ const questionBank = [
       "To communicate with ATC on behalf of the manned aircraft"
     ],
     "answer": "To identify areas where manned aircraft are likely to be and avoid conflicts",
-    "explanation": "Feedback: Understanding landing sequences helps a remote pilot avoid areas where aircraft may be turning onto base or final.",
-    "itemId": "g9968b216a174ffb775349f8b4ebf5bed",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Understanding landing sequences helps a remote pilot avoid areas where aircraft may be turning onto base or final."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7519,9 +6373,7 @@ const questionBank = [
       "South"
     ],
     "answer": "South",
-    "explanation": "Feedback: Runway 27 has a heading of 270° (west). Aircraft turning base for runway 27 will be flying south on the base leg before turning to final.",
-    "itemId": "g0f3a21f067842c3721a838f7e8d31888",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Runway 27 has a heading of 270° (west). Aircraft turning base for runway 27 will be flying south on the base leg before turning to final."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7532,9 +6384,7 @@ const questionBank = [
       "Only helicopters are operating"
     ],
     "answer": "The traffic pattern is active and the airspace may be congested",
-    "explanation": "Feedback: Multiple aircraft in the pattern indicate active traffic; remote pilots should maintain awareness and avoid the pattern area.",
-    "itemId": "g79088db5819c0400a95ccc30a0029ffe",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Multiple aircraft in the pattern indicate active traffic; remote pilots should maintain awareness and avoid the pattern area."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7545,9 +6395,7 @@ const questionBank = [
       "Aircraft is landing from the east"
     ],
     "answer": "Aircraft is departing toward the east (runway heading 090°)",
-    "explanation": "Feedback: Runway 09 heading is 090° (east). Aircraft will depart east; the remote pilot south of the airport is less likely to conflict but should still maintain awareness.",
-    "itemId": "g1d23bf2def50712f877f51d214bc0e35",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Runway 09 heading is 090° (east). Aircraft will depart east; the remote pilot south of the airport is less likely to conflict but should still maintain awareness."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7558,9 +6406,7 @@ const questionBank = [
       "Final approach"
     ],
     "answer": "Downwind leg",
-    "explanation": "Feedback: The downwind leg is parallel to the runway in the opposite direction of landing; for left traffic, all turns are left-hand.",
-    "itemId": "g777a36c8088eb5ee41058beb3000ec23",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The downwind leg is parallel to the runway in the opposite direction of landing; for left traffic, all turns are left-hand."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7571,9 +6417,7 @@ const questionBank = [
       "Monitor ATC communications and track positions of all aircraft relative to your operation"
     ],
     "answer": "Monitor ATC communications and track positions of all aircraft relative to your operation",
-    "explanation": "Feedback: Comprehensive awareness involves monitoring all traffic, including takeoffs, landings, and pattern positions.",
-    "itemId": "g9f7fa21ee38decf4fe6b0c5c572ccd82",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Comprehensive awareness involves monitoring all traffic, including takeoffs, landings, and pattern positions."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7584,9 +6428,7 @@ const questionBank = [
       "From the West pointing East"
     ],
     "answer": "From the West pointing East",
-    "explanation": "Feedback: Aircraft enters base leg perpendicular to the runway; for a left-hand pattern, base leg approaches from the east.",
-    "itemId": "g962ee1893fc74b2d1b5c67344a45c773",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aircraft enters base leg perpendicular to the runway; for a left-hand pattern, base leg approaches from the east."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7597,9 +6439,7 @@ const questionBank = [
       "Land on the runway to observe"
     ],
     "answer": "Avoid the area where manned aircraft are likely to turn onto base and final",
-    "explanation": "Feedback: Awareness of aircraft in sequence helps the remote pilot stay clear of high-risk areas.",
-    "itemId": "g01c1b70aeaf5961432fe7041f86636d3",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Awareness of aircraft in sequence helps the remote pilot stay clear of high-risk areas."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7610,9 +6450,7 @@ const questionBank = [
       "090° (east)"
     ],
     "answer": "180° (south)",
-    "explanation": "Feedback: Downwind leg is opposite landing direction; runway 36 heads 360°, so aircraft flies south on downwind.",
-    "itemId": "gca3042b9ab2a6888b3277c3c4d85f367",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Downwind leg is opposite landing direction; runway 36 heads 360°, so aircraft flies south on downwind."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7623,9 +6461,7 @@ const questionBank = [
       "Fly directly over the runway for observation"
     ],
     "answer": "Be aware of aircraft landing from west to east and avoid the approach path",
-    "explanation": "Feedback: Aircraft will land toward 090° (east); remote pilots east of the runway should avoid the approach and final path.",
-    "itemId": "g5898863387c97fc0ce92f21b1cd734d3",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aircraft will land toward 090° (east); remote pilots east of the runway should avoid the approach and final path."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7636,9 +6472,7 @@ const questionBank = [
       "Downwind"
     ],
     "answer": "Downwind",
-    "explanation": "Feedback: Aircraft entering the pattern from the north will usually join the downwind leg before turning base and final.",
-    "itemId": "ged83243c0f455db44cf8c9335e84500a",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aircraft entering the pattern from the north will usually join the downwind leg before turning base and final."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7649,9 +6483,7 @@ const questionBank = [
       "The aircraft must hold before entering pattern"
     ],
     "answer": "The aircraft is first in the landing sequence",
-    "explanation": "Feedback: Number 1 indicates the aircraft is next to land; remote pilots should maintain awareness of the pattern.",
-    "itemId": "g1508a09995b67da489e15a674ec1408c",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Number 1 indicates the aircraft is next to land; remote pilots should maintain awareness of the pattern."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7662,9 +6494,7 @@ const questionBank = [
       "Aircraft will land from the north"
     ],
     "answer": "Aircraft will depart toward the south",
-    "explanation": "Feedback: Runway 18 has a heading of 180° (south). Aircraft will depart southward; pilots south of the runway should be aware.",
-    "itemId": "gfe4c9cef271a92429dd67aa82728f791",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Runway 18 has a heading of 180° (south). Aircraft will depart southward; pilots south of the runway should be aware."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7675,9 +6505,7 @@ const questionBank = [
       "Expect it to fly directly over the airport"
     ],
     "answer": "If you are north of the airport, you should monitor ATC and maintain situational awareness, but you should be clear of the approaching plane because it is heading from west to east when travelling downwind of airport 27.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g752ab23c01d6c17bac15964007442501",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7688,9 +6516,7 @@ const questionBank = [
       "Over the runway"
     ],
     "answer": "Perpendicular to the runway, approaching final from the west",
-    "explanation": "Feedback: Base leg is perpendicular to the runway; the aircraft turns from downwind to final approach.",
-    "itemId": "g70ec22dceecff2415d9504c31f4d0143",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Base leg is perpendicular to the runway; the aircraft turns from downwind to final approach."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7701,9 +6527,7 @@ const questionBank = [
       "West"
     ],
     "answer": "South",
-    "explanation": "Feedback: Downwind leg is opposite landing direction; runway 36 heads 360° (north), so aircraft flies south on downwind.",
-    "itemId": "g9df1e9a13aab58a5adaacb5fc2025a69",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Downwind leg is opposite landing direction; runway 36 heads 360° (north), so aircraft flies south on downwind."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7714,9 +6538,7 @@ const questionBank = [
       "Fly toward the landing aircraft to observe"
     ],
     "answer": "Avoid the final approach path and maintain safe separation",
-    "explanation": "Feedback: Final approach is a high-risk area; UAS should remain clear to avoid conflict.",
-    "itemId": "g9267b5e33d1384f7285b3e0c9a2e13cd",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Final approach is a high-risk area; UAS should remain clear to avoid conflict."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7727,9 +6549,7 @@ const questionBank = [
       "The aircraft will land immediately"
     ],
     "answer": "One other aircraft is ahead in the landing sequence",
-    "explanation": "Feedback: Number 2 indicates one aircraft is ahead in the landing sequence; pilots should consider where both may be in the pattern.",
-    "itemId": "gb43b4b2b2f9b549148f5b74faa43838b",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Number 2 indicates one aircraft is ahead in the landing sequence; pilots should consider where both may be in the pattern."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7740,9 +6560,7 @@ const questionBank = [
       "Downwind"
     ],
     "answer": "Downwind",
-    "explanation": "Feedback: Aircraft entering the pattern from the west will join the downwind leg first, then base, then final.",
-    "itemId": "ge07bec6788314d49cb513deb36bd818c",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aircraft entering the pattern from the west will join the downwind leg first, then base, then final."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7753,9 +6571,7 @@ const questionBank = [
       "South"
     ],
     "answer": "North",
-    "explanation": "Feedback: Base leg is perpendicular to the runway; for left traffic, the aircraft turns from downwind to final, flying north.",
-    "itemId": "g1a2becf2ecc791f67b5bb14125a02bf1",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Base leg is perpendicular to the runway; for left traffic, the aircraft turns from downwind to final, flying north."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7766,9 +6582,7 @@ const questionBank = [
       "East of the runway"
     ],
     "answer": "North of the runway",
-    "explanation": "Feedback: Runway 36 heads 360° (north). Departing aircraft will fly north; pilots north of the runway should be cautious.",
-    "itemId": "g0190c3e65ab15d720af656acb12f699f",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Runway 36 heads 360° (north). Departing aircraft will fly north; pilots north of the runway should be cautious."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7779,9 +6593,7 @@ const questionBank = [
       "Eastbound"
     ],
     "answer": "Northbound",
-    "explanation": "Feedback: Downwind leg is opposite landing direction; runway 18 is heading 180° (south), so aircraft flies north on downwind.",
-    "itemId": "ga794001d05bcfdb7073aca187183622b",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Downwind leg is opposite landing direction; runway 18 is heading 180° (south), so aircraft flies north on downwind."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7792,9 +6604,7 @@ const questionBank = [
       "The aircraft will circle before landing"
     ],
     "answer": "The aircraft is first in the landing queue",
-    "explanation": "Feedback: Number 1 indicates first to land; remote pilots should anticipate the aircraft entering base and final first.",
-    "itemId": "g89fec4cb053943f954b0e7a142f0fb78",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Number 1 indicates first to land; remote pilots should anticipate the aircraft entering base and final first."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7805,9 +6615,7 @@ const questionBank = [
       "Fly toward the airport to observe"
     ],
     "answer": "Avoid the base leg to maintain separation",
-    "explanation": "Feedback: Base leg is high-risk; pilots should maintain safe distance from manned aircraft.",
-    "itemId": "g6a9f93ed990c84e71cad3da621083242",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Base leg is high-risk; pilots should maintain safe distance from manned aircraft."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7818,9 +6626,7 @@ const questionBank = [
       "North"
     ],
     "answer": "East",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g0c655bb9a597c93d6c428406d32ab9b3",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7831,9 +6637,7 @@ const questionBank = [
       "Final approach"
     ],
     "answer": "Final approach",
-    "explanation": "Feedback: After base leg, the aircraft turns onto final approach to land.",
-    "itemId": "g206314d4fc6d0faae4c096595b9a31f1",
-    "questionTitle": "Question"
+    "explanation": "Feedback: After base leg, the aircraft turns onto final approach to land."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7844,9 +6648,7 @@ const questionBank = [
       "North"
     ],
     "answer": "West",
-    "explanation": "Feedback: Runway 27 heading is 270° (west). Aircraft will depart west; pilots north of the airport are less likely to conflict but should remain vigilant.",
-    "itemId": "gb4223d861a5acda85c39d9b53dae39e7",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Runway 27 heading is 270° (west). Aircraft will depart west; pilots north of the airport are less likely to conflict but should remain vigilant."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7857,9 +6659,7 @@ const questionBank = [
       "Fly under the aircraft"
     ],
     "answer": "Avoid east side approach and monitor traffic",
-    "explanation": "Feedback: Aircraft entering pattern south of runway 36 and left traffic will cross near east; maintain awareness and separation.",
-    "itemId": "g0053744abba9e7c6dd2d9464e9ba6a43",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aircraft entering pattern south of runway 36 and left traffic will cross near east; maintain awareness and separation."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7870,9 +6670,7 @@ const questionBank = [
       "At the terminal only"
     ],
     "answer": "On downwind, base, and final legs",
-    "explanation": "Feedback: Number 2 indicates one aircraft ahead in pattern; remote pilots should consider all legs of the traffic pattern.",
-    "itemId": "g960fa6f7f77db6e4bafee3587afca571",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Number 2 indicates one aircraft ahead in pattern; remote pilots should consider all legs of the traffic pattern."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7883,9 +6681,7 @@ const questionBank = [
       "270° (west)"
     ],
     "answer": "180° (south)",
-    "explanation": "Feedback: Base leg is perpendicular to runway; aircraft turning base for runway 09 (heading east) will fly south on base.",
-    "itemId": "gc11ccae3faeed7060bff0883719fb6f4",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Base leg is perpendicular to runway; aircraft turning base for runway 09 (heading east) will fly south on base."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7896,9 +6692,7 @@ const questionBank = [
       "West"
     ],
     "answer": "East",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge3135ba007e28ac7cd895b2ba73124ac",
-    "questionTitle": "Question"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7909,9 +6703,7 @@ const questionBank = [
       "North of the airport"
     ],
     "answer": "South of the airport",
-    "explanation": "Feedback: Runway 18 heading 180° (south); departing aircraft will fly south from runway end.",
-    "itemId": "g87b48f9f80b7a2a58a287c961c4501d3",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Runway 18 heading 180° (south); departing aircraft will fly south from runway end."
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -7922,9 +6714,7 @@ const questionBank = [
       "Fly toward the aircraft to observe its approach"
     ],
     "answer": "Avoid base and final legs to maintain safe separation",
-    "explanation": "Feedback: Aircraft on base is preparing for final approach; UAS pilots should maintain separation to prevent conflicts.",
-    "itemId": "gcc2054d4344e9cc66a8ce0fe7854de39",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Aircraft on base is preparing for final approach; UAS pilots should maintain separation to prevent conflicts."
   },
   {
     "bank": "National Airspace",
@@ -7934,9 +6724,7 @@ const questionBank = [
       "False"
     ],
     "answer": "True",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6308cb9b7edd67dbd1b1638fb1664a63",
-    "questionTitle": "National Airspace"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "National Airspace",
@@ -7947,9 +6735,7 @@ const questionBank = [
       "C"
     ],
     "answer": "G",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1badfd0908f480eac862fa04ba556f41",
-    "questionTitle": "National Airspace 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "National Airspace",
@@ -7959,9 +6745,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gfb9f6190d52234ac0d9516135fdc12d6",
-    "questionTitle": "National Airspace 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Lift",
@@ -7972,9 +6756,7 @@ const questionBank = [
       "Gravity pulling the UAV upward"
     ],
     "answer": "Differences in air pressure above and below the wing",
-    "explanation": "Feedback: Lift is generated by creating a low-pressure area above the wing and a high-pressure area below, pushing the aircraft upward.",
-    "itemId": "g7a8530a6418ec7834eeb5e8c066cfe0e",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Lift is generated by creating a low-pressure area above the wing and a high-pressure area below, pushing the aircraft upward."
   },
   {
     "bank": "Lift",
@@ -7985,9 +6767,7 @@ const questionBank = [
       "Rudder"
     ],
     "answer": "Airfoil",
-    "explanation": "Feedback: An airfoil is a wing shape designed to create a pressure difference between the top and bottom surfaces, producing lift.",
-    "itemId": "ga55aa0cda7bb8fe1224e497ae6d7fb3a",
-    "questionTitle": "Question"
+    "explanation": "Feedback: An airfoil is a wing shape designed to create a pressure difference between the top and bottom surfaces, producing lift."
   },
   {
     "bank": "Lift",
@@ -7998,9 +6778,7 @@ const questionBank = [
       "It flows equally over both surfaces"
     ],
     "answer": "It flows faster over the top and slower under the bottom",
-    "explanation": "Feedback: Faster airflow over the top reduces pressure, while slower airflow under the wing increases pressure, creating lift.",
-    "itemId": "gd65cf2ccbf8bc6f565d62a861191c4c6",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Faster airflow over the top reduces pressure, while slower airflow under the wing increases pressure, creating lift."
   },
   {
     "bank": "Lift",
@@ -8011,9 +6789,7 @@ const questionBank = [
       "Thrust increases automatically"
     ],
     "answer": "Lift decreases and a stall may occur",
-    "explanation": "Feedback: Smooth airflow is required to maintain lift; disruption can reduce lift and lead to a stall.",
-    "itemId": "g1f3f5273352e9f945f70283d428268a5",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Smooth airflow is required to maintain lift; disruption can reduce lift and lead to a stall."
   },
   {
     "bank": "Lift",
@@ -8023,9 +6799,7 @@ const questionBank = [
       "Wing shape, airspeed, and smooth airflow"
     ],
     "answer": "Wing shape, airspeed, and smooth airflow",
-    "explanation": "Feedback: Lift is created by the combination of airfoil shape, adequate airspeed, and smooth airflow over the wings.",
-    "itemId": "gf1de890c9f5be87d2c1bf38210aa54cb",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Lift is created by the combination of airfoil shape, adequate airspeed, and smooth airflow over the wings."
   },
   {
     "bank": "Lift",
@@ -8036,9 +6810,7 @@ const questionBank = [
       "Thrust"
     ],
     "answer": "Low-pressure area",
-    "explanation": "Feedback: Faster airflow over the top of the wing reduces pressure, creating a low-pressure zone that contributes to lift.",
-    "itemId": "g4b91d24c736058e1ea7cd5d251d06a5d",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Faster airflow over the top of the wing reduces pressure, creating a low-pressure zone that contributes to lift."
   },
   {
     "bank": "Lift",
@@ -8049,9 +6821,7 @@ const questionBank = [
       "Drag"
     ],
     "answer": "High-pressure area",
-    "explanation": "Feedback: Slower airflow under the wing increases pressure, pushing the wing upward to generate lift.",
-    "itemId": "g9fe7ab04f25377367b6c71bfeb03a429",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Slower airflow under the wing increases pressure, pushing the wing upward to generate lift."
   },
   {
     "bank": "Lift",
@@ -8062,9 +6832,7 @@ const questionBank = [
       "Keep the throttle at zero"
     ],
     "answer": "Maintain smooth airflow over the wings",
-    "explanation": "Feedback: Smooth airflow over the wing is essential to maintain lift and prevent stalls.",
-    "itemId": "g61c67c21d8359b82689835ea57f9d12d",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Smooth airflow over the wing is essential to maintain lift and prevent stalls."
   },
   {
     "bank": "Lift",
@@ -8075,9 +6843,7 @@ const questionBank = [
       "Trailing edge"
     ],
     "answer": "Trailing edge",
-    "explanation": "Feedback: The trailing edge allows the airflow to recombine and helps maintain smooth airflow necessary for lift.",
-    "itemId": "g9067f013d48814b5b8b0b3a1bbdea0d5",
-    "questionTitle": "Question"
+    "explanation": "Feedback: The trailing edge allows the airflow to recombine and helps maintain smooth airflow necessary for lift."
   },
   {
     "bank": "Lift",
@@ -8088,9 +6854,7 @@ const questionBank = [
       "Generate more thrust automatically"
     ],
     "answer": "Generate less lift and be more prone to stalling",
-    "explanation": "Feedback: Damaged or deformed wings disrupt smooth airflow and air pressure differences, reducing lift and increasing stall risk.",
-    "itemId": "g76c636fd7730760230117b267864c4c8",
-    "questionTitle": "Question"
+    "explanation": "Feedback: Damaged or deformed wings disrupt smooth airflow and air pressure differences, reducing lift and increasing stall risk."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8101,9 +6865,7 @@ const questionBank = [
       "Clear skies and stable air"
     ],
     "answer": "Unstable air and potentially bad weather",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g036c8d5a6514744e764c4277cfe107ce",
-    "questionTitle": "Atmospheric Pressure"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8114,9 +6876,7 @@ const questionBank = [
       "30.50 inHg or 1,020 mb"
     ],
     "answer": "29.92 inHg or 1,013.2 mb",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4f9d40c6f9abbc079ebaaddb34691cd8",
-    "questionTitle": "Atmospheric Pressure 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8127,9 +6887,7 @@ const questionBank = [
       "Pressure stays the same regardless of altitude"
     ],
     "answer": "Pressure decreases by about 1 inHg for every 1,000 ft gained",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g23bb49adbc1caec00045caea856fa355",
-    "questionTitle": "Atmospheric Pressure 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8140,9 +6898,7 @@ const questionBank = [
       "100 mb"
     ],
     "answer": "33.86 mb",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3ec8477658f5b51ee52d908f8de05d7c",
-    "questionTitle": "Atmospheric Pressure 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8152,9 +6908,7 @@ const questionBank = [
       "26.92 mb"
     ],
     "answer": "26.92 inHg",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g15ddce395fdaccb5ebb1e7058bd7ce49",
-    "questionTitle": "Atmospheric Pressure 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8165,9 +6919,7 @@ const questionBank = [
       "3,000 ft"
     ],
     "answer": "2,000 ft",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4a895c74a44bc5d7a620e52a94a6c0a5",
-    "questionTitle": "Atmospheric Pressure 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8178,9 +6930,7 @@ const questionBank = [
       "Severe thunderstorms"
     ],
     "answer": "Good weather and stable air",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb1939296df6cd8c71ba22d2592f6df31",
-    "questionTitle": "Atmospheric Pressure 06"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8191,9 +6941,7 @@ const questionBank = [
       "Pounds per square inch (psi)"
     ],
     "answer": "Inches of mercury (inHg)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g281434ad503be991022477c5a1e87a28",
-    "questionTitle": "Atmospheric Pressure 07"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8204,9 +6952,7 @@ const questionBank = [
       "Drone will perform better because air is less dense"
     ],
     "answer": "Drone will perform worse because air is less dense",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gee7ff16f314450e7aa4cd62431e4cc11",
-    "questionTitle": "Atmospheric Pressure 08"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Atmospheric Pressure",
@@ -8217,9 +6963,7 @@ const questionBank = [
       "High pressure and low temperature reduce air density, decreasing lift"
     ],
     "answer": "Low pressure and high temperature reduce air density, decreasing lift",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga11c71ea61f5f1581a93cd2f95363a9d",
-    "questionTitle": "Atmospheric Pressure 09"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8230,9 +6974,7 @@ const questionBank = [
       "Continuously every 5 minutes"
     ],
     "answer": "Every hour or when there is a significant change in weather/operations",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g83f57f080cf00c2214b2606f56dfd4ad",
-    "questionTitle": "ATIS 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8243,9 +6985,7 @@ const questionBank = [
       "To automatically communicate runway closure information only"
     ],
     "answer": "To provide pilots with current, real-time weather conditions including wind, visibility, temperature, and altimeter setting",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g18a37bcfb63053090e0778031e82fdac",
-    "questionTitle": "AWOS 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8256,9 +6996,7 @@ const questionBank = [
       "By monitoring UNICOM at 122.95 MHz"
     ],
     "answer": "By tuning their aircraft radio to the AWOS frequency published for the airport",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9d49aef1c122927989a62004989fbcbe",
-    "questionTitle": "AWOS 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8269,9 +7007,7 @@ const questionBank = [
       "UNICOM frequency only"
     ],
     "answer": "AWOS frequency",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gec5b278c14b196d63071c43490d2bc7a",
-    "questionTitle": "AWOS 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8282,9 +7018,7 @@ const questionBank = [
       "AWOS broadcasts at a tower frequency, while ATIS broadcasts only on MULTICOM."
     ],
     "answer": "AWOS provides automated weather observations only, while ATIS provides both weather and operational information, including runways in use and approaches.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g97697ffa3c500fe089b61afd2374640f",
-    "questionTitle": "AWOS vs ATIS 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8295,9 +7029,7 @@ const questionBank = [
       "ATIS is used exclusively for military airports"
     ],
     "answer": "When they need both current weather and operational information such as active runways and approach types",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf2b5e099a272ad16ccec167a5248af4a",
-    "questionTitle": "AWOS vs ATIS 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8308,9 +7040,7 @@ const questionBank = [
       "Altimeter setting"
     ],
     "answer": "Runways in use, instrument approach in use, airport-specific operational notes",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g408e846eb6f848af2a6cd4b6f4764b51",
-    "questionTitle": "AWOS vs ATIS 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8321,9 +7051,7 @@ const questionBank = [
       "Continuously transmit position reports during the entire approach to ensure other aircraft hear the broadcast."
     ],
     "answer": "Make self-announce position reports at key points, such as 10 miles out, entering downwind, base, and final.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g1aaefa60c3ee2f1a82530a9a2bf0d894",
-    "questionTitle": "CTAF 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8334,9 +7062,7 @@ const questionBank = [
       "They should contact the nearest Flight Service Station (FSS) instead of using CTAF."
     ],
     "answer": "They should make position reports and monitor CTAF just as they would at a nontowered airport.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gbd4d8081c193ae310ec20e327667001d",
-    "questionTitle": "CTAF 05"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8347,9 +7073,7 @@ const questionBank = [
       "Operating hours are not listed in the Chart Supplement"
     ],
     "answer": "In the “Communications” section under the tower frequency listing",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gde98be64c6b7b96cbdc45c0bb86971aa",
-    "questionTitle": "Control Tower 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8360,9 +7084,7 @@ const questionBank = [
       "The frequency listed only in the Chart Supplement"
     ],
     "answer": "The frequency listed with the letters CT next to it",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5106f517ad47f57fa04f33247406d686",
-    "questionTitle": "Control Tower 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Common Radio Frequencies",
@@ -8373,9 +7095,7 @@ const questionBank = [
       "121.5 MHz"
     ],
     "answer": "122.9 MHz",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g8fd97262327a5014b69590f2be8b0ca5",
-    "questionTitle": "MULTICOM 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8386,9 +7106,7 @@ const questionBank = [
       "Warm and dry"
     ],
     "answer": "Cold and dry",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gf51828daffa6f25189d90907db26d338",
-    "questionTitle": "Air Mass Type 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8399,9 +7117,7 @@ const questionBank = [
       "Cool, unstable air"
     ],
     "answer": "Warm, moist air",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gafabe410e772805ddbf078c03dcaccd7",
-    "questionTitle": "Air Mass Type 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8412,9 +7128,7 @@ const questionBank = [
       "A fast-moving pocket of air within a storm"
     ],
     "answer": "A large body of air with uniform temperature and moisture characteristics",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gd4424643d09ecc1e1f85c94806d8c52f",
-    "questionTitle": "Air Masses 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8425,9 +7139,7 @@ const questionBank = [
       "Stratocumulus clouds and drizzle"
     ],
     "answer": "Towering cumulus/cumulonimbus clouds, thunderstorms, heavy rain, rapid temperature drop",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g46e12edef5946d410a3f1ee936cf2539",
-    "questionTitle": "Cold Front 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8438,9 +7150,7 @@ const questionBank = [
       "Rotation of the Earth alone"
     ],
     "answer": "Uneven heating of the Earth’s surface, creating local updrafts and downdrafts",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g05a94c540437144c354973306c75b8bb",
-    "questionTitle": "Convective Currents 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8451,9 +7161,7 @@ const questionBank = [
       "The same speed as a warm front"
     ],
     "answer": "Faster, around 25–30 MPH",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g314603b66b454b2495d268e02977efc0",
-    "questionTitle": "Front Speed 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8464,9 +7172,7 @@ const questionBank = [
       "Warm air overtakes cold air slowly"
     ],
     "answer": "A fast-moving cold front overtakes a slow-moving warm front",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gadcbb3578f3e3fb9d4cfe80a793b0739",
-    "questionTitle": "Occluded Front"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8477,9 +7183,7 @@ const questionBank = [
       "Turbulence and showers"
     ],
     "answer": "Smooth air, poor visibility, and stratiform clouds",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge2d128df4f574a8db4ba0d4b013373df",
-    "questionTitle": "Stable Air 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8490,9 +7194,7 @@ const questionBank = [
       "A fast cold front overtakes a slower warm front"
     ],
     "answer": "Two air masses of similar strength do not move",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g74b843c5122acd43d6ee3485d4fa1893",
-    "questionTitle": "Stationary Front 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8503,9 +7205,7 @@ const questionBank = [
       "They do not impact UAV operations under 400 feet"
     ],
     "answer": "Instability and frontal activity can create turbulence and poor visibility, which are hazardous for UAV operations",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g16d316c567687a82ef8b804e3adae3ce",
-    "questionTitle": "UAV Hazards"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8516,9 +7216,7 @@ const questionBank = [
       "Smooth air and poor visibility"
     ],
     "answer": "Cumulus clouds, showers, turbulence, and good visibility",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g3288347849707e78dea61b574dac540a",
-    "questionTitle": "Unstable Air 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Air Masses and Fronts",
@@ -8529,9 +7227,7 @@ const questionBank = [
       "Cold air overtakes warm air"
     ],
     "answer": "Warm air replaces cooler air",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g68a61fa0e33c1c4eb4f535eb7cce7a87",
-    "questionTitle": "Warm Front 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Special Use Airspace",
@@ -8542,9 +7238,7 @@ const questionBank = [
       "alert areas are exclusively designated for UAV training operations"
     ],
     "answer": "alert areas often have concentrated hot air balloon, parachute jumping, and other activities where UAVs could pose a hazard to safety",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g36ed40a03c16e5a4cacf3e01ae41a3e0",
-    "questionTitle": "Alert Areas 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Special Use Airspace",
@@ -8555,9 +7249,7 @@ const questionBank = [
       "Are always allowed as long as notice is given to the controlling agency"
     ],
     "answer": "May be allowed with approval from the agency that owns the restricted airspace (although very rare and unlikely)",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g213b739b837e5647db059cd5bcbaa058",
-    "questionTitle": "Special Use Airspace 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Special Use Airspace",
@@ -8567,9 +7259,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g011e4de26191e084aa12245453bcb5b5",
-    "questionTitle": "Special Use Airspace 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Special Use Airspace",
@@ -8580,9 +7270,7 @@ const questionBank = [
       "I need prior authorization for the Devil’s Lake East MOA"
     ],
     "answer": "Before operating in R-5403 I must obtain authorization from the using or controlling agency.",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g4e4d8525a4260d0941b49ff0c66aec08",
-    "questionTitle": "Special Use Airspace 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Special Use Airspace",
@@ -8593,9 +7281,7 @@ const questionBank = [
       "Obtain clearance from air traffic control"
     ],
     "answer": "Contact the agency that controls the MOA to obtain specific information about potential flight hazards",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "gb0651a71407150daf2a2533e52c2d48b",
-    "questionTitle": "Special Use Airspace 04"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Radio Phraseology",
@@ -8606,9 +7292,7 @@ const questionBank = [
       "Twelve thousand seven zero zero feet"
     ],
     "answer": "One two thousand seven hundred feet",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge133f4c8509f43bf7dfa88afc65ad676",
-    "questionTitle": "Altitude 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Radio Phraseology",
@@ -8619,9 +7303,7 @@ const questionBank = [
       "twenty-five thousand feet"
     ],
     "answer": "Flight Level two five zero",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g86f6e49dc852e905634df61b1899c72e",
-    "questionTitle": "Altitude 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Radio Phraseology",
@@ -8632,9 +7314,7 @@ const questionBank = [
       "Speed fifteen point zero miles per hour"
     ],
     "answer": "Speed one five miles per hour",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g864ef552932386b2c7e0d24b12fd3976",
-    "questionTitle": "Speed 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Radio Phraseology",
@@ -8644,9 +7324,7 @@ const questionBank = [
       "False"
     ],
     "answer": "False",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g222452a1b89f58ee11ba44cf57e3aecb",
-    "questionTitle": "Time 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Radio Phraseology",
@@ -8657,9 +7335,7 @@ const questionBank = [
       "Winds are from the west"
     ],
     "answer": "Winds are from two seven zero",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ge366bfcc67e1a7058f6fa08182e30683",
-    "questionTitle": "Winds 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Measurements - Distance and Coordinates",
@@ -8670,9 +7346,7 @@ const questionBank = [
       "Carrington Airport"
     ],
     "answer": "Barnes Airport",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "ga61f1ddd0a20b28f11662a24794d7756",
-    "questionTitle": "Airport Lat/Long Location 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Measurements - Distance and Coordinates",
@@ -8683,9 +7357,7 @@ const questionBank = [
       "Carrington Airport"
     ],
     "answer": "Cooperstown Airport",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g9e16697e6181775d2c538646e702c089",
-    "questionTitle": "Airport Lat/Long Location 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Measurements - Distance and Coordinates",
@@ -8696,9 +7368,7 @@ const questionBank = [
       "Cooperstown Airport"
     ],
     "answer": "Carrington Airport",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g58183c80f63f88f26086f2881e4b6a23",
-    "questionTitle": "Airport Lat/Long Location 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Measurements - Distance and Coordinates",
@@ -8709,9 +7379,7 @@ const questionBank = [
       "1,960 MSL"
     ],
     "answer": "1,707 MSL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g6f97a92a565b2884737e3f920a837d72",
-    "questionTitle": "Distance 01"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Measurements - Distance and Coordinates",
@@ -8722,9 +7390,7 @@ const questionBank = [
       "1,960 MSL"
     ],
     "answer": "1,653 MSL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g860f0ebf52f9ab1d4e4e9faa3d37053e",
-    "questionTitle": "Distance 02"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Measurements - Distance and Coordinates",
@@ -8735,9 +7401,7 @@ const questionBank = [
       "1,653 MSL"
     ],
     "answer": "1,960 MSL",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "geb3aa01b6284bc70dbb97f619721e7e7",
-    "questionTitle": "Distance 03"
+    "explanation": "No explanation was provided in the Canvas export."
   },
   {
     "bank": "Visibility",
@@ -8748,8 +7412,6 @@ const questionBank = [
       "6 sm"
     ],
     "answer": "3 sm",
-    "explanation": "No explanation was provided in the Canvas export.",
-    "itemId": "g5628dca6f8469ad6d0051cf24cae7bb9",
-    "questionTitle": "Visibility 01"
+    "explanation": "No explanation was provided in the Canvas export."
   }
 ];
