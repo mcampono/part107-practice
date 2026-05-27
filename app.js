@@ -244,6 +244,8 @@ function submitQuiz() {
 
   scoreSummary.textContent = `You scored ${score} out of ${currentQuestions.length}.`;
 
+  alert(`You scored ${score} out of ${currentQuestions.length}.`);
+
   quizScreen.classList.add("hidden");
   resultsScreen.classList.remove("hidden");
 }
