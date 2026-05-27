@@ -99,11 +99,15 @@ function startQuiz(quizId) {
     questionDiv.appendChild(bankLabel);
 
     const questionText = document.createElement("p");
-    questionText.textContent = questionItem.question;
-    questionDiv.appendChild(questionText);
+questionText.textContent = questionItem.question;
+questionDiv.appendChild(questionText);
 
-    const choicesDiv = document.createElement("div");
-    choicesDiv.className = "choices";
+if (questionItem.image) {
+  questionDiv.appendChild(createQuestionImage(questionItem));
+}
+
+const choicesDiv = document.createElement("div");
+choicesDiv.className = "choices";
 
     const shuffledChoices = shuffleArray([...questionItem.choices]);
 
@@ -221,10 +225,14 @@ function submitQuiz() {
     bankLine.innerHTML = `<strong>Question bank:</strong> ${questionItem.bank}`;
 
     const questionLine = document.createElement("p");
-    questionLine.innerHTML = `<strong>Question:</strong> ${questionItem.question}`;
+questionLine.innerHTML = `<strong>Question:</strong> ${questionItem.question}`;
 
-    const yourAnswerLine = document.createElement("p");
-    yourAnswerLine.innerHTML = `<strong>Your answer:</strong> ${studentAnswer}`;
+if (questionItem.image) {
+  feedbackItem.appendChild(createQuestionImage(questionItem));
+}
+
+const yourAnswerLine = document.createElement("p");
+yourAnswerLine.innerHTML = `<strong>Your answer:</strong> ${studentAnswer}`;
 
     const correctAnswerLine = document.createElement("p");
     correctAnswerLine.innerHTML = `<strong>Correct answer:</strong> ${questionItem.answer}`;
@@ -415,5 +423,17 @@ function checkQuestionData(warnings) {
     if (!question.explanation) {
       warnings.push(`Question ${questionNumber} is missing an explanation.`);
     }
+    if (question.image && typeof question.image !== "string") {
+  warnings.push(`Question ${questionNumber} has an image value, but it is not valid text.`);
+}
   });
+}
+function createQuestionImage(questionItem) {
+  const image = document.createElement("img");
+
+  image.src = questionItem.image;
+  image.alt = questionItem.imageAlt || "Question image";
+  image.className = "question-image";
+
+  return image;
 }
