@@ -1,7 +1,3 @@
-// Generated from corrected Canvas question spreadsheet.
-// Batch includes question banks needed for Quizzes 1 through 8.
-// Unsupported multiple-answer questions are intentionally excluded for now.
-
 const questionBank = [
   {
     "bank": "VLOS",
@@ -13,7 +9,7 @@ const questionBank = [
     ],
     "answer": "Contact Lenses",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "VLOS 01",
+    "sourceTitle": "VLOS 01",
     "itemId": "gb784c242534be3e4ef0095e5f91d34a5"
   },
   {
@@ -26,7 +22,7 @@ const questionBank = [
     ],
     "answer": "you are still required to maintain visual line of sight, regardless of the use of a visual observer",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "VLOS 02",
+    "sourceTitle": "VLOS 02",
     "itemId": "g98d5d5aabdf025ca040b69565b316af1"
   },
   {
@@ -39,7 +35,7 @@ const questionBank = [
     ],
     "answer": "Fly the UAV out from behind the building and regain visual line of sight as soon as practicable",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "VLOS 03",
+    "sourceTitle": "VLOS 03",
     "itemId": "g43a92925c461afc105aefb8ff1d158e4"
   },
   {
@@ -52,7 +48,7 @@ const questionBank = [
     ],
     "answer": "A remote pilot certificate with a small UAS rating",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "FAA Licensing",
+    "sourceTitle": "FAA Licensing",
     "itemId": "g58dd698542ebe16011c21d80badca94f"
   },
   {
@@ -65,7 +61,7 @@ const questionBank = [
     ],
     "answer": "Part 107",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "FAA Regs01",
+    "sourceTitle": "FAA Regs01",
     "itemId": "gbc6d6bf1c420a249786046c4542e9da7"
   },
   {
@@ -78,7 +74,7 @@ const questionBank = [
     ],
     "answer": "Section 333",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g1fbe11f8075003e92c4b4e58358ab9ca"
   },
   {
@@ -91,10 +87,10 @@ const questionBank = [
     ],
     "answer": "Class B",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace 10",
-    "itemId": "g3d270213e451905c8f74a7f37a9d3cce",
     "image": "assessment_questions/Airspace05.png",
-    "imageAlt": "Question image for Airspace 10"
+    "imageAlt": "Airspace 10",
+    "sourceTitle": "Airspace 10",
+    "itemId": "g3d270213e451905c8f74a7f37a9d3cce"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -106,10 +102,10 @@ const questionBank = [
     ],
     "answer": "Class D",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 01",
-    "itemId": "g095dea0e77a161037b15cbf51699d10f",
     "image": "assessment_questions/Airspace01.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 01"
+    "imageAlt": "Airspace Sectional Chart 01",
+    "sourceTitle": "Airspace Sectional Chart 01",
+    "itemId": "g095dea0e77a161037b15cbf51699d10f"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -121,10 +117,10 @@ const questionBank = [
     ],
     "answer": "2,500 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 02",
-    "itemId": "g3e018912b89475bbfc763c0246e3a4a8",
     "image": "assessment_questions/Airspace01.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 02"
+    "imageAlt": "Airspace Sectional Chart 02",
+    "sourceTitle": "Airspace Sectional Chart 02",
+    "itemId": "g3e018912b89475bbfc763c0246e3a4a8"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -136,10 +132,10 @@ const questionBank = [
     ],
     "answer": "Yes, this is controlled airspace that starts at the surface",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 03",
-    "itemId": "g3e75b5a272f4caddf8bbc16d0970e450",
     "image": "assessment_questions/Airspace01.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 03"
+    "imageAlt": "Airspace Sectional Chart 03",
+    "sourceTitle": "Airspace Sectional Chart 03",
+    "itemId": "g3e75b5a272f4caddf8bbc16d0970e450"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -151,10 +147,10 @@ const questionBank = [
     ],
     "answer": "Class D",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 04",
-    "itemId": "g4de5d891228cc6b61c250f1bb52144d3",
     "image": "assessment_questions/Airspace02.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 04"
+    "imageAlt": "Airspace Sectional Chart 04",
+    "sourceTitle": "Airspace Sectional Chart 04",
+    "itemId": "g4de5d891228cc6b61c250f1bb52144d3"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -166,10 +162,10 @@ const questionBank = [
     ],
     "answer": "4,000 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 05",
-    "itemId": "g5e9f4fbb0f0092ee1feafa6a7fe065d8",
     "image": "assessment_questions/Airspace02.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 05"
+    "imageAlt": "Airspace Sectional Chart 05",
+    "sourceTitle": "Airspace Sectional Chart 05",
+    "itemId": "g5e9f4fbb0f0092ee1feafa6a7fe065d8"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -181,10 +177,10 @@ const questionBank = [
     ],
     "answer": "Class C",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 06",
-    "itemId": "g983d3422a96e58cb6f2aff51363cf7f4",
     "image": "assessment_questions/Airspace03.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 06"
+    "imageAlt": "Airspace Sectional Chart 06",
+    "sourceTitle": "Airspace Sectional Chart 06",
+    "itemId": "g983d3422a96e58cb6f2aff51363cf7f4"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -196,10 +192,10 @@ const questionBank = [
     ],
     "answer": "2,000 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 07",
-    "itemId": "g9239f61140390baff214af9e441acc03",
     "image": "assessment_questions/Airspace03.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 07"
+    "imageAlt": "Airspace Sectional Chart 07",
+    "sourceTitle": "Airspace Sectional Chart 07",
+    "itemId": "g9239f61140390baff214af9e441acc03"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -211,10 +207,10 @@ const questionBank = [
     ],
     "answer": "No, the maximum altitude you can fly above the towers is 1,388 feet MSL which is below the floor of the outer ring.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 08",
-    "itemId": "g1c2c8ca5bb16bf1249f515af8a0dcf77",
     "image": "assessment_questions/Airspace03.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 08"
+    "imageAlt": "Airspace Sectional Chart 08",
+    "sourceTitle": "Airspace Sectional Chart 08",
+    "itemId": "g1c2c8ca5bb16bf1249f515af8a0dcf77"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -226,10 +222,10 @@ const questionBank = [
     ],
     "answer": "Class E airspace",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 09",
-    "itemId": "gd620d4ba7acb19846e5d1d28aef890f5",
     "image": "assessment_questions/Airspace04.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 09"
+    "imageAlt": "Airspace Sectional Chart 09",
+    "sourceTitle": "Airspace Sectional Chart 09",
+    "itemId": "gd620d4ba7acb19846e5d1d28aef890f5"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -241,10 +237,10 @@ const questionBank = [
     ],
     "answer": "Up to but not including 3,000 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 11",
-    "itemId": "g6ee03aee9d9d059088222aa4fb8f50d1",
     "image": "assessment_questions/Airspace05.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 11"
+    "imageAlt": "Airspace Sectional Chart 11",
+    "sourceTitle": "Airspace Sectional Chart 11",
+    "itemId": "g6ee03aee9d9d059088222aa4fb8f50d1"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -256,10 +252,10 @@ const questionBank = [
     ],
     "answer": "Class E to the surface",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 12",
-    "itemId": "g0dae4903a1a35fa272c64a2f4870f4e5",
     "image": "assessment_questions/Airspace06.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 12"
+    "imageAlt": "Airspace Sectional Chart 12",
+    "sourceTitle": "Airspace Sectional Chart 12",
+    "itemId": "g0dae4903a1a35fa272c64a2f4870f4e5"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -271,10 +267,10 @@ const questionBank = [
     ],
     "answer": "You need prior authorization because the Class E airspace extends to the surface.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 14",
-    "itemId": "gfd3cfd171df6ed4109e38731d9ed0f01",
     "image": "assessment_questions/Airspace06.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 14"
+    "imageAlt": "Airspace Sectional Chart 14",
+    "sourceTitle": "Airspace Sectional Chart 14",
+    "itemId": "gfd3cfd171df6ed4109e38731d9ed0f01"
   },
   {
     "bank": "Sectional Charts Intro",
@@ -286,10 +282,10 @@ const questionBank = [
     ],
     "answer": "Class B airspace",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace Sectional Chart 15",
-    "itemId": "g88d4fa265cb5e48a4438cdc2b5be8acb",
     "image": "assessment_questions/Airspace07.png",
-    "imageAlt": "Question image for Airspace Sectional Chart 15"
+    "imageAlt": "Airspace Sectional Chart 15",
+    "sourceTitle": "Airspace Sectional Chart 15",
+    "itemId": "g88d4fa265cb5e48a4438cdc2b5be8acb"
   },
   {
     "bank": "Runways",
@@ -302,7 +298,7 @@ const questionBank = [
     ],
     "answer": "runway oriented approximately 270 degrees, left parallel",
     "explanation": "Feedback: Runways are numbered based on magnetic heading; L indicates left parallel if multiple runways exist.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g8e74416981c9190189e9c894974f5122"
   },
   {
@@ -315,20 +311,20 @@ const questionBank = [
     ],
     "answer": "The magnetic heading of the runway rounded to the nearest 10 degrees",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g13551e1a4f3de383195613afada63c92"
   },
   {
     "bank": "Runways",
     "question": "A runway is labeled 09. What is its approximate heading?",
     "choices": [
-      "090° (east)",
+      "190° (south)",
       "009° (north-northeast)",
       "090° (east)"
     ],
     "answer": "090° (east)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gd5b67e00cf2dde6ae479e63474640a40"
   },
   {
@@ -341,7 +337,7 @@ const questionBank = [
     ],
     "answer": "09",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g88cc520a2c63ea2ff2e54f9235b0f4b5"
   },
   {
@@ -354,7 +350,7 @@ const questionBank = [
     ],
     "answer": "The relative position: left and right when approaching for landing",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gd13a31d86bd1ee18bff68b6174c7be58"
   },
   {
@@ -367,7 +363,7 @@ const questionBank = [
     ],
     "answer": "The runway is the center of three parallel runways",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g14bc9bdabc90d4d5091323514ae12a6a"
   },
   {
@@ -380,7 +376,7 @@ const questionBank = [
     ],
     "answer": "140° (southeast)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g13ddeb290a9d775d820484ca479c118c"
   },
   {
@@ -393,7 +389,7 @@ const questionBank = [
     ],
     "answer": "022° and 040°",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g29629e11c3a57d400dba564928996a24"
   },
   {
@@ -406,7 +402,7 @@ const questionBank = [
     ],
     "answer": "27L and 27R",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gbb9cf99e84f3ce8ebcb6f7df8536eb60"
   },
   {
@@ -419,7 +415,7 @@ const questionBank = [
     ],
     "answer": "050° (northeast)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g0c6410eba5c319dd00814ee08861d98d"
   },
   {
@@ -432,7 +428,7 @@ const questionBank = [
     ],
     "answer": "East",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g5f1b8bd351682a0e6d805db9cb24f75c"
   },
   {
@@ -445,7 +441,7 @@ const questionBank = [
     ],
     "answer": "West",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gdc69256e75c01a78b83952e84e36b52a"
   },
   {
@@ -458,7 +454,7 @@ const questionBank = [
     ],
     "answer": "30",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gca17b9ab101c2df360ce9b33f5df6fb7"
   },
   {
@@ -471,7 +467,7 @@ const questionBank = [
     ],
     "answer": "Immediately to the right of 18L",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g8bb66eeb36e10bf2140d502a7540a4fd"
   },
   {
@@ -484,7 +480,7 @@ const questionBank = [
     ],
     "answer": "18C",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gfa887a94b338b0fe6b34de7a0b283b2b"
   },
   {
@@ -497,7 +493,7 @@ const questionBank = [
     ],
     "answer": "09C",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g1253f488574456fd67c1ec503f2d695a"
   },
   {
@@ -510,7 +506,7 @@ const questionBank = [
     ],
     "answer": "050° and 230°",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gae61a5922f3167beddb6dc8de8097194"
   },
   {
@@ -523,7 +519,7 @@ const questionBank = [
     ],
     "answer": "Northwest",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g6a81a6e5ec9f80f9041e8991f8023f54"
   },
   {
@@ -536,7 +532,7 @@ const questionBank = [
     ],
     "answer": "27L",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g30ca1a95daa02ccfd17d93ddfea70675"
   },
   {
@@ -549,7 +545,7 @@ const questionBank = [
     ],
     "answer": "North",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gf78b4897ffb5bfe601031168e47e2d5f"
   },
   {
@@ -562,7 +558,7 @@ const questionBank = [
     ],
     "answer": "Right",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g252697c401df828576ae686c02d5af25"
   },
   {
@@ -575,7 +571,7 @@ const questionBank = [
     ],
     "answer": "04R",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g95bad5926e8a21170c188c91c22048ea"
   },
   {
@@ -588,7 +584,7 @@ const questionBank = [
     ],
     "answer": "West",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g8764e9a5d2235a950557a6fe599eed13"
   },
   {
@@ -600,7 +596,7 @@ const questionBank = [
     ],
     "answer": "27R and 27L swap designations: L becomes R, R becomes L",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g66a20a8dcf497699370fbeb5fc36d66c"
   },
   {
@@ -613,7 +609,7 @@ const questionBank = [
     ],
     "answer": "South",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g7e326351ea93b8767dbd354280577af2"
   },
   {
@@ -626,7 +622,7 @@ const questionBank = [
     ],
     "answer": "14R",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g74e57a12a9e0c3c095af127abeeaa789"
   },
   {
@@ -639,7 +635,7 @@ const questionBank = [
     ],
     "answer": "23R",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g16731dc13fdd641d596c90fa55426b6a"
   },
   {
@@ -652,7 +648,7 @@ const questionBank = [
     ],
     "answer": "East",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g12bd5cd1d5746d4767aa12d6fc3a4433"
   },
   {
@@ -667,20 +663,20 @@ const questionBank = [
     ],
     "answer": "You must give way to all of these because each is occupied by at least one human",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "See and Avoid 01",
+    "sourceTitle": "See and Avoid 01",
     "itemId": "ga4d31c116b3e67f99195056d879b296a"
   },
   {
     "bank": "Accidents",
     "question": "While flying your drone for a local business, your drone loses a rotor and goes out of control into a parked car. The paint is scratched and will cost $350 to repair. The drone is a total loss and will cost $400 dollars to replace. Are you required to file a report of the accident with the FAA?",
     "choices": [
-      "No. The repairs to the car are less than $500, so no report is required.",
-      "Yes. The total damage exceeded $500 so a report must be filed.",
+      "​​​No. The repairs to the car are less than $500, so no report is required.",
+      "​​​​​Yes. The total damage exceeded $500 so a report must be filed.",
       "No. The total damages do not matter, provided the individual bills are less than $500."
     ],
-    "answer": "No. The repairs to the car are less than $500, so no report is required.",
+    "answer": "​​​No. The repairs to the car are less than $500, so no report is required.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Accident 01",
+    "sourceTitle": "Accident 01",
     "itemId": "g9b290ff0345013ee7cd494d5fe10cd0d"
   },
   {
@@ -693,7 +689,7 @@ const questionBank = [
     ],
     "answer": "No, if the only damage is to your own drone/payload, and no one is injured, you do NOT have to report this to the FAA.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Accident 02",
+    "sourceTitle": "Accident 02",
     "itemId": "g3e266b831e18add799c4972fa58f5d4a"
   },
   {
@@ -706,7 +702,7 @@ const questionBank = [
     ],
     "answer": "Yes, the damage to property, excluding your own drone and payload, is in excess of the $500 FAA limit.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Accident 03",
+    "sourceTitle": "Accident 03",
     "itemId": "g7812fcc7bed74567702116a8d0507e74"
   },
   {
@@ -719,7 +715,7 @@ const questionBank = [
     ],
     "answer": "Yes, this qualifies as a significant injury per the FAA and will need to be reported.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Accident 04",
+    "sourceTitle": "Accident 04",
     "itemId": "gf8abc10dd1c23fa9a3f19ad2e63535d1"
   },
   {
@@ -731,7 +727,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Accident Deadline01",
+    "sourceTitle": "Accident Deadline01",
     "itemId": "g3905790b0219666a9e10c03923fd7ef8"
   },
   {
@@ -744,7 +740,7 @@ const questionBank = [
     ],
     "answer": "Anti-collision lights that are visible for at least 3 statute miles",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Flying 01",
+    "sourceTitle": "Night Flying 01",
     "itemId": "ga8cbc53f18bef27c1e0097f6ef2183cd"
   },
   {
@@ -757,7 +753,7 @@ const questionBank = [
     ],
     "answer": "Anti-Collision lights and initial or recurrent training in accordance with 107.65",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Flying 02",
+    "sourceTitle": "Night Flying 02",
     "itemId": "g09a470d049d60322170bbf4a45dde6f6"
   },
   {
@@ -770,7 +766,7 @@ const questionBank = [
     ],
     "answer": "Anti-Collision lights visible for at least 3 miles",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Flying 03",
+    "sourceTitle": "Night Flying 03",
     "itemId": "g0dd580a079f9f9ffdcf2c6952e91fa63"
   },
   {
@@ -782,7 +778,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Flying 04",
+    "sourceTitle": "Night Flying 04",
     "itemId": "g0109fbdd8a533937259d644eb13710a9"
   },
   {
@@ -794,7 +790,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Flying 05",
+    "sourceTitle": "Night Flying 05",
     "itemId": "g80c2579f95f7877c16fb3491927cff17"
   },
   {
@@ -806,7 +802,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Physiology 01",
+    "sourceTitle": "Night Physiology 01",
     "itemId": "g7e5b857c36b4809be64e057be446ff3e"
   },
   {
@@ -818,7 +814,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Physiology 02",
+    "sourceTitle": "Night Physiology 02",
     "itemId": "g224fea4581faeb433502ba682d8d8e71"
   },
   {
@@ -831,7 +827,7 @@ const questionBank = [
     ],
     "answer": "A negative effect",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Physiology 03",
+    "sourceTitle": "Night Physiology 03",
     "itemId": "gd59eba9007d2a9de62c52b30e87d93c4"
   },
   {
@@ -844,7 +840,7 @@ const questionBank = [
     ],
     "answer": "Looking 5° to 10° off-center of the sUAS",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Physiology 04",
+    "sourceTitle": "Night Physiology 04",
     "itemId": "gaed34182b6e99fb34c9340df27dd6c29"
   },
   {
@@ -856,7 +852,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Night Physiology 05",
+    "sourceTitle": "Night Physiology 05",
     "itemId": "g72333d8ddb7f6637646dd9f8ecc88ffd"
   },
   {
@@ -869,7 +865,7 @@ const questionBank = [
     ],
     "answer": "No. This equipment can not be turned on without a waiver from the FAA.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "ADSB 01",
+    "sourceTitle": "ADSB 01",
     "itemId": "g6ade6d1cdbe87b68aea9848bd33a9b16"
   },
   {
@@ -882,7 +878,7 @@ const questionBank = [
     ],
     "answer": "You are allowed to fly drones, even those without remote ID, within FAA Recognized Identification Areas (FRIAs)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "FRIA",
+    "sourceTitle": "FRIA",
     "itemId": "gf8465a63d1f8bf611cc88a23a5d7421e"
   },
   {
@@ -895,7 +891,7 @@ const questionBank = [
     ],
     "answer": "Remote Identification",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Remote ID 01",
+    "sourceTitle": "Remote ID 01",
     "itemId": "g1c8f9998772d83f7312e6133d8d57fbb"
   },
   {
@@ -907,7 +903,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Remote ID 03",
+    "sourceTitle": "Remote ID 03",
     "itemId": "gce4945cb0f3bd4ad747ad7473bbcb8a1"
   },
   {
@@ -920,7 +916,7 @@ const questionBank = [
     ],
     "answer": "Yes, as long as you assign the beacon to a specific drone before flying and tie the beacon's serial number to the drone's registration number.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Remote ID 04",
+    "sourceTitle": "Remote ID 04",
     "itemId": "gc7885dec7fadfe230d414752bf239e4b"
   },
   {
@@ -932,7 +928,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Daylight Operations 01",
+    "sourceTitle": "Daylight Operations 01",
     "itemId": "g67f4a1a97a69f14caa29f829920c1fd4"
   },
   {
@@ -945,7 +941,7 @@ const questionBank = [
     ],
     "answer": "RPIC",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gcc596ddb2d2ef5415eb302cf33ca9c61"
   },
   {
@@ -958,7 +954,7 @@ const questionBank = [
     ],
     "answer": "No",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "RPIC 01",
+    "sourceTitle": "RPIC 01",
     "itemId": "gc182cbea92405db1f3f7e6ca02a1da6b"
   },
   {
@@ -971,7 +967,7 @@ const questionBank = [
     ],
     "answer": "RPIC",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "RPIC 02",
+    "sourceTitle": "RPIC 02",
     "itemId": "g652984a1acdb609112cd892327617944"
   },
   {
@@ -984,7 +980,7 @@ const questionBank = [
     ],
     "answer": "RPIC",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "RPIC 03",
+    "sourceTitle": "RPIC 03",
     "itemId": "g877a2fe142bd2d0649735ee60cc932ac"
   },
   {
@@ -997,7 +993,7 @@ const questionBank = [
     ],
     "answer": "Remote pilot-in-command.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "RPIC 04",
+    "sourceTitle": "RPIC 04",
     "itemId": "g0033c06227f84280abf97e8e4dcb996f"
   },
   {
@@ -1009,7 +1005,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Supervision 01",
+    "sourceTitle": "Supervision 01",
     "itemId": "g9dcc29804d5cb36c561b37b62e2c5d8c"
   },
   {
@@ -1022,7 +1018,7 @@ const questionBank = [
     ],
     "answer": "does not provide services in Class G airspace",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "ATC 02",
+    "sourceTitle": "ATC 02",
     "itemId": "g0af9974564355aee08d50845b57c4cd3"
   },
   {
@@ -1035,7 +1031,7 @@ const questionBank = [
     ],
     "answer": "Class G up to 1200 ft AGL, Class E from 1200 ft AGL, but not including 18,000 ft MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace 06",
+    "sourceTitle": "Airspace 06",
     "itemId": "g683e28c6ba39b9992e4f3b9f907efbc7"
   },
   {
@@ -1048,7 +1044,7 @@ const questionBank = [
     ],
     "answer": "uncontrolled airspace",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class G 01",
+    "sourceTitle": "Class G 01",
     "itemId": "g97340dfc10879f0764d3e21283a4bc0d"
   },
   {
@@ -1061,7 +1057,7 @@ const questionBank = [
     ],
     "answer": "0.55 lbs",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Drone Weight 01",
+    "sourceTitle": "Drone Weight 01",
     "itemId": "g21ff5896c68ab3d3d8b49d707dfb0d65"
   },
   {
@@ -1074,7 +1070,7 @@ const questionBank = [
     ],
     "answer": "When flown recreationally, when the aircraft weighs less than 0.55 pounds on takeoff, including everything that is onboard or attached to the aircraft",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Drone Weight 02",
+    "sourceTitle": "Drone Weight 02",
     "itemId": "g94d53f26509da13e8e479a1177fdc230"
   },
   {
@@ -1087,7 +1083,7 @@ const questionBank = [
     ],
     "answer": "Greater than 0.55 lbs",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Drone Weight 03",
+    "sourceTitle": "Drone Weight 03",
     "itemId": "g92275a2e7ad9d68b8d28b64630b9505b"
   },
   {
@@ -1100,7 +1096,7 @@ const questionBank = [
     ],
     "answer": "Without the camera, no registration is required, but with the camera it needs to be registered because it is more than 0.55 lbs.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Drone Weight 04",
+    "sourceTitle": "Drone Weight 04",
     "itemId": "ge4390530daa1fdfef26e07be4fd024b2"
   },
   {
@@ -1112,7 +1108,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Foreign Registration",
+    "sourceTitle": "Foreign Registration",
     "itemId": "gbb023ddced423c277fabd6b9dc14d5ee"
   },
   {
@@ -1125,7 +1121,7 @@ const questionBank = [
     ],
     "answer": "Fixed on the UAV in plain sight",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Registration Number 01",
+    "sourceTitle": "Registration Number 01",
     "itemId": "g4aba4fbf0f7801534138157b5e5ac1e3"
   },
   {
@@ -1137,7 +1133,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "AGL vs MSL 01",
+    "sourceTitle": "AGL vs MSL 01",
     "itemId": "gfa5b36a5b4ece692790615d07f2991ad"
   },
   {
@@ -1150,10 +1146,10 @@ const questionBank = [
     ],
     "answer": "2",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "AGL vs MSL 02",
-    "itemId": "g56adf1b97e8b690c98480f9f79094fe9",
     "image": "assessment_questions/How-to-Read-a-Sectional-Chart.jpg",
-    "imageAlt": "Question image for AGL vs MSL 02"
+    "imageAlt": "AGL vs MSL 02",
+    "sourceTitle": "AGL vs MSL 02",
+    "itemId": "g56adf1b97e8b690c98480f9f79094fe9"
   },
   {
     "bank": "Multiple UAV Operations",
@@ -1164,7 +1160,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Multiple UAVs 01",
+    "sourceTitle": "Multiple UAVs 01",
     "itemId": "g1e878175df1531a2190355f7c10133a1"
   },
   {
@@ -1177,7 +1173,7 @@ const questionBank = [
     ],
     "answer": "Flying your UAV when the battery level is at 50%",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Hazardous Flights 01",
+    "sourceTitle": "Hazardous Flights 01",
     "itemId": "gdb335d3bc5d9dd7c87a0f1dc773d2366"
   },
   {
@@ -1189,7 +1185,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace 01",
+    "sourceTitle": "Airspace 01",
     "itemId": "g1ca6e84bde810d76edf89ee876967b8d"
   },
   {
@@ -1201,7 +1197,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace 02",
+    "sourceTitle": "Airspace 02",
     "itemId": "ge54a6e4afb483247ff01251dd23e1f36"
   },
   {
@@ -1214,7 +1210,7 @@ const questionBank = [
     ],
     "answer": "Temporary Flight Restrictions (TFRs)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace 03",
+    "sourceTitle": "Airspace 03",
     "itemId": "ge89f804b502489c80aab72f0437db75c"
   },
   {
@@ -1227,7 +1223,7 @@ const questionBank = [
     ],
     "answer": "Notice to Airman (NOTAMs)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace 04",
+    "sourceTitle": "Airspace 04",
     "itemId": "g8e5819d5f335f8f2c5b9a95bf264db94"
   },
   {
@@ -1240,7 +1236,7 @@ const questionBank = [
     ],
     "answer": "G",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airspace 05",
+    "sourceTitle": "Airspace 05",
     "itemId": "g8df530c005b16d391d450ec6beb7f8e7"
   },
   {
@@ -1253,7 +1249,7 @@ const questionBank = [
     ],
     "answer": "visiting the FAA's NOTAM website",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "NOTAM 01",
+    "sourceTitle": "NOTAM 01",
     "itemId": "g74e05074abb4f667882ab3b716d20b41"
   },
   {
@@ -1266,7 +1262,7 @@ const questionBank = [
     ],
     "answer": "A responsible pilot checks for each of these before starting a mission.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Pre-Flight Requirements 01",
+    "sourceTitle": "Pre-Flight Requirements 01",
     "itemId": "g8c8b82ec27540836f710ff80f6f6d13e"
   },
   {
@@ -1279,7 +1275,7 @@ const questionBank = [
     ],
     "answer": "TFR's are typically issued for lmajor events such as sporting events and presidential movements",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "TFRs 01",
+    "sourceTitle": "TFRs 01",
     "itemId": "g2b49847c57d55f955d01a56fc9cc3150"
   },
   {
@@ -1292,10 +1288,10 @@ const questionBank = [
     ],
     "answer": "You need to adjust your compass 5 degrees to account for the local difference between true and magnetic north",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Magnetic Variation 01",
-    "itemId": "g59d0109933650845f94b3370704652c8",
     "image": "assessment_questions/Magneti01.png",
-    "imageAlt": "Question image for Magnetic Variation 01"
+    "imageAlt": "Magnetic Variation 01",
+    "sourceTitle": "Magnetic Variation 01",
+    "itemId": "g59d0109933650845f94b3370704652c8"
   },
   {
     "bank": "Magnetic Variation",
@@ -1307,10 +1303,10 @@ const questionBank = [
     ],
     "answer": "You need to adjust your compass 4 degrees to account for the local difference between true and magnetic north",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Magnetic Variation 02",
-    "itemId": "g6f8bf99f084af7f24fc1e0302b91df97",
     "image": "assessment_questions/Magnetic02.png",
-    "imageAlt": "Question image for Magnetic Variation 02"
+    "imageAlt": "Magnetic Variation 02",
+    "sourceTitle": "Magnetic Variation 02",
+    "itemId": "g6f8bf99f084af7f24fc1e0302b91df97"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -1322,7 +1318,7 @@ const questionBank = [
     ],
     "answer": "350 degrees",
     "explanation": "The aircraft is left on the downwind side parallel to the runway heading towards 350 Degrees.",
-    "questionTitle": "Air Traffic Pattern 01",
+    "sourceTitle": "Air Traffic Pattern 01",
     "itemId": "g536315f1a061258f9d15d155db8138d8"
   },
   {
@@ -1335,7 +1331,7 @@ const questionBank = [
     ],
     "answer": "The aircraft is Northeast",
     "explanation": "The aircraft is East because they are midfield left downwind of Runway 13 (130 Degrees). The runway is facing to the southeast (a heading of 130 degrees). If the aircraft is in a left traffic pattern, that means that they would be making a series of left turns. The downwind leg of a left traffic pattern for runway 13 would be to the east of the airport.",
-    "questionTitle": "Air Traffic Pattern 02",
+    "sourceTitle": "Air Traffic Pattern 02",
     "itemId": "g3eedcadc37c0ae1f04239618e0f2c58f"
   },
   {
@@ -1348,7 +1344,7 @@ const questionBank = [
     ],
     "answer": "Enter 45 Degrees at the midpoint of the downwind leg of the airport traffic pattern",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Air Traffic Pattern 03",
+    "sourceTitle": "Air Traffic Pattern 03",
     "itemId": "gd3ea149411f59302d86f467d7b9b791c"
   },
   {
@@ -1361,7 +1357,7 @@ const questionBank = [
     ],
     "answer": "Follow the established FAA traffic pattern at the airport",
     "explanation": "Always follow the FAA traffic patterns established at the airport. (WARNING: drones should never operate over an airport or enter a manned aircraft traffic pattern).",
-    "questionTitle": "Air Traffic Pattern 04",
+    "sourceTitle": "Air Traffic Pattern 04",
     "itemId": "ge2b8efffb02469ed5f62f2a8897373f6"
   },
   {
@@ -1374,10 +1370,10 @@ const questionBank = [
     ],
     "answer": "Crosswind",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Air Traffic Pattern 05",
-    "itemId": "gff6e676e59b71130eb87157dc1d8b8ff",
     "image": "assessment_questions/AirTrafficPatternsForQuiz.png",
-    "imageAlt": "Question image for Air Traffic Pattern 05"
+    "imageAlt": "Air Traffic Pattern 05",
+    "sourceTitle": "Air Traffic Pattern 05",
+    "itemId": "gff6e676e59b71130eb87157dc1d8b8ff"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -1389,10 +1385,10 @@ const questionBank = [
     ],
     "answer": "Downwind",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Air Traffic Pattern 06",
-    "itemId": "g882028074c9cca163ac789d140456b57",
     "image": "assessment_questions/AirTrafficPatternsForQuiz.png",
-    "imageAlt": "Question image for Air Traffic Pattern 06"
+    "imageAlt": "Air Traffic Pattern 06",
+    "sourceTitle": "Air Traffic Pattern 06",
+    "itemId": "g882028074c9cca163ac789d140456b57"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -1404,10 +1400,10 @@ const questionBank = [
     ],
     "answer": "Base",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Air Traffic Pattern 07",
-    "itemId": "g10ce5116be5b36bc1565ab33308849ab",
     "image": "assessment_questions/AirTrafficPatternsForQuiz.png",
-    "imageAlt": "Question image for Air Traffic Pattern 07"
+    "imageAlt": "Air Traffic Pattern 07",
+    "sourceTitle": "Air Traffic Pattern 07",
+    "itemId": "g10ce5116be5b36bc1565ab33308849ab"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -1419,10 +1415,10 @@ const questionBank = [
     ],
     "answer": "A",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Runway Numbers 01",
-    "itemId": "gd2f145887e5027a5172df4759480442f",
     "image": "assessment_questions/RunwayNumberForQuiz.png",
-    "imageAlt": "Question image for Runway Numbers 01"
+    "imageAlt": "Runway Numbers 01",
+    "sourceTitle": "Runway Numbers 01",
+    "itemId": "gd2f145887e5027a5172df4759480442f"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -1434,10 +1430,10 @@ const questionBank = [
     ],
     "answer": "B",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Runway Numbers 02",
-    "itemId": "g3fe0d3797d12db93bc3cb3f1c3f921a5",
     "image": "assessment_questions/RunwayNumberForQuiz.png",
-    "imageAlt": "Question image for Runway Numbers 02"
+    "imageAlt": "Runway Numbers 02",
+    "sourceTitle": "Runway Numbers 02",
+    "itemId": "g3fe0d3797d12db93bc3cb3f1c3f921a5"
   },
   {
     "bank": "Air Traffic Patterns",
@@ -1449,10 +1445,10 @@ const questionBank = [
     ],
     "answer": "C",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Runway Numbers 03",
-    "itemId": "g40aefbd46f2b3e8a582376e762203c2c",
     "image": "assessment_questions/RunwayNumberForQuiz.png",
-    "imageAlt": "Question image for Runway Numbers 03"
+    "imageAlt": "Runway Numbers 03",
+    "sourceTitle": "Runway Numbers 03",
+    "itemId": "g40aefbd46f2b3e8a582376e762203c2c"
   },
   {
     "bank": "OOP - Categories",
@@ -1464,7 +1460,7 @@ const questionBank = [
     ],
     "answer": "Category 4",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airworthiness 01",
+    "sourceTitle": "Airworthiness 01",
     "itemId": "g74575ddaf057de20eaf82f21b7444845"
   },
   {
@@ -1477,7 +1473,7 @@ const questionBank = [
     ],
     "answer": "Category 2 and 3 drones must be labeled",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Category Labels01",
+    "sourceTitle": "Category Labels01",
     "itemId": "gd9c01e8355b58a9cab4fb6bff002407c"
   },
   {
@@ -1490,7 +1486,7 @@ const questionBank = [
     ],
     "answer": "Category 3",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Closed or Restricted Access 01",
+    "sourceTitle": "Closed or Restricted Access 01",
     "itemId": "g09dfcd3fd1bf78608a4443521387bc4f"
   },
   {
@@ -1503,7 +1499,7 @@ const questionBank = [
     ],
     "answer": "Category 4",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Exposed Rotating Parts",
+    "sourceTitle": "Exposed Rotating Parts",
     "itemId": "g3dec1940612d6c57596f58c1df5a1a51"
   },
   {
@@ -1515,7 +1511,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Kinetic Energy 01",
+    "sourceTitle": "Kinetic Energy 01",
     "itemId": "g36d12a35f099d58fedfc9eb641d999a1"
   },
   {
@@ -1527,7 +1523,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Kinetic Energy 02",
+    "sourceTitle": "Kinetic Energy 02",
     "itemId": "g0457d332dadf241c38c3a295bb09686c"
   },
   {
@@ -1540,7 +1536,7 @@ const questionBank = [
     ],
     "answer": "Category 3",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Open Air Assemblies 01",
+    "sourceTitle": "Open Air Assemblies 01",
     "itemId": "g27da784dbbc1e8587fca0725b6976b54"
   },
   {
@@ -1552,7 +1548,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Remote ID 05",
+    "sourceTitle": "Remote ID 05",
     "itemId": "gf4e9f5f7e82db44adad20da466a851f3"
   },
   {
@@ -1565,7 +1561,7 @@ const questionBank = [
     ],
     "answer": "0.55 pounds",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Weight Limit",
+    "sourceTitle": "Weight Limit",
     "itemId": "g4e98567bd8e752fbe0d71ba9a0792963"
   },
   {
@@ -1578,7 +1574,7 @@ const questionBank = [
     ],
     "answer": "Category 1",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "declaration of compliance 01",
+    "sourceTitle": "declaration of compliance 01",
     "itemId": "g9325e6a36bde4ce0078694441ddd633c"
   },
   {
@@ -1591,10 +1587,10 @@ const questionBank = [
     ],
     "answer": "Victor Airways used by manned aircraft starting at 1,200 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Victor Airways 01",
-    "itemId": "g092aecb4cd59349b4485a320aa11efb0",
     "image": "assessment_questions/VictorAirways01.png",
-    "imageAlt": "Question image for Victor Airways 01"
+    "imageAlt": "Victor Airways 01",
+    "sourceTitle": "Victor Airways 01",
+    "itemId": "g092aecb4cd59349b4485a320aa11efb0"
   },
   {
     "bank": "Victor Airways",
@@ -1606,10 +1602,10 @@ const questionBank = [
     ],
     "answer": "Victor Airways used by manned aircraft starting at 1,200 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Victor Airways 02",
-    "itemId": "gd800c0d08467891f825f2efb6b31f818",
     "image": "assessment_questions/VictorAirways02.png",
-    "imageAlt": "Question image for Victor Airways 02"
+    "imageAlt": "Victor Airways 02",
+    "sourceTitle": "Victor Airways 02",
+    "itemId": "gd800c0d08467891f825f2efb6b31f818"
   },
   {
     "bank": "Victor Airways",
@@ -1621,10 +1617,10 @@ const questionBank = [
     ],
     "answer": "Victor Airways used by manned aircraft starting at 1,200 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Victor Airways 03",
-    "itemId": "g6a6a4fdcc12ebf3754b9c87f280840ea",
     "image": "assessment_questions/VictorAirways03.png",
-    "imageAlt": "Question image for Victor Airways 03"
+    "imageAlt": "Victor Airways 03",
+    "sourceTitle": "Victor Airways 03",
+    "itemId": "g6a6a4fdcc12ebf3754b9c87f280840ea"
   },
   {
     "bank": "OOP - General",
@@ -1635,7 +1631,7 @@ const questionBank = [
     ],
     "answer": "False - This would be considered \"Brief Transit\" flight and are not subject to the Category 1, 2, 3, or 4 rules.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Flights Over People Categores 01",
+    "sourceTitle": "Flights Over People Categores 01",
     "itemId": "ga21161eaa2b94764133deaa5575579e4"
   },
   {
@@ -1649,7 +1645,7 @@ const questionBank = [
     ],
     "answer": "Operations over people are allowed if any of these conditions are met",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Operations Over People 01",
+    "sourceTitle": "Operations Over People 01",
     "itemId": "g9edb7c800fbdce914001a6c16db85036"
   },
   {
@@ -1662,7 +1658,7 @@ const questionBank = [
     ],
     "answer": "Hovering over a parade",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Sustained Flight 01",
+    "sourceTitle": "Sustained Flight 01",
     "itemId": "g09ceb54e0074c3a26a5051ea977cd88e"
   },
   {
@@ -1675,7 +1671,7 @@ const questionBank = [
     ],
     "answer": "It has an operating control tower where ATC provides instructions",
     "explanation": "Feedback: Towered airports have an operating control tower. ATC manages traffic and provides instructions to pilots to ensure safe and efficient operations.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gd56dc77ec0481948fe5c0e92521b9f0b"
   },
   {
@@ -1688,7 +1684,7 @@ const questionBank = [
     ],
     "answer": "Maintain two-way radio communication and comply with ATC instructions",
     "explanation": "Feedback: Pilots at towered airports are required to communicate with ATC and follow instructions to ensure safe, orderly traffic flow.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g8a923aaafb42f83660db09b25177cf79"
   },
   {
@@ -1701,7 +1697,7 @@ const questionBank = [
     ],
     "answer": "Classes B, C, and D",
     "explanation": "Feedback: Towered airports are generally found in Class B, C, and D airspace where traffic volume or complexity requires ATC oversight.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g8cd7541638f5568101eb27c263e43203"
   },
   {
@@ -1714,7 +1710,7 @@ const questionBank = [
     ],
     "answer": "It is treated as a non-towered airport",
     "explanation": "Feedback: When a part-time tower (often Class D) is closed, the airport operates as a non-towered airport, and standard non-towered procedures should be followed.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g6d32057984786b47b529e2a4f35aae4f"
   },
   {
@@ -1727,7 +1723,7 @@ const questionBank = [
     ],
     "answer": "Not required, but good practice",
     "explanation": "Feedback: Two-way radio communication is not mandatory at non-towered airports, but pilots are encouraged to announce their intentions for safety.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g790bcf7e365d66cb55cccb2d2a885988"
   },
   {
@@ -1740,7 +1736,7 @@ const questionBank = [
     ],
     "answer": "Pilots should transmit intentions on the designated frequency",
     "explanation": "Feedback: Non-towered airport procedures rely on pilots announcing their positions and intentions to maintain situational awareness.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g9bc110f58d1a76b2068d41d28694ff7f"
   },
   {
@@ -1753,7 +1749,7 @@ const questionBank = [
     ],
     "answer": "A small airport used only by helicopters",
     "explanation": "Feedback: Heliports are specifically designed for helicopter operations and may include helipads, lighting, fuel, and hangars.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g24c76200af57d4b1daf493d8d15d581b"
   },
   {
@@ -1766,7 +1762,7 @@ const questionBank = [
     ],
     "answer": "Helipads, lighting, and occasionally hangars or fuel",
     "explanation": "Feedback: Heliports are typically small and may have one or more helipads, lighting, fueling, and limited hangars, but not full airport infrastructure.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g20a842c3c1453c7eb956a64031cfe4fd"
   },
   {
@@ -1779,7 +1775,7 @@ const questionBank = [
     ],
     "answer": "A facility with areas for parking and servicing seaplanes or amphibious aircraft",
     "explanation": "Feedback: Seaplane bases provide designated areas for seaplanes and amphibious aircraft, often on bodies of water, along with services for these aircraft.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g405ce44dd81c9696726e53e45f8ffacf"
   },
   {
@@ -1792,7 +1788,7 @@ const questionBank = [
     ],
     "answer": "To determine if increased air traffic exists on the water",
     "explanation": "Feedback: Seaplane bases indicate areas of increased aircraft activity on water, which is important for safety when operating a small unmanned aircraft nearby.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g3f6adfe4a4be09f723d643dfd755c77a"
   },
   {
@@ -1805,7 +1801,7 @@ const questionBank = [
     ],
     "answer": "Only towered airports have ATC actively controlling traffic",
     "explanation": "Feedback: ATC actively manages traffic at towered airports, while non-towered airports rely on pilot self-announcing procedures.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g37671a32a875379e374eb12eccc2ce40"
   },
   {
@@ -1818,7 +1814,7 @@ const questionBank = [
     ],
     "answer": "Heliports",
     "explanation": "Feedback: Heliports lack standardized flow procedures; pilots use common sense and local guidance to coordinate operations.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g9e40a253c51d87d5d421ee5dafd6e39a"
   },
   {
@@ -1831,7 +1827,7 @@ const questionBank = [
     ],
     "answer": "Consult charts to determine the location and activity of the base",
     "explanation": "Feedback: Checking sectional charts and supplements helps ensure safety near seaplane bases with potentially higher traffic.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g7096cd1990ca647bbe81ab421aaefc62"
   },
   {
@@ -1844,7 +1840,7 @@ const questionBank = [
     ],
     "answer": "There is no operating control tower",
     "explanation": "Feedback: Non-towered airports operate without an ATC tower; pilots self-announce to coordinate movements.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g135f202231871fae30135a75b5f45d78"
   },
   {
@@ -1857,7 +1853,7 @@ const questionBank = [
     ],
     "answer": "ATC provides services only when the tower is open",
     "explanation": "Feedback: Part-time towered airports have ATC coverage only during operational hours; outside those hours, pilots follow non-towered procedures.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g25bd84bb4a30b88addec33cef3b9df34"
   },
   {
@@ -1870,7 +1866,7 @@ const questionBank = [
     ],
     "answer": "ATC provides safe, orderly, and expeditious flow of air traffic",
     "explanation": "Feedback: ATC ensures safe, efficient traffic flow at towered airports, and pilots must comply with instructions.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g5aa4198aa24cd6045a6009382b641501"
   },
   {
@@ -1883,7 +1879,7 @@ const questionBank = [
     ],
     "answer": "Seaplane bases support amphibious or seaplane operations on water",
     "explanation": "Feedback: Seaplane bases provide facilities and parking areas for seaplanes; heliports are specifically for helicopters.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g65553d0ac2fa3bb79c7f4607cc9b6287"
   },
   {
@@ -1896,7 +1892,7 @@ const questionBank = [
     ],
     "answer": "Use the common traffic advisory frequency to announce position and intentions",
     "explanation": "Feedback: At non-towered airports, self-announcing on the CTAF is recommended to maintain situational awareness and avoid conflicts.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g4637c0262fa9d93e34ecab1a8ff6a8d7"
   },
   {
@@ -1909,7 +1905,7 @@ const questionBank = [
     ],
     "answer": "Towered airports",
     "explanation": "Feedback: At towered airports, pilots must receive and acknowledge ATC clearance before taking the runway for landing or takeoff.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g80a721118005428d63dc164a255cd452"
   },
   {
@@ -1922,7 +1918,7 @@ const questionBank = [
     ],
     "answer": "Helipads, lighting, and fuel services",
     "explanation": "Feedback: Heliports are smaller and simpler than traditional airports, usually including pads, lighting, and fuel but not full runway infrastructure.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gb415ef2add7b909590ad78dad3fc7955"
   },
   {
@@ -1935,7 +1931,7 @@ const questionBank = [
     ],
     "answer": "The airport operates as non-towered",
     "explanation": "Feedback: Once a part-time tower is closed, standard non-towered procedures apply until the tower reopens.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "ge39c5f47b207deeb9042c0348e1f7e01"
   },
   {
@@ -1948,7 +1944,7 @@ const questionBank = [
     ],
     "answer": "Seaplane base",
     "explanation": "Feedback: Seaplane bases indicate active water operations, so extra caution is needed to avoid conflicts when flying UAS nearby.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g21f942ddca8fb63a0ccdc146d3ef1d6e"
   },
   {
@@ -1961,7 +1957,7 @@ const questionBank = [
     ],
     "answer": "Follow non-towered airport procedures and self-announce on the CTAF",
     "explanation": "Feedback: When a part-time towered airport is closed, it operates like a non-towered airport. Pilots should self-announce on the CTAF and follow standard non-towered procedures.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g7fc248614a8ad2a76646d77978a02e05"
   },
   {
@@ -1974,7 +1970,7 @@ const questionBank = [
     ],
     "answer": "Check the chart and supplements, and maintain extra vigilance for increased traffic",
     "explanation": "Feedback: Seaplane bases indicate areas of active seaplane operations. The Remote PIC should consult charts and maintain awareness to avoid conflicts.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gdce8cfffa93e9551d6e1f4d4fbed8da9"
   },
   {
@@ -1987,7 +1983,7 @@ const questionBank = [
     ],
     "answer": "Maintain a safe distance and avoid interfering with helicopter operations",
     "explanation": "Feedback: Heliports often have active helicopter traffic. UAS pilots must maintain separation to avoid interfering with operations.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g4b1ffead3b61a2e35c075cfc3d8ae833"
   },
   {
@@ -2000,7 +1996,7 @@ const questionBank = [
     ],
     "answer": "Two-way radio communication with ATC and clearance",
     "explanation": "Feedback: Class C airspace requires establishing two-way communication and following ATC instructions before entry.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g78f5edf64629954be383a3171ff26bcb"
   },
   {
@@ -2013,7 +2009,7 @@ const questionBank = [
     ],
     "answer": "Potentially increased air traffic due to seaplane operations",
     "explanation": "Feedback: Seaplane bases often have increased aircraft activity. Remote PICs should be cautious and maintain situational awareness.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g2e18d37a3f0db36f559b3591fe3d1298"
   },
   {
@@ -2026,7 +2022,7 @@ const questionBank = [
     ],
     "answer": "Follow non-towered procedures once the tower is closed",
     "explanation": "Feedback: After the tower closes, the airport is treated as non-towered. Pilots should self-announce and follow standard procedures.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g541fca3b4c2d2d436b68514d50092a42"
   },
   {
@@ -2039,7 +2035,7 @@ const questionBank = [
     ],
     "answer": "Heliports have less standardized traffic flow than traditional airports",
     "explanation": "Feedback: Unlike towered airports, heliports often lack standardized procedures; pilots must coordinate visually and with common sense.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g55fbc94b5e8ceddaeec4b3128bc37fba"
   },
   {
@@ -2052,7 +2048,7 @@ const questionBank = [
     ],
     "answer": "Towered airport with Class B airspace",
     "explanation": "Feedback: Solid blue lines on sectional charts indicate towered airports with controlled airspace (Class B).",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g37149cf034942f360c2c7f1e4dd9f6ca"
   },
   {
@@ -2065,7 +2061,7 @@ const questionBank = [
     ],
     "answer": "Hold position and ensure you don’t interfere with manned traffic",
     "explanation": "Feedback: At non-towered airports, maintaining safe separation and avoiding manned aircraft is critical; self-announcing helps coordination.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g1a84c134a30bd4a2443626847a15a422"
   },
   {
@@ -2078,7 +2074,7 @@ const questionBank = [
     ],
     "answer": "Maintain visual line-of-sight at a safe lateral distance from helicopter operations",
     "explanation": "Feedback: Maintain safe separation and line-of-sight to avoid interfering with helicopter operations.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "ga80c3cd0063f4c56c20bc841551e0bae"
   },
   {
@@ -2091,7 +2087,7 @@ const questionBank = [
     ],
     "answer": "Exercise extra caution and avoid flight paths over the base",
     "explanation": "Feedback: Pilots should account for increased manned traffic during active hours at seaplane bases and maintain situational awareness.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g39f3b0dbcd63bf25a15dc1cdcb92e932"
   },
   {
@@ -2104,7 +2100,7 @@ const questionBank = [
     ],
     "answer": "Towered airport",
     "explanation": "Feedback: Towered airports require pilots to communicate and receive clearance from ATC before using the runway.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g51e6fd751b7955eadbb88798ca8c71ad"
   },
   {
@@ -2117,7 +2113,7 @@ const questionBank = [
     ],
     "answer": "Part-time towered airport",
     "explanation": "Feedback: Dashed blue lines on sectional charts indicate Class D airports with towers that operate part-time.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gb1e9fb250c36633bd924ee80208cd00a"
   },
   {
@@ -2130,7 +2126,7 @@ const questionBank = [
     ],
     "answer": "CTAF (Common Traffic Advisory Frequency)",
     "explanation": "Feedback: Pilots announce position and intentions on the CTAF to coordinate safely at non-towered airports.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gd0e8bdac0e1117a874bfdcf7d2f1694d"
   },
   {
@@ -2143,7 +2139,7 @@ const questionBank = [
     ],
     "answer": "Expect manned seaplane traffic only during daylight hours",
     "explanation": "Feedback: Flight planning should account for hours of seaplane activity to avoid conflicts.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gfea22301403f0b6e79bb72091e1a6b5d"
   },
   {
@@ -2156,7 +2152,7 @@ const questionBank = [
     ],
     "answer": "Establish two-way radio communication with the tower",
     "explanation": "Feedback: When the tower is open, two-way communication with ATC is required, even in part-time Class D airspace.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g75bed1c49fdf7ad476fde88593359663"
   },
   {
@@ -2169,7 +2165,7 @@ const questionBank = [
     ],
     "answer": "Helicopter operations only",
     "explanation": "Feedback: Heliports are designed exclusively for helicopters and may include helipads, lighting, and fueling.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g49bc3765597dd29c76de9a0e2080f128"
   },
   {
@@ -2182,7 +2178,7 @@ const questionBank = [
     ],
     "answer": "Stay clear of the approach and departure paths of seaplanes",
     "explanation": "Feedback: Maintaining separation from seaplane approach and departure paths avoids potential conflicts.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g892f1fed506907200ade307cc1dcb594"
   },
   {
@@ -2195,7 +2191,7 @@ const questionBank = [
     ],
     "answer": "Adjust altitude or location to maintain safe separation",
     "explanation": "Feedback: Self-coordination via CTAF and adjusting position or altitude ensures safety at non-towered airports.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g4f2ec061abfa78dd114f4089ca170bbc"
   },
   {
@@ -2208,7 +2204,7 @@ const questionBank = [
     ],
     "answer": "Compliance with ATC instructions while the tower is open",
     "explanation": "Feedback: Legal operation near an active towered airport requires following ATC instructions for safety and compliance.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g0996b3056e982dc885750349a093f313"
   },
   {
@@ -2221,10 +2217,10 @@ const questionBank = [
     ],
     "answer": "The airport is a visual flight rules checkpoint so the UAV pilot should expect a higher concentration of manned flights in the area",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Checkpoints 01",
-    "itemId": "gff8e3d05ccd2f80e81e675373d688024",
     "image": "assessment_questions/VFR01.png",
-    "imageAlt": "Question image for Checkpoints 01"
+    "imageAlt": "Checkpoints 01",
+    "sourceTitle": "Checkpoints 01",
+    "itemId": "gff8e3d05ccd2f80e81e675373d688024"
   },
   {
     "bank": "VFR Checkpoints",
@@ -2236,10 +2232,10 @@ const questionBank = [
     ],
     "answer": "The town is a visual flight rules checkpoint so the UAV pilot should expect a higher concentration of manned flights in the area",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Checkpoints 02",
-    "itemId": "g3ce765d331fd1332f33657c7ebb29ec9",
     "image": "assessment_questions/VFR02.png",
-    "imageAlt": "Question image for Checkpoints 02"
+    "imageAlt": "Checkpoints 02",
+    "sourceTitle": "Checkpoints 02",
+    "itemId": "g3ce765d331fd1332f33657c7ebb29ec9"
   },
   {
     "bank": "VFR Checkpoints",
@@ -2251,10 +2247,10 @@ const questionBank = [
     ],
     "answer": "The lighthouse is a visual flight rules checkpoint so the UAV pilot should expect a higher concentration of manned flights in the area",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Checkpoints 03",
-    "itemId": "g3765e9c2357ab88df0a6edef883badb3",
     "image": "assessment_questions/VFR03.png",
-    "imageAlt": "Question image for Checkpoints 03"
+    "imageAlt": "Checkpoints 03",
+    "sourceTitle": "Checkpoints 03",
+    "itemId": "g3765e9c2357ab88df0a6edef883badb3"
   },
   {
     "bank": "Speed Limit Operations",
@@ -2266,7 +2262,7 @@ const questionBank = [
     ],
     "answer": "100 mph",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Speed Limit",
+    "sourceTitle": "Speed Limit",
     "itemId": "ge592ff192ecc644e752b1e3697627d2c"
   },
   {
@@ -2279,10 +2275,10 @@ const questionBank = [
     ],
     "answer": "No, even flying at the maximum elevation of 625 feet AGL, you are still in Class G airspace.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Obstruction 01",
-    "itemId": "g6c615f12bc58830b40ed0f5d1defceb7",
     "image": "assessment_questions/Tower01.png",
-    "imageAlt": "Question image for Obstruction 01"
+    "imageAlt": "Obstruction 01",
+    "sourceTitle": "Obstruction 01",
+    "itemId": "g6c615f12bc58830b40ed0f5d1defceb7"
   },
   {
     "bank": "Obstructions",
@@ -2294,14 +2290,14 @@ const questionBank = [
     ],
     "answer": "You are in Class C airspace beginning at 1,300 feet MSL and will need prior authorization",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Obstruction 02",
-    "itemId": "g875f3247295671c140320df492c1fb60",
     "image": "assessment_questions/Tower02.png",
-    "imageAlt": "Question image for Obstruction 02"
+    "imageAlt": "Obstruction 02",
+    "sourceTitle": "Obstruction 02",
+    "itemId": "g875f3247295671c140320df492c1fb60"
   },
   {
     "bank": "Obstructions",
-    "question": "See Figure 26, Area 4 You have been hired to inspect the tower 6 nautical miles north of Jamestown Regional Airport (JMS) airport. If you fly at the maximum allowable altitude, (1) which airspace are you in and (2) do you need prior authorization?",
+    "question": "See Figure 26, Area 4 You have been hired to inspect the tower 6 nautical miles north of Jamestown Regional Airport (JMS). If you fly at the maximum allowable altitude, (1) which airspace are you in and (2) do you need prior authorization?",
     "choices": [
       "You will be flying at a maximum altitude of 720 feet AGL putting you in Class E airspace so you will need prior authorization.",
       "You will be flying in Class E airspace that begins at the surface so you will need prior authorization",
@@ -2309,10 +2305,10 @@ const questionBank = [
     ],
     "answer": "You will be flying at a maximum altitude of 720 feet AGL putting you in Class E airspace so you will need prior authorization.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Obstruction 03",
-    "itemId": "ga19a9bcd74d72a82adc208f60b335eda",
     "image": "assessment_questions/Tower03.png",
-    "imageAlt": "Question image for Obstruction 03"
+    "imageAlt": "Obstruction 03",
+    "sourceTitle": "Obstruction 03",
+    "itemId": "ga19a9bcd74d72a82adc208f60b335eda"
   },
   {
     "bank": "Obstructions",
@@ -2324,10 +2320,10 @@ const questionBank = [
     ],
     "answer": "3,076 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Windmill 01",
-    "itemId": "g85e5db18aeb5e60bff4d9d660c19d618",
     "image": "assessment_questions/Windturbine01.png",
-    "imageAlt": "Question image for Windmill 01"
+    "imageAlt": "Windmill 01",
+    "sourceTitle": "Windmill 01",
+    "itemId": "g85e5db18aeb5e60bff4d9d660c19d618"
   },
   {
     "bank": "Obstructions",
@@ -2339,10 +2335,10 @@ const questionBank = [
     ],
     "answer": "Flying at 887 feet MSL puts you inside the Class E controlled airspace starting at approximately 750' MSL so you need prior authorization",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Windmill 02",
-    "itemId": "g57a61927cc94994989efa9aa5dce7cf5",
     "image": "assessment_questions/Windturbine02.png",
-    "imageAlt": "Question image for Windmill 02"
+    "imageAlt": "Windmill 02",
+    "sourceTitle": "Windmill 02",
+    "itemId": "g57a61927cc94994989efa9aa5dce7cf5"
   },
   {
     "bank": "Obstructions",
@@ -2354,10 +2350,10 @@ const questionBank = [
     ],
     "answer": "There isn't enough information visible in the sectional chart to answer this question. Since we don't know the height of the wind turbines in AGL, we cannot determine which airspace we are in.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Windmill 03",
-    "itemId": "g0bc85dff67401a3eb392fe9a01bcbdf4",
     "image": "assessment_questions/Windturbine03.png",
-    "imageAlt": "Question image for Windmill 03"
+    "imageAlt": "Windmill 03",
+    "sourceTitle": "Windmill 03",
+    "itemId": "g0bc85dff67401a3eb392fe9a01bcbdf4"
   },
   {
     "bank": "Bird and Wildlife Hazards",
@@ -2370,7 +2366,7 @@ const questionBank = [
     ],
     "answer": "can collide with aircraft causing damage",
     "explanation": "Feedback: Wildlife strikes, especially birds, can cause serious damage to propellers, rotors, or engines.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g3b7010f03e6209e7a3e1e4ddab8854b5"
   },
   {
@@ -2384,7 +2380,7 @@ const questionBank = [
     ],
     "answer": "habitat management and dispersal techniques",
     "explanation": "Feedback: Habitat management, pyrotechnics, and other dispersal methods are used to reduce wildlife risks near runways.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "ge1d86dfb86de5f9d1d85f7f0fe35dc42"
   },
   {
@@ -2398,7 +2394,7 @@ const questionBank = [
     ],
     "answer": "avoid areas of known wildlife activity and follow NOTAMs",
     "explanation": "Feedback: Avoiding areas with wildlife hazards reduces the risk of collisions; follow airport advisories and NOTAMs.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g002f6627703db8a30cb86677ccfb68c2"
   },
   {
@@ -2410,7 +2406,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "ATC 01",
+    "sourceTitle": "ATC 01",
     "itemId": "g6634a1e16971fc13755aa2cb9a7efd2c"
   },
   {
@@ -2423,7 +2419,7 @@ const questionBank = [
     ],
     "answer": "Monitoring the CTAF for manned aircraft.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airport Frequencies 01",
+    "sourceTitle": "Airport Frequencies 01",
     "itemId": "g9e6e7ba1c1c468cd9606255a5240cc32"
   },
   {
@@ -2436,7 +2432,7 @@ const questionBank = [
     ],
     "answer": "Self-announce their position over the Common Traffic Advisory Frequency",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airport Frequencies 02",
+    "sourceTitle": "Airport Frequencies 02",
     "itemId": "g6a0ebfd156b7a9efa830f9b1a17d0201"
   },
   {
@@ -2449,7 +2445,7 @@ const questionBank = [
     ],
     "answer": "126.0",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airport Frequencies 03",
+    "sourceTitle": "Airport Frequencies 03",
     "itemId": "g3db20c3c733a58a6a3b4d9becde3158b"
   },
   {
@@ -2462,7 +2458,7 @@ const questionBank = [
     ],
     "answer": "122.8",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airport Frequencies 04",
+    "sourceTitle": "Airport Frequencies 04",
     "itemId": "g39b22b93f5d4adbf3e83b779d30fd742"
   },
   {
@@ -2475,10 +2471,10 @@ const questionBank = [
     ],
     "answer": "126.6",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airport Frequencies 05",
-    "itemId": "g5cd4c3def0017c0488c500e19d09f87f",
     "image": "assessment_questions/StuartField.png",
-    "imageAlt": "Question image for Airport Frequencies 05"
+    "imageAlt": "Airport Frequencies 05",
+    "sourceTitle": "Airport Frequencies 05",
+    "itemId": "g5cd4c3def0017c0488c500e19d09f87f"
   },
   {
     "bank": "Communication Procedures",
@@ -2490,7 +2486,7 @@ const questionBank = [
     ],
     "answer": "122.8, because this is the CTAF frequency",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airport Frequencies 06",
+    "sourceTitle": "Airport Frequencies 06",
     "itemId": "g9bd80d0258a6128e07a0d59fec6c2929"
   },
   {
@@ -2503,10 +2499,10 @@ const questionBank = [
     ],
     "answer": "118.3",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "CTAF 01",
-    "itemId": "g3746ebfeef84b5fb403cc09ab3b3fe86",
     "image": "assessment_questions/Chattanooga_CTAF.png",
-    "imageAlt": "Question image for CTAF 01"
+    "imageAlt": "CTAF 01",
+    "sourceTitle": "CTAF 01",
+    "itemId": "g3746ebfeef84b5fb403cc09ab3b3fe86"
   },
   {
     "bank": "Communication Procedures",
@@ -2518,10 +2514,10 @@ const questionBank = [
     ],
     "answer": "120.1",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "CTAF 02",
-    "itemId": "g24a7fdb8023e7b1d7dc7bbfda151b574",
     "image": "assessment_questions/Greenville_CTAF.png",
-    "imageAlt": "Question image for CTAF 02"
+    "imageAlt": "CTAF 02",
+    "sourceTitle": "CTAF 02",
+    "itemId": "g24a7fdb8023e7b1d7dc7bbfda151b574"
   },
   {
     "bank": "Communication Procedures",
@@ -2533,10 +2529,10 @@ const questionBank = [
     ],
     "answer": "122.8",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "CTAF 03",
-    "itemId": "g3ad7305ea7ee1f83ca92627b3266a687",
     "image": "assessment_questions/Rockwood_CTAF.png",
-    "imageAlt": "Question image for CTAF 03"
+    "imageAlt": "CTAF 03",
+    "sourceTitle": "CTAF 03",
+    "itemId": "g3ad7305ea7ee1f83ca92627b3266a687"
   },
   {
     "bank": "Communication Procedures",
@@ -2548,7 +2544,7 @@ const questionBank = [
     ],
     "answer": "Chart Supplements/Airport Facilities Directory",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "SupplementalChart01",
+    "sourceTitle": "SupplementalChart01",
     "itemId": "g4803aa55ef08ee146fc96f6e7bb1636d"
   },
   {
@@ -2562,7 +2558,7 @@ const questionBank = [
     ],
     "answer": "personnel to display proper identification at all times",
     "explanation": "Feedback: Access to SIDA areas requires displaying approved identification at all times for security compliance.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "ga1e64358771fd4f5d970b9bbc0e30909"
   },
   {
@@ -2576,7 +2572,7 @@ const questionBank = [
     ],
     "answer": "airport authority or TSA",
     "explanation": "Feedback: The airport authority or TSA controls SIDA access to ensure security regulations are followed.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gad840e8a2a80939fb71ba09fd020ddca"
   },
   {
@@ -2590,7 +2586,7 @@ const questionBank = [
     ],
     "answer": "any unauthorized presence on a runway or taxiway",
     "explanation": "Feedback: A runway incursion involves any vehicle, aircraft, or person on a runway or taxiway without clearance.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gb6d7beee2615ccb334e76bf0c72c52cc"
   },
   {
@@ -2604,7 +2600,7 @@ const questionBank = [
     ],
     "answer": "ensure security compliance and proper identification procedures",
     "explanation": "Feedback: SIDA training ensures personnel understand security rules, identification requirements, and authorized access procedures.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "ge411fba505398c733f6573404578132d"
   },
   {
@@ -2616,7 +2612,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Change of Address 01",
+    "sourceTitle": "Change of Address 01",
     "itemId": "g6320096eecf2aa2a408d8fc102cb649f"
   },
   {
@@ -2629,7 +2625,7 @@ const questionBank = [
     ],
     "answer": "Revoke your remote pilot certificate",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Compliance 01",
+    "sourceTitle": "Compliance 01",
     "itemId": "g61854963378cd9faa5f8179709476005"
   },
   {
@@ -2642,7 +2638,7 @@ const questionBank = [
     ],
     "answer": "You should submit your request at least 90 calendar days in advance.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g1837da1e31200d15e6210e689cabd061"
   },
   {
@@ -2655,7 +2651,7 @@ const questionBank = [
     ],
     "answer": "Even though the police are not authorized to request your remote pilot certificate or drone registration, it is best practice to provide this information so the situationd does not escalate.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Request Documentation 01",
+    "sourceTitle": "Request Documentation 01",
     "itemId": "g11fdd44eaa7fdcb1293c8c62e02554e7"
   },
   {
@@ -2668,7 +2664,7 @@ const questionBank = [
     ],
     "answer": "Waiver",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Waiver 02",
+    "sourceTitle": "Waiver 02",
     "itemId": "g0678c1b47143ff92b0a7933303485ecc"
   },
   {
@@ -2681,7 +2677,7 @@ const questionBank = [
     ],
     "answer": "Filming a car chase scene where the speeds of the UAV and car reach 125 MPH",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Waiver 03",
+    "sourceTitle": "Waiver 03",
     "itemId": "g25ff3f6f99b7399b07ed887a965f34ca"
   },
   {
@@ -2694,7 +2690,7 @@ const questionBank = [
     ],
     "answer": "Notify Dollywood that even though drones in a light show are flying autonomously, the regulations state that you can only fly a single drone at a time. You would need to contact the FAA to request a waiver for this specific situation.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Waivers 01",
+    "sourceTitle": "Waivers 01",
     "itemId": "g33b230a9735292dddcc6cd4b874b334b"
   },
   {
@@ -2707,7 +2703,7 @@ const questionBank = [
     ],
     "answer": "8 hours",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Alcohol 01",
+    "sourceTitle": "Alcohol 01",
     "itemId": "gb19ff9608d5a7bb54f363bd7f2be8c6a"
   },
   {
@@ -2720,7 +2716,7 @@ const questionBank = [
     ],
     "answer": "Postpone or reschedule flying because you know that having a hangover means you are still under the influence of alcohol.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Alcohol 02",
+    "sourceTitle": "Alcohol 02",
     "itemId": "gf3148507def84ffe5fa0217eb46f9237"
   },
   {
@@ -2733,7 +2729,7 @@ const questionBank = [
     ],
     "answer": "0.04%",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Alcohol 03",
+    "sourceTitle": "Alcohol 03",
     "itemId": "g100b8f3d82ed53f7e9ac77d701ec3ac3"
   },
   {
@@ -2745,7 +2741,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Commercial vs Recreation 01",
+    "sourceTitle": "Commercial vs Recreation 01",
     "itemId": "g0c4843ea44e1565f543b736643ee694f"
   },
   {
@@ -2757,7 +2753,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Commercial vs Recreation 02",
+    "sourceTitle": "Commercial vs Recreation 02",
     "itemId": "g6554c1287da74e93a86c3163368b6b6e"
   },
   {
@@ -2770,7 +2766,7 @@ const questionBank = [
     ],
     "answer": "Under direct supervision of a Remote Pilot in Command",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Commercial vs Recreation 03",
+    "sourceTitle": "Commercial vs Recreation 03",
     "itemId": "g8c28b0c77e370187f3d604873ce517c4"
   },
   {
@@ -2782,7 +2778,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Exam Prerequisites",
+    "sourceTitle": "Exam Prerequisites",
     "itemId": "geb2d368deea3db6a78c854828a1d9844"
   },
   {
@@ -2795,7 +2791,7 @@ const questionBank = [
     ],
     "answer": "For a period of 1 year after the date of the CONVITCTION.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Marijuana 01",
+    "sourceTitle": "Marijuana 01",
     "itemId": "gf08a30415fd9f2daee8e3205c6fe70ae"
   },
   {
@@ -2808,7 +2804,7 @@ const questionBank = [
     ],
     "answer": "24 months",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Recertification 01",
+    "sourceTitle": "Recertification 01",
     "itemId": "g8857a9463f7de2b5c176b5fc456ed04e"
   },
   {
@@ -2821,7 +2817,7 @@ const questionBank = [
     ],
     "answer": "No later than October 31, 2027",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Recertification 02",
+    "sourceTitle": "Recertification 02",
     "itemId": "g8553a7614a76876bcc72e5d1b4de59a5"
   },
   {
@@ -2834,7 +2830,7 @@ const questionBank = [
     ],
     "answer": "The pilot must have completed the online recurrent training OR the initial written test in the previous 24 calendar months",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Recertification 03",
+    "sourceTitle": "Recertification 03",
     "itemId": "ged84db6c967f0485fc6a766dd3f6ff9b"
   },
   {
@@ -2847,7 +2843,7 @@ const questionBank = [
     ],
     "answer": "Pass a practical UAV flight test administered by an FAA flight instructor",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Requirements 01",
+    "sourceTitle": "Requirements 01",
     "itemId": "g15685496dac0b7e09cea29ee1f097f34"
   },
   {
@@ -2860,7 +2856,7 @@ const questionBank = [
     ],
     "answer": "1 year",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Suspension 01",
+    "sourceTitle": "Suspension 01",
     "itemId": "gb463204d468a7c51ef403f975e5bf367"
   },
   {
@@ -2873,7 +2869,7 @@ const questionBank = [
     ],
     "answer": "120 days",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Temporary License",
+    "sourceTitle": "Temporary License",
     "itemId": "g84d64b290bb31c773643e3bd09cc6994"
   },
   {
@@ -2886,7 +2882,7 @@ const questionBank = [
     ],
     "answer": "Piper Eight Four Romeo Tango",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Call Sign 01",
+    "sourceTitle": "Call Sign 01",
     "itemId": "g410e3b132ad39885ace2d223488763b5"
   },
   {
@@ -2899,7 +2895,7 @@ const questionBank = [
     ],
     "answer": "Registration number",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Call Sign 02",
+    "sourceTitle": "Call Sign 02",
     "itemId": "g228bc9930b90d9ad44110f6c2ae401ea"
   },
   {
@@ -2912,7 +2908,7 @@ const questionBank = [
     ],
     "answer": "N",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Call Sign 03",
+    "sourceTitle": "Call Sign 03",
     "itemId": "gf3b30e47c7df93cb9add706ef8e6fdac"
   },
   {
@@ -2925,7 +2921,7 @@ const questionBank = [
     ],
     "answer": "November, three, four, tango, foxtrot",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Call Sign 04",
+    "sourceTitle": "Call Sign 04",
     "itemId": "g66884fd8a1174f3c5bc7f1d4952b0790"
   },
   {
@@ -2938,7 +2934,7 @@ const questionBank = [
     ],
     "answer": "Charlie",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Phonetic Alphabet 01",
+    "sourceTitle": "Phonetic Alphabet 01",
     "itemId": "gadaeaa3485814d5d3b42eb75eee683ec"
   },
   {
@@ -2951,7 +2947,7 @@ const questionBank = [
     ],
     "answer": "IFR",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class A 01",
+    "sourceTitle": "Class A 01",
     "itemId": "gc453dd72194d358d4df38e3870a830ac"
   },
   {
@@ -2964,7 +2960,7 @@ const questionBank = [
     ],
     "answer": "18,000 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class A 02",
+    "sourceTitle": "Class A 02",
     "itemId": "g29da847c85283e27b3943d2cf2e02cd3"
   },
   {
@@ -2977,7 +2973,7 @@ const questionBank = [
     ],
     "answer": "10,000 feet mean sea level (MSL)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class B 01",
+    "sourceTitle": "Class B 01",
     "itemId": "gc1e8f46fdc52934a18a40b1a802d93c5"
   },
   {
@@ -2990,7 +2986,7 @@ const questionBank = [
     ],
     "answer": "Yes, because this would extend into Class B airspace",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class B 02",
+    "sourceTitle": "Class B 02",
     "itemId": "g081112aa78ba55fa76676709331b8b41"
   },
   {
@@ -3003,7 +2999,7 @@ const questionBank = [
     ],
     "answer": "Class B Airspace",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class B 03",
+    "sourceTitle": "Class B 03",
     "itemId": "gcc28cacb89dc5ac27114b71c6b39c5d6"
   },
   {
@@ -3016,7 +3012,7 @@ const questionBank = [
     ],
     "answer": "Feet in Mean Sea Level",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class B 04",
+    "sourceTitle": "Class B 04",
     "itemId": "gd8fbf7b9278d87de2c2192db04de04a4"
   },
   {
@@ -3029,7 +3025,7 @@ const questionBank = [
     ],
     "answer": "Feet in mean sea level (MSL)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class C 01",
+    "sourceTitle": "Class C 01",
     "itemId": "gc9c66e740226c352e52ae8aa639d0a6e"
   },
   {
@@ -3042,7 +3038,7 @@ const questionBank = [
     ],
     "answer": "is required to receive ATC authorization.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class C 02",
+    "sourceTitle": "Class C 02",
     "itemId": "g5e9ecd6ca00e184631a8acd59f43a606"
   },
   {
@@ -3055,20 +3051,20 @@ const questionBank = [
     ],
     "answer": "Prior authorization from air traffic control (ATC)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class C 03",
+    "sourceTitle": "Class C 03",
     "itemId": "g6f86132ba9f2a17f374d1e85106426dc"
   },
   {
     "bank": "Controlled Airspace",
     "question": "(Refer to Figure 23 and Legend 1) Southwest of Savannah/Hilton Head International Airport (area 3) is a cluster of towers that stands 1531’ above the earth. You have been contracted to use you drone to inspect these towers. You will:",
     "choices": [
-      "Need authorization from Savannah to operate in their class C airspace",
+      "​​​​​Need authorization from Savannah to operate in their class C airspace",
       "Remain in class E airspace. The C airspace floor is at 4100’ and the ceiling is at 13,000’",
-      "Not require an special permission provided you remain within a 400’ radius of the structure and do not fly more than 400’ higher than its altitude"
+      "Not require special permission provided you remain within a 400’ radius of the structure and do not fly more than 400’ higher than its altitude"
     ],
-    "answer": "Need authorization from Savannah to operate in their class C airspace",
+    "answer": "​​​​​Need authorization from Savannah to operate in their class C airspace",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class C 04",
+    "sourceTitle": "Class C 04",
     "itemId": "g98ecbef951afbf1854fe162e2a827fed"
   },
   {
@@ -3081,7 +3077,7 @@ const questionBank = [
     ],
     "answer": "Class D, from the surface up to, but not including 3,000 ft",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class D 01",
+    "sourceTitle": "Class D 01",
     "itemId": "ge9c1ceed58bb9d32f772eeb1b7728435"
   },
   {
@@ -3094,7 +3090,7 @@ const questionBank = [
     ],
     "answer": "Class D",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class D 02",
+    "sourceTitle": "Class D 02",
     "itemId": "g60afef8f84959ff964c0fabec876c73d"
   },
   {
@@ -3107,7 +3103,7 @@ const questionBank = [
     ],
     "answer": "10 Statute Miles",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class E 01",
+    "sourceTitle": "Class E 01",
     "itemId": "g9129635dd359edab13d0b75bb0aafed5"
   },
   {
@@ -3120,7 +3116,7 @@ const questionBank = [
     ],
     "answer": "Class E airspace, with floor 700 ft. above the surface",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class E 02",
+    "sourceTitle": "Class E 02",
     "itemId": "gb6b85bea96a2ec015cbba00d6b3148c0"
   },
   {
@@ -3133,7 +3129,7 @@ const questionBank = [
     ],
     "answer": "Perform a pre-flight inspection before operating your drone.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Class E 03",
+    "sourceTitle": "Class E 03",
     "itemId": "gb6c09ea3ac4976de43caea5634e87f30"
   },
   {
@@ -3146,7 +3142,7 @@ const questionBank = [
     ],
     "answer": "127.15, it is used to report weather information and other airport specific notices",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "ATIS 02",
+    "sourceTitle": "ATIS 02",
     "itemId": "g54c227dd6b5058dea4b18c191d451e79"
   },
   {
@@ -3158,7 +3154,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "UNICOM01",
+    "sourceTitle": "UNICOM01",
     "itemId": "gbcf60eaa26a0ac59c37a2c33fb0f63ba"
   },
   {
@@ -3171,7 +3167,7 @@ const questionBank = [
     ],
     "answer": "Low-traffic, general aviation airports",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "UNICOM02",
+    "sourceTitle": "UNICOM02",
     "itemId": "gab55a88f44abca5f3090df1c0af71c22"
   },
   {
@@ -3184,7 +3180,7 @@ const questionBank = [
     ],
     "answer": "MULTICOM frequency",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "UNICOM03",
+    "sourceTitle": "UNICOM03",
     "itemId": "gd7d977b880228f7e12d3e89fcef5e5e0"
   },
   {
@@ -3197,7 +3193,7 @@ const questionBank = [
     ],
     "answer": "Nongovernment stations found at low traffic general aviation airports, which provide various information and advisories to users of the airport.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "UNICOM04",
+    "sourceTitle": "UNICOM04",
     "itemId": "g69637702d42b62230f55e57c1817f19b"
   },
   {
@@ -3210,7 +3206,7 @@ const questionBank = [
     ],
     "answer": "This is allowed due to extenuating cicumstances, but you will only need to report this to the FAA if requested by \"the administrator\".",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Deviation 01",
+    "sourceTitle": "Deviation 01",
     "itemId": "ge20cc27a48f60deaffa062efdb2fb8bc"
   },
   {
@@ -3223,7 +3219,7 @@ const questionBank = [
     ],
     "answer": "All crew members, to include the visual observer, and the person manipulating the controls (if different from the remote pilot in command)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Pre-Flight 01",
+    "sourceTitle": "Pre-Flight 01",
     "itemId": "g20e406f5e818f810ea4334ae837afa50"
   },
   {
@@ -3236,7 +3232,7 @@ const questionBank = [
     ],
     "answer": "Check local weather conditions, TFRs, and airspace information",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Pre-Flight 02",
+    "sourceTitle": "Pre-Flight 02",
     "itemId": "gb2ace65d4012b50c821e50a38532c147"
   },
   {
@@ -3249,7 +3245,7 @@ const questionBank = [
     ],
     "answer": "2,000",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Cloud Clearance",
+    "sourceTitle": "Cloud Clearance",
     "itemId": "gc058acf652ed1fb2f2e48ef21ed18cc5"
   },
   {
@@ -3262,7 +3258,7 @@ const questionBank = [
     ],
     "answer": "500",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Cloud Clearance 02",
+    "sourceTitle": "Cloud Clearance 02",
     "itemId": "gbddfb866d5b054d905be2449da5e2eb4"
   },
   {
@@ -3274,7 +3270,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Cloud Clearance 03",
+    "sourceTitle": "Cloud Clearance 03",
     "itemId": "gb55af55cc43adf77f9bee7bb8834680b"
   },
   {
@@ -3286,7 +3282,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Category 4 OO Moving Vehicles",
+    "sourceTitle": "Category 4 OO Moving Vehicles",
     "itemId": "g7583619de138d03e2e3d663447189556"
   },
   {
@@ -3300,7 +3296,7 @@ const questionBank = [
     ],
     "answer": "Categories 1, 2, 3, and 4 are allowed to have sustained flights over drones as long as the follow the other criteria",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Category Requirements",
+    "sourceTitle": "Category Requirements",
     "itemId": "gb32399c4532b1ffabfc85b170a085e4e"
   },
   {
@@ -3313,7 +3309,7 @@ const questionBank = [
     ],
     "answer": "Both conditions must be met for sustained flights over moving vehicles",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Operations over Vehicles 01",
+    "sourceTitle": "Operations over Vehicles 01",
     "itemId": "g87f2cab2f3a84f7c543087de838e36de"
   },
   {
@@ -3326,7 +3322,7 @@ const questionBank = [
     ],
     "answer": "You may operate a UAV from a moving car, boat, or airplane",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Moving Vehicle",
+    "sourceTitle": "Moving Vehicle",
     "itemId": "g79c54a87adbaea85ab7f1527605330b2"
   },
   {
@@ -3338,7 +3334,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Moving Vehicle 02",
+    "sourceTitle": "Moving Vehicle 02",
     "itemId": "g2c963cc0dd325f8265e828c34c46ebb1"
   },
   {
@@ -3351,7 +3347,7 @@ const questionBank = [
     ],
     "answer": "Yes, as long as the area is sparsely populated",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Moving Vehicle 03",
+    "sourceTitle": "Moving Vehicle 03",
     "itemId": "g155f9ded5e11dafa73ae6be579fb007a"
   },
   {
@@ -3364,10 +3360,10 @@ const questionBank = [
     ],
     "answer": "These represent a military training route where all segments are below 1,500 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "MTR 01",
-    "itemId": "gdfe259ca0d0a95ca196fec3eb58c82b6",
     "image": "assessment_questions/MilitaryTrainingRoutes01.png",
-    "imageAlt": "Question image for MTR 01"
+    "imageAlt": "MTR 01",
+    "sourceTitle": "MTR 01",
+    "itemId": "gdfe259ca0d0a95ca196fec3eb58c82b6"
   },
   {
     "bank": "Military Training Routes",
@@ -3379,10 +3375,10 @@ const questionBank = [
     ],
     "answer": "These represent a military training route where at least one segment is over 1,500 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "MTR 02",
-    "itemId": "g421062b4b730de3c29b12890b560cdc8",
     "image": "assessment_questions/MilitaryTrainingRoutes02.png",
-    "imageAlt": "Question image for MTR 02"
+    "imageAlt": "MTR 02",
+    "sourceTitle": "MTR 02",
+    "itemId": "g421062b4b730de3c29b12890b560cdc8"
   },
   {
     "bank": "Military Training Routes",
@@ -3394,10 +3390,10 @@ const questionBank = [
     ],
     "answer": "These represent a military training route where at least one segment is over 1,500 feet AGL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "MTR 03",
-    "itemId": "ge299c2b45c505f5de967676f70a574d3",
     "image": "assessment_questions/MilitaryTrainingRoutes03.png",
-    "imageAlt": "Question image for MTR 03"
+    "imageAlt": "MTR 03",
+    "sourceTitle": "MTR 03",
+    "itemId": "ge299c2b45c505f5de967676f70a574d3"
   },
   {
     "bank": "Altitude Limitations",
@@ -3409,7 +3405,7 @@ const questionBank = [
     ],
     "answer": "400 feet",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Altitude Limitations 01",
+    "sourceTitle": "Altitude Limitations 01",
     "itemId": "gb0398c1fc2b0723d5eff9b48a8f360ac"
   },
   {
@@ -3422,7 +3418,7 @@ const questionBank = [
     ],
     "answer": "400 feet",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Altitude Limitations 02",
+    "sourceTitle": "Altitude Limitations 02",
     "itemId": "g7f18bb0ef778a2e39a599dd0a82903fd"
   },
   {
@@ -3435,7 +3431,7 @@ const questionBank = [
     ],
     "answer": "650 feet",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Altitude Limitations 03",
+    "sourceTitle": "Altitude Limitations 03",
     "itemId": "gedef004e13f72d6f2a793c5b82e1db0d"
   },
   {
@@ -3448,7 +3444,7 @@ const questionBank = [
     ],
     "answer": "No, since the altitude limit in this scenario would be 400 feet above ground level",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Altitude Limitations 04",
+    "sourceTitle": "Altitude Limitations 04",
     "itemId": "g9efbf367b317551affde4aa78a3e6762"
   },
   {
@@ -3461,10 +3457,10 @@ const questionBank = [
     ],
     "answer": "6,600 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "MEF 01",
-    "itemId": "g9f57f154d36ec5d80652c24097d75b09",
     "image": "assessment_questions/MEF01.png",
-    "imageAlt": "Question image for MEF 01"
+    "imageAlt": "MEF 01",
+    "sourceTitle": "MEF 01",
+    "itemId": "g9f57f154d36ec5d80652c24097d75b09"
   },
   {
     "bank": "MEF",
@@ -3476,10 +3472,10 @@ const questionBank = [
     ],
     "answer": "3,300 feet MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "MEF 02",
-    "itemId": "g8c4f99f46c7821c9da96183dcc954746",
     "image": "assessment_questions/MEF02.png",
-    "imageAlt": "Question image for MEF 02"
+    "imageAlt": "MEF 02",
+    "sourceTitle": "MEF 02",
+    "itemId": "g8c4f99f46c7821c9da96183dcc954746"
   },
   {
     "bank": "MEF",
@@ -3491,10 +3487,10 @@ const questionBank = [
     ],
     "answer": "These numbers are the minimum elevation a pilot can fly within that quadrant and avoid hitting any natural or man-made objects",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "MEF 03",
-    "itemId": "gd9fd3afcef7cba6964967d4bc551f67f",
     "image": "assessment_questions/MEF03.png",
-    "imageAlt": "Question image for MEF 03"
+    "imageAlt": "MEF 03",
+    "sourceTitle": "MEF 03",
+    "itemId": "gd9fd3afcef7cba6964967d4bc551f67f"
   },
   {
     "bank": "Monitoring ATC Communications",
@@ -3506,7 +3502,7 @@ const questionBank = [
     ],
     "answer": "To increase situational awareness and avoid conflicts with manned aircraft",
     "explanation": "Feedback: Monitoring ATC communications helps the remote pilot understand where other aircraft are and their intentions, reducing the likelihood of collisions.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g98034c756c7e78d62e453efd6c687d11"
   },
   {
@@ -3519,7 +3515,7 @@ const questionBank = [
     ],
     "answer": "350 degrees",
     "explanation": "Feedback: Runway numbers correspond to the magnetic heading rounded to the nearest 10 degrees. Runway 35 has a heading of 350°.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g54e1c69e253423c799dde34e68350837"
   },
   {
@@ -3532,7 +3528,7 @@ const questionBank = [
     ],
     "answer": "Avoid the airspace north of the runway to prevent conflicts",
     "explanation": "Feedback: Since runway 35 is oriented roughly north, aircraft will be departing northward. The remote pilot should avoid that airspace.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gd5ff10c91d78dac1f46380877f946bec"
   },
   {
@@ -3545,7 +3541,7 @@ const questionBank = [
     ],
     "answer": "All turns in the traffic pattern will be left-hand",
     "explanation": "Feedback: Left traffic means all legs of the traffic pattern involve left-hand turns.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gf03934956595e57177d13eb0439bc729"
   },
   {
@@ -3558,7 +3554,7 @@ const questionBank = [
     ],
     "answer": "Perpendicular to the runway, preparing for final approach",
     "explanation": "Feedback: The base leg is perpendicular to the runway and leads to the final approach for landing.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gd44a34e1c2a5f719e319177099a8998e"
   },
   {
@@ -3571,7 +3567,7 @@ const questionBank = [
     ],
     "answer": "North of the runway",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g961ae39ed2748fb07a125b0e8b960d86"
   },
   {
@@ -3584,7 +3580,7 @@ const questionBank = [
     ],
     "answer": "West of the runway",
     "explanation": "Feedback: The aircraft is approaching from the west and will join the downwind leg to the west of the runway in a left-hand pattern.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g0c6eab1dc811629ae415251392b99651"
   },
   {
@@ -3597,7 +3593,7 @@ const questionBank = [
     ],
     "answer": "Two aircraft are ahead in the landing sequence",
     "explanation": "Feedback: “Number 3” means two other aircraft are ahead in the landing queue; the remote pilot should be aware of all traffic in the pattern.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g423e66e208857e8f0d8912d64deaefa2"
   },
   {
@@ -3610,7 +3606,7 @@ const questionBank = [
     ],
     "answer": "To identify areas where manned aircraft are likely to be and avoid conflicts",
     "explanation": "Feedback: Understanding landing sequences helps a remote pilot avoid areas where aircraft may be turning onto base or final.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g9968b216a174ffb775349f8b4ebf5bed"
   },
   {
@@ -3623,7 +3619,7 @@ const questionBank = [
     ],
     "answer": "South",
     "explanation": "Feedback: Runway 27 has a heading of 270° (west). Aircraft turning base for runway 27 will be flying south on the base leg before turning to final.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g0f3a21f067842c3721a838f7e8d31888"
   },
   {
@@ -3636,7 +3632,7 @@ const questionBank = [
     ],
     "answer": "The traffic pattern is active and the airspace may be congested",
     "explanation": "Feedback: Multiple aircraft in the pattern indicate active traffic; remote pilots should maintain awareness and avoid the pattern area.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g79088db5819c0400a95ccc30a0029ffe"
   },
   {
@@ -3649,7 +3645,7 @@ const questionBank = [
     ],
     "answer": "Aircraft is departing toward the east (runway heading 090°)",
     "explanation": "Feedback: Runway 09 heading is 090° (east). Aircraft will depart east; the remote pilot south of the airport is less likely to conflict but should still maintain awareness.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g1d23bf2def50712f877f51d214bc0e35"
   },
   {
@@ -3662,7 +3658,7 @@ const questionBank = [
     ],
     "answer": "Downwind leg",
     "explanation": "Feedback: The downwind leg is parallel to the runway in the opposite direction of landing; for left traffic, all turns are left-hand.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g777a36c8088eb5ee41058beb3000ec23"
   },
   {
@@ -3675,7 +3671,7 @@ const questionBank = [
     ],
     "answer": "Monitor ATC communications and track positions of all aircraft relative to your operation",
     "explanation": "Feedback: Comprehensive awareness involves monitoring all traffic, including takeoffs, landings, and pattern positions.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g9f7fa21ee38decf4fe6b0c5c572ccd82"
   },
   {
@@ -3688,7 +3684,7 @@ const questionBank = [
     ],
     "answer": "From the West pointing East",
     "explanation": "Feedback: Aircraft enters base leg perpendicular to the runway; for a left-hand pattern, base leg approaches from the east.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g962ee1893fc74b2d1b5c67344a45c773"
   },
   {
@@ -3701,7 +3697,7 @@ const questionBank = [
     ],
     "answer": "Avoid the area where manned aircraft are likely to turn onto base and final",
     "explanation": "Feedback: Awareness of aircraft in sequence helps the remote pilot stay clear of high-risk areas.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g01c1b70aeaf5961432fe7041f86636d3"
   },
   {
@@ -3714,7 +3710,7 @@ const questionBank = [
     ],
     "answer": "180° (south)",
     "explanation": "Feedback: Downwind leg is opposite landing direction; runway 36 heads 360°, so aircraft flies south on downwind.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gca3042b9ab2a6888b3277c3c4d85f367"
   },
   {
@@ -3727,7 +3723,7 @@ const questionBank = [
     ],
     "answer": "Be aware of aircraft landing from west to east and avoid the approach path",
     "explanation": "Feedback: Aircraft will land toward 090° (east); remote pilots east of the runway should avoid the approach and final path.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g5898863387c97fc0ce92f21b1cd734d3"
   },
   {
@@ -3740,7 +3736,7 @@ const questionBank = [
     ],
     "answer": "Downwind",
     "explanation": "Feedback: Aircraft entering the pattern from the north will usually join the downwind leg before turning base and final.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "ged83243c0f455db44cf8c9335e84500a"
   },
   {
@@ -3753,7 +3749,7 @@ const questionBank = [
     ],
     "answer": "The aircraft is first in the landing sequence",
     "explanation": "Feedback: Number 1 indicates the aircraft is next to land; remote pilots should maintain awareness of the pattern.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g1508a09995b67da489e15a674ec1408c"
   },
   {
@@ -3766,7 +3762,7 @@ const questionBank = [
     ],
     "answer": "Aircraft will depart toward the south",
     "explanation": "Feedback: Runway 18 has a heading of 180° (south). Aircraft will depart southward; pilots south of the runway should be aware.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gfe4c9cef271a92429dd67aa82728f791"
   },
   {
@@ -3779,7 +3775,7 @@ const questionBank = [
     ],
     "answer": "If you are north of the airport, you should monitor ATC and maintain situational awareness, but you should be clear of the approaching plane because it is heading from west to east when travelling downwind of airport 27.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g752ab23c01d6c17bac15964007442501"
   },
   {
@@ -3792,7 +3788,7 @@ const questionBank = [
     ],
     "answer": "Perpendicular to the runway, approaching final from the west",
     "explanation": "Feedback: Base leg is perpendicular to the runway; the aircraft turns from downwind to final approach.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g70ec22dceecff2415d9504c31f4d0143"
   },
   {
@@ -3805,7 +3801,7 @@ const questionBank = [
     ],
     "answer": "South",
     "explanation": "Feedback: Downwind leg is opposite landing direction; runway 36 heads 360° (north), so aircraft flies south on downwind.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g9df1e9a13aab58a5adaacb5fc2025a69"
   },
   {
@@ -3818,7 +3814,7 @@ const questionBank = [
     ],
     "answer": "Avoid the final approach path and maintain safe separation",
     "explanation": "Feedback: Final approach is a high-risk area; UAS should remain clear to avoid conflict.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g9267b5e33d1384f7285b3e0c9a2e13cd"
   },
   {
@@ -3831,7 +3827,7 @@ const questionBank = [
     ],
     "answer": "One other aircraft is ahead in the landing sequence",
     "explanation": "Feedback: Number 2 indicates one aircraft is ahead in the landing sequence; pilots should consider where both may be in the pattern.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gb43b4b2b2f9b549148f5b74faa43838b"
   },
   {
@@ -3844,7 +3840,7 @@ const questionBank = [
     ],
     "answer": "Downwind",
     "explanation": "Feedback: Aircraft entering the pattern from the west will join the downwind leg first, then base, then final.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "ge07bec6788314d49cb513deb36bd818c"
   },
   {
@@ -3857,7 +3853,7 @@ const questionBank = [
     ],
     "answer": "North",
     "explanation": "Feedback: Base leg is perpendicular to the runway; for left traffic, the aircraft turns from downwind to final, flying north.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g1a2becf2ecc791f67b5bb14125a02bf1"
   },
   {
@@ -3870,7 +3866,7 @@ const questionBank = [
     ],
     "answer": "North of the runway",
     "explanation": "Feedback: Runway 36 heads 360° (north). Departing aircraft will fly north; pilots north of the runway should be cautious.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g0190c3e65ab15d720af656acb12f699f"
   },
   {
@@ -3883,7 +3879,7 @@ const questionBank = [
     ],
     "answer": "Northbound",
     "explanation": "Feedback: Downwind leg is opposite landing direction; runway 18 is heading 180° (south), so aircraft flies north on downwind.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "ga794001d05bcfdb7073aca187183622b"
   },
   {
@@ -3896,7 +3892,7 @@ const questionBank = [
     ],
     "answer": "The aircraft is first in the landing queue",
     "explanation": "Feedback: Number 1 indicates first to land; remote pilots should anticipate the aircraft entering base and final first.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g89fec4cb053943f954b0e7a142f0fb78"
   },
   {
@@ -3909,7 +3905,7 @@ const questionBank = [
     ],
     "answer": "Avoid the base leg to maintain separation",
     "explanation": "Feedback: Base leg is high-risk; pilots should maintain safe distance from manned aircraft.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g6a9f93ed990c84e71cad3da621083242"
   },
   {
@@ -3922,7 +3918,7 @@ const questionBank = [
     ],
     "answer": "East",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g0c655bb9a597c93d6c428406d32ab9b3"
   },
   {
@@ -3935,7 +3931,7 @@ const questionBank = [
     ],
     "answer": "Final approach",
     "explanation": "Feedback: After base leg, the aircraft turns onto final approach to land.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g206314d4fc6d0faae4c096595b9a31f1"
   },
   {
@@ -3948,7 +3944,7 @@ const questionBank = [
     ],
     "answer": "West",
     "explanation": "Feedback: Runway 27 heading is 270° (west). Aircraft will depart west; pilots north of the airport are less likely to conflict but should remain vigilant.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gb4223d861a5acda85c39d9b53dae39e7"
   },
   {
@@ -3961,7 +3957,7 @@ const questionBank = [
     ],
     "answer": "Avoid east side approach and monitor traffic",
     "explanation": "Feedback: Aircraft entering pattern south of runway 36 and left traffic will cross near east; maintain awareness and separation.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g0053744abba9e7c6dd2d9464e9ba6a43"
   },
   {
@@ -3974,7 +3970,7 @@ const questionBank = [
     ],
     "answer": "On downwind, base, and final legs",
     "explanation": "Feedback: Number 2 indicates one aircraft ahead in pattern; remote pilots should consider all legs of the traffic pattern.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g960fa6f7f77db6e4bafee3587afca571"
   },
   {
@@ -3987,7 +3983,7 @@ const questionBank = [
     ],
     "answer": "180° (south)",
     "explanation": "Feedback: Base leg is perpendicular to runway; aircraft turning base for runway 09 (heading east) will fly south on base.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gc11ccae3faeed7060bff0883719fb6f4"
   },
   {
@@ -4000,7 +3996,7 @@ const questionBank = [
     ],
     "answer": "East",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "ge3135ba007e28ac7cd895b2ba73124ac"
   },
   {
@@ -4013,7 +4009,7 @@ const questionBank = [
     ],
     "answer": "South of the airport",
     "explanation": "Feedback: Runway 18 heading 180° (south); departing aircraft will fly south from runway end.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "g87b48f9f80b7a2a58a287c961c4501d3"
   },
   {
@@ -4026,7 +4022,7 @@ const questionBank = [
     ],
     "answer": "Avoid base and final legs to maintain safe separation",
     "explanation": "Feedback: Aircraft on base is preparing for final approach; UAS pilots should maintain separation to prevent conflicts.",
-    "questionTitle": "Question",
+    "sourceTitle": "Question",
     "itemId": "gcc2054d4344e9cc66a8ce0fe7854de39"
   },
   {
@@ -4038,7 +4034,7 @@ const questionBank = [
     ],
     "answer": "True",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "National Airspace",
+    "sourceTitle": "National Airspace",
     "itemId": "g6308cb9b7edd67dbd1b1638fb1664a63"
   },
   {
@@ -4051,7 +4047,7 @@ const questionBank = [
     ],
     "answer": "G",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "National Airspace 01",
+    "sourceTitle": "National Airspace 01",
     "itemId": "g1badfd0908f480eac862fa04ba556f41"
   },
   {
@@ -4063,7 +4059,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "National Airspace 02",
+    "sourceTitle": "National Airspace 02",
     "itemId": "gfb9f6190d52234ac0d9516135fdc12d6"
   },
   {
@@ -4076,7 +4072,7 @@ const questionBank = [
     ],
     "answer": "Every hour or when there is a significant change in weather/operations",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "ATIS 03",
+    "sourceTitle": "ATIS 03",
     "itemId": "g83f57f080cf00c2214b2606f56dfd4ad"
   },
   {
@@ -4089,7 +4085,7 @@ const questionBank = [
     ],
     "answer": "To provide pilots with current, real-time weather conditions including wind, visibility, temperature, and altimeter setting",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "AWOS 01",
+    "sourceTitle": "AWOS 01",
     "itemId": "g18a37bcfb63053090e0778031e82fdac"
   },
   {
@@ -4102,7 +4098,7 @@ const questionBank = [
     ],
     "answer": "By tuning their aircraft radio to the AWOS frequency published for the airport",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "AWOS 02",
+    "sourceTitle": "AWOS 02",
     "itemId": "g9d49aef1c122927989a62004989fbcbe"
   },
   {
@@ -4115,7 +4111,7 @@ const questionBank = [
     ],
     "answer": "AWOS frequency",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "AWOS 03",
+    "sourceTitle": "AWOS 03",
     "itemId": "gec5b278c14b196d63071c43490d2bc7a"
   },
   {
@@ -4128,7 +4124,7 @@ const questionBank = [
     ],
     "answer": "AWOS provides automated weather observations only, while ATIS provides both weather and operational information, including runways in use and approaches.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "AWOS vs ATIS 01",
+    "sourceTitle": "AWOS vs ATIS 01",
     "itemId": "g97697ffa3c500fe089b61afd2374640f"
   },
   {
@@ -4141,7 +4137,7 @@ const questionBank = [
     ],
     "answer": "When they need both current weather and operational information such as active runways and approach types",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "AWOS vs ATIS 02",
+    "sourceTitle": "AWOS vs ATIS 02",
     "itemId": "gf2b5e099a272ad16ccec167a5248af4a"
   },
   {
@@ -4154,7 +4150,7 @@ const questionBank = [
     ],
     "answer": "Runways in use, instrument approach in use, airport-specific operational notes",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "AWOS vs ATIS 03",
+    "sourceTitle": "AWOS vs ATIS 03",
     "itemId": "g408e846eb6f848af2a6cd4b6f4764b51"
   },
   {
@@ -4167,7 +4163,7 @@ const questionBank = [
     ],
     "answer": "Make self-announce position reports at key points, such as 10 miles out, entering downwind, base, and final.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "CTAF 04",
+    "sourceTitle": "CTAF 04",
     "itemId": "g1aaefa60c3ee2f1a82530a9a2bf0d894"
   },
   {
@@ -4180,7 +4176,7 @@ const questionBank = [
     ],
     "answer": "They should make position reports and monitor CTAF just as they would at a nontowered airport.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "CTAF 05",
+    "sourceTitle": "CTAF 05",
     "itemId": "gbd4d8081c193ae310ec20e327667001d"
   },
   {
@@ -4193,7 +4189,7 @@ const questionBank = [
     ],
     "answer": "In the “Communications” section under the tower frequency listing",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Control Tower 01",
+    "sourceTitle": "Control Tower 01",
     "itemId": "gde98be64c6b7b96cbdc45c0bb86971aa"
   },
   {
@@ -4206,7 +4202,7 @@ const questionBank = [
     ],
     "answer": "The frequency listed with the letters CT next to it",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Control Tower 01",
+    "sourceTitle": "Control Tower 01",
     "itemId": "g5106f517ad47f57fa04f33247406d686"
   },
   {
@@ -4219,7 +4215,7 @@ const questionBank = [
     ],
     "answer": "122.9 MHz",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "MULTICOM 01",
+    "sourceTitle": "MULTICOM 01",
     "itemId": "g8fd97262327a5014b69590f2be8b0ca5"
   },
   {
@@ -4232,7 +4228,7 @@ const questionBank = [
     ],
     "answer": "alert areas often have concentrated hot air balloon, parachute jumping, and other activities where UAVs could pose a hazard to safety",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Alert Areas 01",
+    "sourceTitle": "Alert Areas 01",
     "itemId": "g36ed40a03c16e5a4cacf3e01ae41a3e0"
   },
   {
@@ -4245,7 +4241,7 @@ const questionBank = [
     ],
     "answer": "May be allowed with approval from the agency that owns the restricted airspace (although very rare and unlikely)",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Special Use Airspace 01",
+    "sourceTitle": "Special Use Airspace 01",
     "itemId": "g213b739b837e5647db059cd5bcbaa058"
   },
   {
@@ -4257,7 +4253,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Special Use Airspace 02",
+    "sourceTitle": "Special Use Airspace 02",
     "itemId": "g011e4de26191e084aa12245453bcb5b5"
   },
   {
@@ -4270,7 +4266,7 @@ const questionBank = [
     ],
     "answer": "Before operating in R-5403 I must obtain authorization from the using or controlling agency.",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Special Use Airspace 03",
+    "sourceTitle": "Special Use Airspace 03",
     "itemId": "g4e4d8525a4260d0941b49ff0c66aec08"
   },
   {
@@ -4283,7 +4279,7 @@ const questionBank = [
     ],
     "answer": "Contact the agency that controls the MOA to obtain specific information about potential flight hazards",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Special Use Airspace 04",
+    "sourceTitle": "Special Use Airspace 04",
     "itemId": "gb0651a71407150daf2a2533e52c2d48b"
   },
   {
@@ -4296,7 +4292,7 @@ const questionBank = [
     ],
     "answer": "One two thousand seven hundred feet",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Altitude 01",
+    "sourceTitle": "Altitude 01",
     "itemId": "ge133f4c8509f43bf7dfa88afc65ad676"
   },
   {
@@ -4309,7 +4305,7 @@ const questionBank = [
     ],
     "answer": "Flight Level two five zero",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Altitude 02",
+    "sourceTitle": "Altitude 02",
     "itemId": "g86f6e49dc852e905634df61b1899c72e"
   },
   {
@@ -4322,7 +4318,7 @@ const questionBank = [
     ],
     "answer": "Speed one five miles per hour",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Speed 01",
+    "sourceTitle": "Speed 01",
     "itemId": "g864ef552932386b2c7e0d24b12fd3976"
   },
   {
@@ -4334,7 +4330,7 @@ const questionBank = [
     ],
     "answer": "False",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Time 01",
+    "sourceTitle": "Time 01",
     "itemId": "g222452a1b89f58ee11ba44cf57e3aecb"
   },
   {
@@ -4347,7 +4343,7 @@ const questionBank = [
     ],
     "answer": "Winds are from two seven zero",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Winds 01",
+    "sourceTitle": "Winds 01",
     "itemId": "ge366bfcc67e1a7058f6fa08182e30683"
   },
   {
@@ -4360,7 +4356,7 @@ const questionBank = [
     ],
     "answer": "Barnes Airport",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airport Lat/Long Location 01",
+    "sourceTitle": "Airport Lat/Long Location 01",
     "itemId": "ga61f1ddd0a20b28f11662a24794d7756"
   },
   {
@@ -4373,7 +4369,7 @@ const questionBank = [
     ],
     "answer": "Cooperstown Airport",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airport Lat/Long Location 02",
+    "sourceTitle": "Airport Lat/Long Location 02",
     "itemId": "g9e16697e6181775d2c538646e702c089"
   },
   {
@@ -4386,7 +4382,7 @@ const questionBank = [
     ],
     "answer": "Carrington Airport",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Airport Lat/Long Location 03",
+    "sourceTitle": "Airport Lat/Long Location 03",
     "itemId": "g58183c80f63f88f26086f2881e4b6a23"
   },
   {
@@ -4399,7 +4395,7 @@ const questionBank = [
     ],
     "answer": "1,707 MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Distance 01",
+    "sourceTitle": "Distance 01",
     "itemId": "g6f97a92a565b2884737e3f920a837d72"
   },
   {
@@ -4412,7 +4408,7 @@ const questionBank = [
     ],
     "answer": "1,653 MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Distance 02",
+    "sourceTitle": "Distance 02",
     "itemId": "g860f0ebf52f9ab1d4e4e9faa3d37053e"
   },
   {
@@ -4425,7 +4421,7 @@ const questionBank = [
     ],
     "answer": "1,960 MSL",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Distance 03",
+    "sourceTitle": "Distance 03",
     "itemId": "geb3aa01b6284bc70dbb97f619721e7e7"
   },
   {
@@ -4438,7 +4434,7 @@ const questionBank = [
     ],
     "answer": "3 sm",
     "explanation": "No explanation was provided in the Canvas export.",
-    "questionTitle": "Visibility 01",
+    "sourceTitle": "Visibility 01",
     "itemId": "g5628dca6f8469ad6d0051cf24cae7bb9"
   }
 ];
